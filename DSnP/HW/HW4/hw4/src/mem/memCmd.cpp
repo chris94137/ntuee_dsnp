@@ -79,7 +79,46 @@ CmdExecStatus
 MTNewCmd::exec(const string& option)
 {
    // TODO
-
+   vector<string> tokens;
+   if(!CmdExec::lexOptions(option, tokens)) return CMD_EXEC_ERROR;
+   if(tokens.size() == 2) return CmdExec::errorOption(CMD_OPT_EXTRA, tokens[1]);
+   else if(tokens.size() > 3) return CmdExec::errorOption(CMD_OPT_EXTRA, tokens[3]);
+   else
+   {
+      int num_objects;
+      if(!myStr2Int(tokens[0], num_objects))
+         return CmdExec::errorOption(CMD_OPT_ILLEGAL, tokens[0]);
+      if(tokens.size() == 1)
+      {
+         mtest.newObjs(num_objects);
+         #ifdef MEM_DEBUG
+         cout << "new objects : " << num_objects << endl;
+         #endif // MEM_DEBUG
+      }
+      // "-Array"
+      else
+      {
+         for(size_t i = 1; i < tokens[1].size(); i++)
+            tokens[1][i] = tolower(tokens[1][i]);
+         if(tokens.size() < 2) return CmdExec::errorOption(CMD_OPT_EXTRA, tokens[1]);
+         if(tokens[1][0] == '-' && tokens[1][1] == 'a' && tokens[1].size() <= 6)
+         {
+            string rightStr = "-Array";
+            for(size_t i = 2; i < tokens[1].size(); i++)
+               if(tokens[1][i] != rightStr[i]) return CmdExec::errorOption(CMD_OPT_EXTRA, tokens[1]);
+         }
+         else return CmdExec::errorOption(CMD_OPT_EXTRA, tokens[1]);
+         // "size_t arraysize"
+         int array_size;
+         if(!myStr2Int(tokens[2], array_size))
+            return CmdExec::errorOption(CMD_OPT_ILLEGAL, tokens[2]);
+         mtest.newArrs(num_objects, array_size);
+         #ifdef MEM_DEBUG
+         cout << "new array [" << array_size << "] : " << num_objects << endl;
+         #endif // MEM_DEBUG
+      }
+   }
+   
    // Use try-catch to catch the bad_alloc exception
    return CMD_EXEC_DONE;
 }
@@ -105,6 +144,10 @@ CmdExecStatus
 MTDeleteCmd::exec(const string& option)
 {
    // TODO
+   vector<string> tokens;
+   if(!CmdExec::lexOptions(option, tokens)) return CMD_EXEC_ERROR;
+   if(tokens.size() < 2) return CmdExec::errorOption(CMD_OPT_MISSING);
+   
 
    return CMD_EXEC_DONE;
 }

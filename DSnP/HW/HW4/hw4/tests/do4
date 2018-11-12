@@ -94,4 +94,6 @@ mtd -a -r 1234
 mtd -r 12345
 mtn 1234
 mtp
+
+usage
 q -f

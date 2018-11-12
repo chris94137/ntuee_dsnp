@@ -4,4 +4,6 @@ mtn 5 -a 512
 mtd -i 7 -a
 mtd -i 0 -a
 mtp
+
+usage
 q -f

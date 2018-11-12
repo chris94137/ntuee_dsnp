@@ -21,4 +21,6 @@ mtdel -i 8 -a
 mtp
 mtdel -i 12 -a
 mtp
+
+usage
 q -f

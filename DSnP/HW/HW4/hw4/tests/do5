@@ -15,4 +15,6 @@ mtdel -i 13 -a
 mtp
 mtr 120
 mtp
+
+usage
 q -f

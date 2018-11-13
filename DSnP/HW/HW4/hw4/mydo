@@ -1,0 +1,105 @@
+mtp
+mtd -i 731 -a
+mtd -r 2291 -a
+mtn 1
+mtn -a 29 1
+mtn 8
+mtd -i 110 -a
+mtd -r 2033 -a
+mtp
+mtn -a 684 3
+mtp
+mtn -a -155 6
+mtp
+mtn 3 -a 963
+mtn 4 -a -62
+mtd -a -r 9147
+mtd -a -r 3840
+mtd -r 3758 -a
+mtd -a -r 9135
+mtp
+mtn 5
+mtn 3 -a 518
+mtd -a -r 2956
+mtd -r 4198 -a
+mtp
+mtp
+mtn 7 -a 66
+mtd -i 507 -a
+mtn -a 256 7
+mtp
+mtn 8 -a 57
+mtn 6
+mtd -a -r -1661
+mtd -r 1287 -a
+mtp
+mtd -i -46 -a
+mtp
+mtp
+mtd -a -r 5420
+mtn -a 350 1
+mtp
+mtn -a 759 9
+mtn 1
+mtp
+mtn 9 -a 759
+mtn 5 -a 329
+mtn 3 -a 56
+mtn 1 -a 826
+mtn -a 130 3
+mtp
+mtn 6
+mtd -r 7736 -a
+mtn 3 -a 970
+mtn 4
+mtp
+mtp
+mtn 7 -a -38
+mtp
+mtd -a -r -791
+mtd -r 2918 -a
+mtp
+mtp
+mtn -a 782 1
+mtn -a 717 2
+mtn 1 -a 856
+mtd -r 4588
+mtn -a -168 6
+mtp
+mtd -i 322 -a
+mtn 7 -a 34
+mtp
+mtd -a -r -1935
+mtp
+mtp
+mtd -r -1424 -a
+mtd -r 9414 -a
+mtd -r 8427 -a
+mtp
+mtn -a 187 5
+mtp
+mtd -r 1116 -a
+mtd -i 931 -a
+mtn -a 236 7
+mtp
+mtn 2 -a 371
+mtd -i 982 -a
+mtd -i 52 -a
+mtp
+mtp
+mtp
+mtn 2
+mtp
+mtn -a 481 2
+mtp
+mtd -a -i 152
+mtd -a -r 5739
+mtd -r -1958 -a
+mtn 7
+mtd -r 8313 -a
+mtn 8 -a 993
+mtr 0
+mtr 65536
+mtr 100
+usage -all
+q -f

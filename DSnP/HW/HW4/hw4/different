@@ -1,0 +1,15 @@
+=== Generating test cases ===
+=== Running your code ===
+=== Runnning reference code ===
+=== Comparing results (using memTest-linux-18) ===
+6517808a6517809
+> Error: Illegal option!! (0)
+41513282a41513284
+> Error: Illegal option!! (0)
+57500218,57500219c57500220,57500221
+< Period time used : 116.8 seconds
+< Total time used  : 116.8 seconds
+---
+> Period time used : 100.7 seconds
+> Total time used  : 100.7 seconds
+

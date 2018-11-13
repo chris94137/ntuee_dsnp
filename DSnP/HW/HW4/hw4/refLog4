@@ -926,9 +926,9 @@ oxxoooxxoooxoxxoxooox
 
 mtest> 
 mtest> usage
-Period time used : 0.02 seconds
-Total time used  : 0.02 seconds
-Total memory used: 105.6 M Bytes
+Period time used : 0.01 seconds
+Total time used  : 0.01 seconds
+Total memory used: 104.3 M Bytes
 
 mtest> q -f
 

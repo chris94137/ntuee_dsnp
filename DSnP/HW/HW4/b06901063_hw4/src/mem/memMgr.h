@@ -147,12 +147,9 @@ class MemRecycleList
    // DO NOT release the memory occupied by MemMgr/MemBlock
    void reset() {
       // TODO
-		while(_first)
-		{
-			popFront();
-		}
-      if(_nextList)
-         _nextList->reset();
+		if(getNextList()) delete _nextList;
+      _first = 0;
+      _nextList = 0;
    }
 
    // Helper functions
@@ -210,8 +207,9 @@ public:
 		while(current_block)
 		{
 			current_block->reset();
+         auto temp = current_block->getNextBlock();
          delete current_block;
-			current_block = current_block->getNextBlock();
+			current_block = temp;
 		}
 		for(int i = 0; i < R_SIZE; i++)
 			_recycleList[i].reset();

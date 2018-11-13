@@ -180,7 +180,7 @@ MTDeleteCmd::exec(const string& option)
             option_ind = i;
             use_rand = true;
             if(i + 1 == tokens.size()) return CmdExec::errorOption(CMD_OPT_MISSING, tokens[i]);
-            if(!myStr2Int(tokens[i + 1], value) || value < 0)
+            if(!myStr2Int(tokens[i + 1], value) || value <= 0)
                return CmdExec::errorOption(CMD_OPT_ILLEGAL, tokens[i + 1]);
          }
          else return CmdExec::errorOption(CMD_OPT_ILLEGAL, tokens[i]);

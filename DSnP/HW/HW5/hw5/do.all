@@ -1,0 +1,51 @@
+#! /bin/zsh
+
+echo "========="
+echo do1
+echo "========="
+./$1 -f tests/do1 &> mine1.out
+./ref/$1 -f tests/do1 &> ref1.out
+echo do1 over!
+echo "========="
+echo do2 
+echo "========="
+./$1 -f tests/do2 &> mine2.out
+./ref/$1 -f tests/do2 &> ref2.out
+echo do2 over!
+echo "========="
+echo do3
+echo "========="
+./$1 -f tests/do3 &> mine3.out
+./ref/$1 -f tests/do3 &> ref3.out
+echo do3 over!
+echo "========="
+echo do4
+echo "========="
+./$1 -f tests/do4 &> mine4.out
+./ref/$1 -f tests/do4 &> ref4.out
+echo do4 over!
+echo "========="
+echo do5
+echo "========="
+./$1 -f tests/do5 &> mine5.out
+./ref/$1 -f tests/do5 &> ref5.out
+echo do5 over!
+echo "========="
+echo diff 1
+colordiff mine1.out ref1.out
+echo "========="
+echo diff 2
+colordiff mine2.out ref2.out
+echo "========="
+echo diff 3
+colordiff mine3.out ref3.out
+echo "========="
+echo diff 4
+colordiff mine4.out ref4.out
+echo "========="
+echo diff 5
+colordiff mine5.out ref5.out
+echo "========="
+echo Process done
+echo "========="
+

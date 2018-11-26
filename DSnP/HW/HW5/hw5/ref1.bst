@@ -36,5 +36,10 @@ adt> adtp
 [  4] = lyysht   [  5] = mzhunu   [  6] = qhuhlf   [  7] = qjrelw   
 
 
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
 adt> q -f
 

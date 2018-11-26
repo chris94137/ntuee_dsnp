@@ -100,5 +100,10 @@ adt> adtp
 === ADT (bst) ===
 
 
+adt> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
 adt> q -f
 

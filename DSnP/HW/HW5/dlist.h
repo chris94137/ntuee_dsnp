@@ -151,9 +151,8 @@ public:
       if (!empty())
       {
          //insertionSort(iterator(_head), size());
-         quickSort(begin(), --end(), size());
-         //mergeSort(begin(), size());
-         //mergeSort_iteration(begin(), end(), size());
+         //quickSort(begin(), --end(), size());
+         mergeSort(begin(), size());
          _isSorted = true;
       }
    }
@@ -164,12 +163,6 @@ private:
    mutable bool   _isSorted; // (optionally) to indicate the array is sorted
 
    // [OPTIONAL TODO] helper functions; called by public member functions
-   void swap(iterator a, iterator b) const
-   {
-      T tmp = a._node->_data;
-      a._node->_data = b._node->_data;
-      b._node->_data = tmp;
-   }
    void insertionSort(iterator first, size_t size) const
    {
       iterator current(first);
@@ -189,6 +182,12 @@ private:
          choose = current;
          min = current;
       }
+   }
+   void swap(iterator a, iterator b) const
+   {
+      T tmp = a._node->_data;
+      a._node->_data = b._node->_data;
+      b._node->_data = tmp;
    }
    void quickSort(iterator first, iterator last, size_t size) const
    {
@@ -228,52 +227,7 @@ private:
       if(size - mid > 1) mergeSort(miditer, size - mid);
       merge(first, miditer, mid, size - mid);
    }
-   void mergeSort_iteration(iterator first, iterator last, size_t size) const
-   {
-      iterator start;
-      size_t usedSize;
-      for(size_t currentSize = 1; currentSize <= size; currentSize = currentSize * 2)
-      {
-         for(start = first, usedSize = 0; start != last; usedSize += 2 * currentSize)
-         {
-            if(size - usedSize < currentSize) break;
-            iterator mid(start);
-            for(size_t i = 0; i < currentSize; ++i) ++mid;
-            size_t remainSize = (usedSize + 2 * currentSize > size)? size - usedSize - currentSize : currentSize;
-            merge(start, mid, currentSize, remainSize);
-            for(size_t i = 0; i < currentSize * 2; ++i)
-            {
-               if(start == last) break;
-               ++start;
-            }
-         }
-      }
-   }
    void merge(iterator first, iterator second, size_t size1, size_t size2) const
-   {
-      size_t total = size1 + size2;
-      vector<T> tmp;
-      iterator start1(first);
-      iterator start2(second);
-      while(size1 > 0 || size2 > 0)
-      {
-         if((start1._node->_data <= start2._node->_data || size2 == 0) && size1 != 0)
-         {
-            tmp.push_back(start1._node->_data);
-            ++start1;
-            --size1;
-         }
-         else if((start1._node->_data > start2._node->_data || size1 == 0) && size2 != 0)
-         {
-            tmp.push_back(start2._node->_data);
-            ++start2;
-            --size2;
-         }
-      }
-      int push = 0;
-      for(;total > 0; --total, ++first, ++push) first._node->_data = tmp[push];
-   }
-   void merge_inplace(iterator first, iterator second, size_t size1, size_t size2) const
    {
       while(size1 > 0 && size2 > 0)
       {
@@ -289,7 +243,6 @@ private:
             ++second;
             --size2;
          }
-      }
    }
    void shift(iterator a, iterator b) const
    {

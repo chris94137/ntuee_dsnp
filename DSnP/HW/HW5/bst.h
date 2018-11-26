@@ -10,6 +10,7 @@
 #define BST_H
 
 #include <cassert>
+#include <stack>
 
 using namespace std;
 

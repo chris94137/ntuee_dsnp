@@ -1,9 +1,0 @@
-adta -r 20
-adtp -v
-adtd -front 3
-adtp -v 
-adtd -back 5
-adtp -v
-adtd -rand 4
-adtp -v
-q -f

@@ -1,0 +1,4 @@
+cirr tests.fraig/opt02.aag
+cirp
+cirp -pi
+cirp -po

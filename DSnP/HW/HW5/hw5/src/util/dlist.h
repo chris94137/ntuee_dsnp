@@ -92,6 +92,7 @@ public:
 	}
    void pop_front()
 	{
+      if(empty()) return;
 		iterator tmp(begin());
 		_head = (++begin())._node;
 		begin()._node->_prev = (--end())._node;
@@ -100,12 +101,14 @@ public:
 	}
    void pop_back()
    {
+      if(empty()) return;
       iterator tmp(--end());
+      iterator e(end());
+      if(tmp._node->_prev == end()._node) _head = end()._node;
       iterator last(tmp);
       --last;
-      if(last == end()) _head = last._node;
       last._node->_next = tmp._node->_next;
-      end()._node->_prev = tmp._node->_prev;
+      e._node->_prev = tmp._node->_prev;
       delete tmp._node;
    }
 
@@ -119,14 +122,14 @@ public:
       delete pos._node;
       return true;
    }
-   bool erase(const T& x) { iterator target(find(x)); if(target == 0) return false; else return erase(target); }
+   bool erase(const T& x) { iterator target(find(x)); if(target == end()) return false; else return erase(target); }
 
    iterator find(const T& x)
    {
       iterator current(begin());
       for(iterator iter = begin(); iter != end(); ++iter)
          if(iter._node->_data == x) return iter;
-      return 0;
+      return end();
    }
 
    void clear()
@@ -226,7 +229,7 @@ private:
          ++miditer;
       if(mid > 1) mergeSort(first, mid);
       if(size - mid > 1) mergeSort(miditer, size - mid);
-      merge(first, miditer, mid, size - mid);
+      merge_inplace(first, miditer, mid, size - mid);
    }
    void mergeSort_iteration(iterator first, iterator last, size_t size) const
    {
@@ -240,7 +243,7 @@ private:
             iterator mid(start);
             for(size_t i = 0; i < currentSize; ++i) ++mid;
             size_t remainSize = (usedSize + 2 * currentSize > size)? size - usedSize - currentSize : currentSize;
-            merge(start, mid, currentSize, remainSize);
+            merge_inplace(start, mid, currentSize, remainSize);
             for(size_t i = 0; i < currentSize * 2; ++i)
             {
                if(start == last) break;
@@ -249,6 +252,7 @@ private:
          }
       }
    }
+   /*//use container
    void merge(iterator first, iterator second, size_t size1, size_t size2) const
    {
       size_t total = size1 + size2;
@@ -273,6 +277,7 @@ private:
       int push = 0;
       for(;total > 0; --total, ++first, ++push) first._node->_data = tmp[push];
    }
+   */
    void merge_inplace(iterator first, iterator second, size_t size1, size_t size2) const
    {
       while(size1 > 0 && size2 > 0)

@@ -2527,9 +2527,9 @@ adt> adtq ric
 "ric" is found.
 
 adt> usage
-Period time used : 0.72 seconds
-Total time used  : 0.72 seconds
-Total memory used: 2.109 M Bytes
+Period time used : 0.7 seconds
+Total time used  : 0.7 seconds
+Total memory used: 2.062 M Bytes
 
 adt> q -f
 

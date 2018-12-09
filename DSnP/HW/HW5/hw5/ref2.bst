@@ -3,7 +3,7 @@ adt> adta -r 5000
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adtp
 === ADT (bst) ===
@@ -1262,7 +1262,7 @@ adt> adtp
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adtp -r
 === ADT (bst) ===
@@ -2521,14 +2521,14 @@ adt> adtp -r
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adts
 
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adtp
 === ADT (bst) ===
@@ -3787,7 +3787,7 @@ adt> adtp
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adtp -r
 === ADT (bst) ===
@@ -5046,7 +5046,7 @@ adt> adtp -r
 adt> usage
 Period time used : 0 seconds
 Total time used  : 0 seconds
-Total memory used: 1.605 M Bytes
+Total memory used: 1.465 M Bytes
 
 adt> adtr 3
 
@@ -5055,7 +5055,7 @@ adt> adta -r 50000
 adt> usage
 Period time used : 0.02 seconds
 Total time used  : 0.02 seconds
-Total memory used: 4.551 M Bytes
+Total memory used: 4.531 M Bytes
 
 adt> adtp
 === ADT (bst) ===
@@ -17562,9 +17562,9 @@ adt> adtp
 
 
 adt> usage
-Period time used : 0.01 seconds
-Total time used  : 0.03 seconds
-Total memory used: 4.551 M Bytes
+Period time used : 0.03 seconds
+Total time used  : 0.05 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adtd -r 10000
 
@@ -27573,16 +27573,16 @@ adt> adtp -r
 
 
 adt> usage
-Period time used : 4.72 seconds
-Total time used  : 4.75 seconds
-Total memory used: 4.551 M Bytes
+Period time used : 4.55 seconds
+Total time used  : 4.6 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adts
 
 adt> usage
 Period time used : 0 seconds
-Total time used  : 4.75 seconds
-Total memory used: 4.551 M Bytes
+Total time used  : 4.6 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adtp
 === ADT (bst) ===
@@ -37589,23 +37589,23 @@ adt> adtp
 
 
 adt> usage
-Period time used : 0.01 seconds
-Total time used  : 4.76 seconds
-Total memory used: 4.551 M Bytes
+Period time used : 0.04 seconds
+Total time used  : 4.64 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adtd -r 10000
 
 adt> usage
-Period time used : 3.5 seconds
-Total time used  : 8.26 seconds
-Total memory used: 4.551 M Bytes
+Period time used : 3.47 seconds
+Total time used  : 8.11 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adts
 
 adt> usage
 Period time used : 0 seconds
-Total time used  : 8.26 seconds
-Total memory used: 4.551 M Bytes
+Total time used  : 8.11 seconds
+Total memory used: 4.531 M Bytes
 
 adt> adtp
 === ADT (bst) ===
@@ -45113,8 +45113,8 @@ adt> adtp
 
 adt> usage
 Period time used : 0.01 seconds
-Total time used  : 8.27 seconds
-Total memory used: 4.551 M Bytes
+Total time used  : 8.12 seconds
+Total memory used: 4.531 M Bytes
 
 adt> q -f
 

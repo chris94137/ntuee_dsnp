@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+echo "[ Generating test cases ]"
+python gen.py $2
+echo "[ Running your program ]"
+../hw5/adtTest.$1 <mydo &>out.mine
+echo "[ Running reference program ]"
+../hw5/ref/adtTest-linux18.$1 <mydo &>out.ref
+echo "[ Checking results ]"
+colordiff out.mine out.ref
+

@@ -158,18 +158,18 @@ public:
       }
       else insert(x, _root);
    }
-   void pop_front() { removeNode(begin()); }
-   void pop_back() { removeNode(iterator(_tail->_parent)); }
+   void pop_front() { if(!empty()) removeNode(begin()); }
+   void pop_back() { if(!empty()) removeNode(iterator(_tail->_parent)); }
 
    bool erase(iterator pos) { if(empty()) return false; else removeNode(pos); return true; }
-   bool erase(const T& x) { iterator iter = find(x); if(!iter._node) return false; else return erase(iter); }
+   bool erase(const T& x) { iterator iter = find(x); if(iter == end()) return false; else return erase(iter); }
 
    iterator find(const T& x)
    {
       //cerr << "find " << x << endl;
       iterator iter(begin());
       for(;iter != end(); ++iter) if(iter._node->_data == x) return iter;
-      return iterator(0);
+      return end();
    }
 
    void clear()

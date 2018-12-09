@@ -1,0 +1,10107 @@
+adta -r 210
+adtd -r 210
+adtp 112
+adtp 162
+adtp
+adta -r 470
+adtp 350
+adta -r 90
+adtp 678
+adta -s kziuk
+adtp
+adtr 4
+adta -r 690
+adta -r 170
+adta -r 890
+adtd -f 1280
+adtd -r 294
+adtd -f 17
+adts
+adtd -r 1977
+adta -r 580
+adtp
+adtq mbosj
+adta -r 820
+adta -r 70
+adtp
+adtq cflwf
+adtp 14
+adta -r 980
+adtd -f 4350
+adta -r 240
+adta -r 420
+adtd -f 4088
+adtd -f 665
+adtd -f 4390
+adtr 2
+adta -r 50
+adtd -b 102
+adtd -r 2512
+adtd -r 3015
+adta -r 170
+adtd -a
+adtr 10
+adtd -r 4455
+adtd -r 5842
+adta -r 610
+adts
+adtp -r
+adtd -r 6143
+adtp 4245
+adtd -b 5622
+adta -r 800
+adta -s kdmne
+adta -r 330
+adta -s jmhlj
+adtd -a
+adtd -a
+adtd -b 5875
+adtd -r 6946
+adtp
+adta -r 290
+adta -r 460
+adtp
+adtp
+adta -s lforr
+adtq mpohj
+adta -r 630
+adtd -r 7433
+adta -r 850
+adtd -r 5699
+adtd -b 3092
+adtd -f 3378
+adtd -s povet
+adtp -r
+adtp -r
+adtd -b 4852
+adtd -r 4397
+adta -r 940
+adta -s bhtwa
+adtd -r 6901
+adta -r 890
+adtq yxeqb
+adtd -b 5331
+adtd -r 1964
+adtr 6
+adtd -r 4236
+adta -r 840
+adtq oieob
+adtp
+adtr 9
+adta -r 180
+adta -s alnwi
+adtp 10355
+adtd -r 6072
+adtd -r 9584
+adtd -b 1436
+adtd -r 900
+adta -r 50
+adta -r 910
+adta -r 150
+adtd -r 11744
+adtd -s zvxfg
+adtd -r 7482
+adtd -b 8618
+adtp
+adta -r 500
+adtp
+adtd -b 3442
+adtp
+adtd -b 9945
+adtd -r 9580
+adtp -r
+adtp
+adtp -r
+adta -r 120
+adtd -f 12322
+adtd -r 8787
+adtd -a
+adta -r 500
+adta -r 960
+adta -r 450
+adta -r 690
+adtr 2
+adtd -r 2346
+adta -s dvxyk
+adts
+adtp -r
+adtq ypdht
+adtd -f 3935
+adtd -f 13938
+adtq aybbe
+adtd -r 4587
+adtd -s wzlyr
+adtd -b 8225
+adta -r 420
+adta -r 830
+adtp
+adta -r 670
+adtp
+adta -s iygda
+adtd -b 3471
+adta -r 280
+adta -r 880
+adtd -b 4802
+adtd -f 1952
+adta -s cccty
+adtd -r 8371
+adtd -s yomkq
+adtd -r 12946
+adta -r 550
+adta -r 440
+adtp 11753
+adtd -b 10932
+adta -s ptrdk
+adtp 16022
+adtp 10876
+adta -r 480
+adtp -r
+adta -r 450
+adta -r 550
+adtp
+adtd -r 8528
+adtq xmnaf
+adtp
+adtd -r 6876
+adta -r 520
+adtr 9
+adta -r 130
+adta -r 130
+adta -r 520
+adtd -r 13311
+adta -r 570
+adtd -r 22086
+adtd -r 3710
+adtd -r 24444
+adta -r 30
+adtd -f 20769
+adtr 8
+adtd -a
+adta -r 700
+adtp -r
+adtd -r 5276
+adta -r 990
+adta -s xxsri
+adtd -r 16582
+adta -r 300
+adtr 1
+adta -r 530
+adta -s vcycg
+adtq fqleq
+adtd -f 21477
+adtd -f 9866
+adtd -s bfqul
+adtd -f 2175
+adta -r 350
+adtp 5672
+adta -r 290
+adta -r 490
+adta -r 730
+adtp
+adta -r 910
+adta -r 70
+adta -r 680
+adtd -s kjhxv
+adtp -r
+adta -r 620
+adta -r 130
+adtp 4265
+adtd -r 3852
+adtd -b 18041
+adtd -s yomao
+adtd -r 15550
+adtp 8819
+adtd -r 29549
+adta -r 90
+adta -r 510
+adts
+adta -s pxlxv
+adta -r 220
+adtp -r
+adtp
+adtd -r 7713
+adtp 2406
+adta -r 340
+adta -r 420
+adtp
+adta -r 770
+adta -r 580
+adta -s lauku
+adta -r 600
+adtp -r
+adta -r 530
+adtd -f 5676
+adta -s tkyuk
+adtd -f 21773
+adta -r 40
+adtd -b 30369
+adtp
+adtd -s egnny
+adta -s bfttr
+adta -r 480
+adtd -f 7764
+adta -r 910
+adtp -r
+adtr 5
+adtp -r
+adta -r 330
+adta -r 430
+adtd -r 20044
+adta -r 870
+adtq hfpwc
+adtd -r 36923
+adtp
+adtd -r 14345
+adta -r 80
+adta -r 950
+adta -r 290
+adtd -b 38843
+adta -r 20
+adtd -r 19004
+adtd -s pbeiq
+adta -r 500
+adta -r 140
+adta -r 930
+adta -r 240
+adtd -s jqstz
+adtq jsrou
+adta -r 140
+adtd -a
+adtd -b 1069
+adtp -r
+adtd -b 22789
+adta -r 540
+adta -r 500
+adtd -r 7951
+adta -r 820
+adta -r 370
+adtd -f 42062
+adtd -r 31701
+adtd -f 977
+adts
+adta -s euvbx
+adtd -b 33600
+adtr 10
+adtq ncbdk
+adta -r 450
+adtp
+adtr 4
+adtd -f 21087
+adtd -r 28078
+adtd -a
+adtd -f 32148
+adtp
+adta -r 370
+adta -r 610
+adtd -f 13706
+adtp
+adtp
+adta -r 180
+adta -s bbexz
+adtr 3
+adtp 35830
+adtp
+adtp -r
+adtd -r 15805
+adtd -r 43626
+adta -r 390
+adta -r 900
+adta -r 10
+adta -r 360
+adta -r 510
+adtp
+adtd -r 3904
+adta -r 840
+adta -s ycjim
+adtr 8
+adta -s hxknu
+adta -r 130
+adta -s ggrig
+adtp 38780
+adta -r 780
+adtd -a
+adta -s vjsfq
+adtp 4670
+adtp -r
+adtp 9307
+adta -s sljcq
+adta -r 730
+adta -s wdrdb
+adtd -f 5352
+adtp -r
+adtr 10
+adtp 43036
+adtd -r 4241
+adta -r 330
+adta -r 260
+adta -r 940
+adta -s hakpr
+adtp
+adtp -r
+adta -r 290
+adtd -r 3808
+adta -r 580
+adtd -r 13802
+adtd -r 31006
+adtd -a
+adta -r 590
+adtp -r
+adtd -b 32657
+adtd -f 28890
+adta -r 990
+adtd -r 44852
+adtp -r
+adtp -r
+adta -r 630
+adtd -s grovd
+adta -r 870
+adta -r 480
+adtd -b 21349
+adtq wymzk
+adtp -r
+adta -r 790
+adtp
+adtd -f 13508
+adta -r 600
+adtp -r
+adtd -a
+adtd -b 20855
+adtp
+adtd -f 50413
+adta -r 160
+adtp 36242
+adtp
+adtd -r 19111
+adtr 4
+adtr 10
+adta -s txqmy
+adtd -r 28841
+adtp -r
+adtd -r 1449
+adta -r 870
+adtd -b 971
+adtp -r
+adta -s isnbg
+adtp
+adtp 1206
+adtd -f 3552
+adts
+adtd -b 12294
+adtp
+adta -r 940
+adtd -r 15292
+adtp 42719
+adtd -b 44010
+adta -r 370
+adtp
+adta -r 420
+adtq lrgje
+adtq ttiai
+adtd -b 16376
+adta -r 640
+adta -r 680
+adtr 4
+adta -r 890
+adtd -b 16420
+adta -r 150
+adtd -r 24766
+adtd -r 25649
+adtd -r 40434
+adtd -f 2847
+adtp 40910
+adtd -r 55260
+adta -r 140
+adtq tpgzz
+adta -r 340
+adta -r 40
+adtp -r
+adtp 40710
+adtd -f 56534
+adtd -b 14544
+adta -r 220
+adtd -a
+adta -s xfcut
+adtd -f 2106
+adtp
+adtd -s oaare
+adtd -r 10118
+adtq pylzg
+adtd -f 17464
+adtd -f 23341
+adtd -r 50526
+adta -r 600
+adta -r 300
+adta -r 440
+adta -r 990
+adtd -f 42140
+adtp
+adtr 3
+adtp 13915
+adtp 31692
+adtd -r 49091
+adtd -f 11066
+adtd -f 2084
+adta -r 410
+adtp
+adta -s cbqoe
+adta -s cqydp
+adta -r 500
+adtr 8
+adtd -r 35188
+adtp -r
+adta -s uiupx
+adtp 20569
+adtd -b 63329
+adtp 25845
+adtd -a
+adtd -r 63411
+adta -s siwgy
+adtd -b 32852
+adta -r 610
+adtd -r 28640
+adtd -b 18379
+adta -r 80
+adtd -a
+adtd -b 37883
+adtp -r
+adtd -r 20061
+adtd -f 52300
+adta -r 780
+adta -s wqewi
+adta -r 790
+adta -r 20
+adtp 3765
+adtd -s hcsyl
+adtd -f 13167
+adts
+adtd -r 31213
+adta -r 710
+adtd -b 25326
+adta -r 220
+adtd -f 26801
+adtd -a
+adtr 8
+adta -r 270
+adtp
+adts
+adta -r 270
+adtd -b 23484
+adtd -r 9439
+adtd -f 61130
+adta -r 70
+adta -s guozn
+adtq svole
+adtd -r 14848
+adtd -r 14916
+adtq afnvw
+adta -r 640
+adtd -r 17794
+adtq ftvtk
+adtd -b 12370
+adtp -r
+adtd -s wenpx
+adtp -r
+adtd -a
+adta -r 690
+adta -r 220
+adta -r 140
+adtp 59284
+adta -r 10
+adtd -b 19359
+adta -r 810
+adta -r 280
+adtd -b 53745
+adtq mnjqy
+adtp 42117
+adtd -a
+adta -r 740
+adtd -f 37189
+adta -r 220
+adtp 12829
+adta -r 840
+adtp 14620
+adtp -r
+adtd -r 38583
+adta -r 350
+adtq rubmv
+adta -s nhplm
+adtd -a
+adtq lfrgu
+adtp -r
+adtd -f 64147
+adta -r 510
+adta -r 320
+adta -r 60
+adta -r 50
+adta -r 290
+adtp
+adta -r 560
+adtd -b 42101
+adtd -b 14214
+adta -r 770
+adtq tzqxo
+adtd -b 356
+adtp 76528
+adta -r 480
+adta -r 500
+adta -r 430
+adtd -f 49062
+adta -r 640
+adtp 60380
+adta -r 930
+adtp
+adtr 10
+adta -r 200
+adta -r 920
+adtd -f 64309
+adtp -r
+adtp
+adta -r 20
+adta -r 560
+adta -r 220
+adtd -s okbev
+adta -r 770
+adtd -s eyysl
+adta -s hicas
+adtd -r 43712
+adta -s cgnou
+adtd -r 73782
+adtp -r
+adta -r 560
+adtq qigdz
+adtd -r 5131
+adtp 45984
+adtd -f 14378
+adtd -f 26308
+adtr 5
+adtd -f 54907
+adtp -r
+adtd -r 84004
+adtr 5
+adta -r 820
+adts
+adta -r 560
+adtr 7
+adtp 69155
+adtd -r 81151
+adta -r 990
+adtr 3
+adtd -r 43667
+adtr 10
+adtp -r
+adta -r 550
+adtd -b 66056
+adtp -r
+adtd -b 70160
+adta -r 630
+adtr 3
+adta -r 720
+adtd -a
+adtp 42972
+adta -r 710
+adtp 43970
+adta -r 280
+adtd -r 13373
+adtd -a
+adtp -r
+adtd -b 89370
+adtp
+adta -s ydech
+adtp -r
+adta -s sqyzd
+adtd -r 59655
+adta -r 570
+adtp
+adtd -b 15290
+adtd -r 3411
+adta -r 980
+adta -r 300
+adtq lavmd
+adtd -r 53369
+adta -r 560
+adtd -s lzxgu
+adtq vvkeh
+adta -s amyfo
+adta -r 810
+adtr 6
+adtp 38683
+adtd -s bldki
+adtq ujlae
+adtp -r
+adtd -r 69411
+adtr 3
+adtp -r
+adta -r 530
+adtp
+adtp -r
+adta -r 20
+adtd -r 85633
+adtd -b 62541
+adta -r 730
+adtd -r 66570
+adtr 2
+adtd -r 76086
+adta -r 680
+adta -s wxraz
+adtd -r 39584
+adtp 73805
+adtp 25764
+adta -s asrjj
+adta -r 870
+adta -r 810
+adta -r 990
+adta -r 690
+adta -s ltoeu
+adtd -r 45804
+adtp -r
+adtp 77793
+adta -r 530
+adtr 5
+adtd -s uddkx
+adta -r 180
+adtp
+adtp -r
+adta -s igepp
+adtd -r 13853
+adtd -r 21582
+adta -s vgtfn
+adta -s glinx
+adtd -r 63215
+adts
+adtd -f 19070
+adtd -r 74764
+adtq swgla
+adtp -r
+adtp 35691
+adta -r 390
+adtd -f 63359
+adtd -r 55838
+adtp
+adta -s jxdht
+adtp 97260
+adtd -b 9503
+adtp
+adtp
+adtd -f 46716
+adtd -r 17290
+adta -r 730
+adtd -f 34996
+adtd -r 90225
+adtd -r 51121
+adta -r 750
+adta -r 110
+adtp
+adta -r 770
+adtp
+adtd -b 84886
+adtd -b 92406
+adtd -a
+adtd -f 96062
+adtq dbggg
+adtd -s oleyn
+adtp
+adtd -r 94562
+adtr 5
+adta -r 820
+adta -s qpjxd
+adta -r 710
+adtp 10089
+adtd -f 100077
+adtd -r 12960
+adtd -r 57529
+adtd -a
+adtp 81651
+adtd -s ykivl
+adtd -f 55188
+adtd -b 33357
+adtd -a
+adtq rdduy
+adta -r 10
+adtd -f 27324
+adtd -a
+adtd -r 46610
+adta -r 810
+adta -s fieig
+adta -s jmdfm
+adta -s nssht
+adta -r 820
+adtp -r
+adtd -r 77952
+adtd -s aewqd
+adta -r 800
+adta -r 30
+adtd -a
+adta -r 230
+adta -r 640
+adtd -f 35478
+adta -r 290
+adta -r 410
+adtd -f 36162
+adtd -b 54624
+adta -r 720
+adta -s ztyod
+adtd -r 3176
+adta -r 510
+adtq fydam
+adta -s wcduu
+adta -r 280
+adta -s orxnk
+adtp 106379
+adtd -r 87379
+adtd -f 19042
+adta -r 710
+adtr 6
+adta -r 590
+adtr 3
+adtp -r
+adtd -a
+adtp -r
+adtp -r
+adta -r 720
+adtp 14952
+adtd -f 2781
+adtp
+adtd -b 7411
+adts
+adtd -f 63454
+adtr 5
+adtp 28187
+adta -r 120
+adta -r 590
+adta -r 170
+adtd -a
+adtd -r 43659
+adta -r 110
+adta -r 500
+adts
+adtd -f 89451
+adtd -f 58053
+adtd -r 110740
+adtp -r
+adtd -f 95071
+adta -r 270
+adtq kejbq
+adtp 27078
+adta -r 670
+adtq exmtd
+adta -r 700
+adtp -r
+adtp 102982
+adts
+adta -r 80
+adtp -r
+adta -r 720
+adta -r 840
+adtd -a
+adta -r 610
+adta -r 190
+adta -r 300
+adta -r 790
+adtp -r
+adtp 448
+adta -r 320
+adta -r 560
+adtp -r
+adta -r 160
+adtp
+adta -r 900
+adta -r 210
+adtp
+adta -r 900
+adtp -r
+adtd -r 35561
+adtd -r 30476
+adta -r 430
+adta -s dfywb
+adtr 10
+adtq sfhgl
+adtp
+adts
+adta -r 900
+adtq mkfqr
+adtd -f 73398
+adtp -r
+adtp -r
+adtr 8
+adtp 69557
+adtd -s uzvzb
+adtd -r 38304
+adtd -f 6837
+adtp
+adtr 4
+adtd -r 69296
+adtp 38788
+adtd -s diqnp
+adtd -f 76145
+adta -s fhxde
+adta -r 850
+adtd -f 49422
+adta -r 230
+adta -s coiln
+adtd -r 69774
+adta -r 930
+adta -s abwvc
+adtd -f 94925
+adtp -r
+adtp 22563
+adtp 51621
+adtd -f 118019
+adtd -f 103082
+adta -r 600
+adta -s hxhvh
+adta -r 980
+adtd -r 121401
+adta -r 980
+adtp 59165
+adtd -a
+adta -r 470
+adts
+adta -s xjvni
+adtd -r 45906
+adta -r 280
+adtd -f 63948
+adtd -b 58116
+adtp
+adta -r 910
+adta -r 410
+adta -r 110
+adta -r 320
+adtd -r 29429
+adta -r 190
+adta -r 910
+adta -r 760
+adtp
+adtd -r 71407
+adtd -a
+adta -r 390
+adta -r 520
+adtd -s hnjrd
+adtd -b 57419
+adtd -b 40017
+adtr 4
+adtp 85076
+adtr 7
+adtd -b 62823
+adta -r 440
+adtd -s gpsai
+adtd -b 40207
+adtd -f 17086
+adtr 9
+adtp -r
+adtd -r 120221
+adtd -s hccmt
+adtd -a
+adta -r 930
+adtd -r 82667
+adtd -b 118965
+adtd -s mcpmk
+adta -s mpscw
+adtd -r 18226
+adtd -r 13937
+adtd -r 50111
+adtp 102722
+adtd -r 71334
+adtd -r 21905
+adta -r 430
+adtd -s qsydk
+adta -r 600
+adtq gvczr
+adtd -r 70945
+adta -r 400
+adtd -f 91434
+adtd -f 13885
+adtp 21084
+adta -r 390
+adtd -r 27614
+adtd -r 48088
+adta -r 440
+adta -r 210
+adtp 83315
+adtp 97242
+adta -r 440
+adtp
+adtp 121309
+adtq jjlpf
+adta -r 360
+adta -r 380
+adtd -b 54207
+adta -s xqvau
+adta -r 880
+adtp -r
+adtp -r
+adta -r 340
+adta -s gesml
+adtp 30172
+adtd -r 70548
+adtp 49904
+adtd -f 4818
+adtd -f 84062
+adtp -r
+adtp
+adta -s tmdks
+adtd -r 32909
+adta -r 470
+adtp -r
+adtp 115408
+adtd -s shbgy
+adtp
+adtp 108099
+adtq xumen
+adtd -r 120518
+adta -r 280
+adtd -b 115566
+adtd -s gcyix
+adtd -a
+adta -r 490
+adta -s grohf
+adts
+adta -r 980
+adtp 56783
+adtd -a
+adta -r 630
+adtd -b 129045
+adtd -r 35223
+adtd -r 103202
+adta -s aydxf
+adtd -s imirb
+adta -r 420
+adtd -b 8287
+adtq mmvjt
+adta -r 470
+adtd -r 119341
+adtd -b 104985
+adtd -b 57706
+adta -r 980
+adta -s xnoso
+adta -r 330
+adtd -f 7608
+adtd -b 64012
+adtd -b 59590
+adtd -r 75538
+adta -r 90
+adtp 65439
+adtp 98479
+adtd -r 4593
+adtq gthxn
+adtp
+adta -r 890
+adtp
+adtd -r 83908
+adtp
+adtd -f 126560
+adta -r 60
+adtp -r
+adta -s lotpa
+adta -r 660
+adtd -r 30620
+adtp
+adtd -b 10937
+adta -r 680
+adta -r 170
+adta -r 950
+adtp 7184
+adtp -r
+adta -s tliax
+adtq bhwcg
+adtd -f 127832
+adtp 81916
+adta -r 370
+adtd -b 33198
+adtp 95924
+adtd -f 2354
+adta -r 880
+adtr 9
+adtp -r
+adtp -r
+adtd -f 57505
+adtr 7
+adta -r 970
+adta -r 140
+adtd -a
+adta -r 390
+adta -r 40
+adta -r 570
+adtq eiwow
+adta -s vybrc
+adta -r 530
+adtd -r 88135
+adtp
+adtd -r 26327
+adtd -b 56478
+adta -r 780
+adtq ruqzm
+adtd -f 28521
+adta -r 140
+adtp
+adta -r 280
+adta -r 200
+adta -r 630
+adtd -f 103719
+adta -r 930
+adta -r 810
+adtq dfgdz
+adtd -s qyfap
+adtp 128793
+adtp
+adta -r 270
+adtd -b 1048
+adtp -r
+adtd -r 50819
+adta -r 110
+adta -r 680
+adtd -b 48166
+adta -r 980
+adtp
+adtd -f 121432
+adta -r 120
+adta -r 420
+adtd -b 119301
+adtd -b 81572
+adtp -r
+adtq ywfbn
+adtd -f 50547
+adtr 3
+adta -r 330
+adtp
+adtd -f 139463
+adtd -r 133570
+adtr 10
+adtd -f 151121
+adtd -b 30788
+adtq pgbsi
+adtr 7
+adtp
+adta -r 40
+adta -s cuwnv
+adtd -s gsqmx
+adtq asjfv
+adta -r 510
+adta -r 930
+adta -r 30
+adta -r 650
+adtp
+adtq tyhvl
+adtd -f 97866
+adta -r 610
+adtp
+adta -r 440
+adtr 5
+adtd -s wknfg
+adtr 10
+adta -r 590
+adta -r 700
+adta -s kgvsx
+adtd -r 25873
+adtd -b 104553
+adta -r 830
+adtr 6
+adta -r 490
+adtp -r
+adta -r 980
+adtq egwdr
+adtd -s eumjw
+adtd -s wwbvj
+adta -r 540
+adta -s fkuiv
+adtq mlykx
+adta -r 70
+adta -r 420
+adtp
+adta -r 310
+adtd -r 15924
+adta -r 720
+adtd -b 42702
+adtq sqcho
+adtd -b 57246
+adtd -a
+adtd -a
+adtr 9
+adtd -r 44983
+adtq ropjo
+adta -r 580
+adta -r 450
+adta -r 40
+adtp
+adtr 7
+adta -s mhlpv
+adta -r 870
+adta -r 410
+adta -r 830
+adtd -a
+adta -r 540
+adtd -s yaylr
+adtd -f 92219
+adtd -s zajji
+adtd -r 50423
+adtr 2
+adta -s mkcit
+adta -r 320
+adtd -s xzold
+adtd -r 149439
+adtd -b 139805
+adta -r 640
+adtd -r 21600
+adtp -r
+adta -r 910
+adtp 20274
+adtp -r
+adtd -a
+adta -s xpsiv
+adta -s hqsks
+adtp
+adtd -b 147067
+adtp -r
+adtr 1
+adtp 71364
+adtd -r 30351
+adtd -r 104832
+adta -s nzqto
+adtd -r 58407
+adtd -a
+adtp 49509
+adta -r 680
+adtp -r
+adta -r 870
+adta -r 670
+adta -r 570
+adta -r 380
+adtp
+adta -r 340
+adtp 58221
+adtp -r
+adtd -a
+adta -r 710
+adtd -r 109805
+adta -r 690
+adtd -a
+adtp 60438
+adtp 86591
+adtd -s lgwbd
+adtd -r 59513
+adta -r 80
+adtd -b 158746
+adtq gepwi
+adtp 155326
+adtd -f 11352
+adts
+adtd -s tbscf
+adtq gyjqh
+adtp -r
+adta -r 670
+adta -r 240
+adtr 9
+adtd -r 68157
+adta -r 30
+adtp
+adta -r 480
+adta -r 930
+adtp -r
+adtd -f 66234
+adtd -f 146704
+adts
+adtd -b 157431
+adta -r 300
+adta -r 550
+adta -r 450
+adta -r 290
+adta -r 390
+adtd -b 28116
+adtd -r 134299
+adtp
+adtq slywo
+adtr 7
+adtp -r
+adtd -s scazo
+adta -r 770
+adta -r 260
+adta -r 190
+adtp 33553
+adta -r 260
+adtd -r 125580
+adtr 1
+adtd -f 158020
+adtd -f 37273
+adta -s nlddg
+adtd -b 96179
+adtq sbshz
+adta -s zhoyl
+adtr 6
+adtd -r 120995
+adtp
+adtd -f 109733
+adtp
+adtp
+adtd -f 69931
+adta -r 130
+adtd -r 75254
+adta -r 690
+adtd -s vbsjp
+adtr 9
+adtd -r 115760
+adta -r 770
+adtd -s lxmxt
+adta -s ehhxv
+adtd -b 153901
+adtd -f 119642
+adtp -r
+adta -r 840
+adtp
+adtp -r
+adta -r 750
+adta -r 320
+adtd -r 167846
+adta -r 220
+adtp -r
+adtp
+adtr 10
+adta -r 550
+adtp 58817
+adta -r 280
+adtp 134224
+adta -r 830
+adta -r 540
+adtp 7416
+adtq efvfe
+adtd -b 113240
+adtd -r 154250
+adta -r 230
+adta -r 440
+adtd -r 86839
+adta -r 520
+adtp
+adtr 4
+adtd -f 63165
+adtd -b 142324
+adtd -f 141179
+adtp 93534
+adta -r 850
+adtd -r 77490
+adtd -b 182037
+adtd -s ticdk
+adta -r 590
+adtd -r 135402
+adta -r 770
+adta -r 10
+adta -r 570
+adta -r 830
+adta -r 140
+adtr 9
+adtd -b 2941
+adtp 41376
+adtd -r 119736
+adtd -r 26765
+adtd -r 110038
+adta -s eozcx
+adta -s mayme
+adtq vxxuu
+adtd -f 22254
+adtd -b 156973
+adtd -s srjqd
+adtd -r 109000
+adta -r 190
+adta -s kwcuo
+adtq vdgqk
+adtd -f 38166
+adtd -r 131993
+adtp -r
+adta -s dyazw
+adtp 191784
+adtp -r
+adta -s uyphf
+adta -s lbkaq
+adtd -r 52612
+adtq nlyyl
+adtr 7
+adtq tttzp
+adtr 1
+adtp
+adta -r 130
+adtd -f 49939
+adta -s nnvny
+adta -r 960
+adta -s ywewh
+adtd -a
+adtd -a
+adta -r 630
+adtp -r
+adtd -f 141556
+adtd -r 76788
+adtd -r 188005
+adta -r 940
+adtp
+adtr 6
+adta -r 280
+adtp 64112
+adta -r 280
+adtd -f 60267
+adtd -a
+adta -s nqwdb
+adtd -b 72218
+adtp -r
+adtd -s pguxz
+adta -r 880
+adtp
+adta -s xjpqo
+adta -r 500
+adta -r 770
+adtp
+adta -r 640
+adtd -b 170158
+adtq mwapo
+adta -r 640
+adtd -r 55711
+adtd -r 40544
+adtp -r
+adta -r 670
+adtd -b 138688
+adtd -r 106639
+adtp 160251
+adta -r 110
+adtp 91248
+adtd -f 41462
+adtq hyyma
+adtp -r
+adtq stwli
+adtd -b 140704
+adta -r 880
+adta -r 460
+adta -r 310
+adta -r 340
+adtd -f 174859
+adta -r 620
+adta -r 210
+adtp -r
+adta -r 820
+adtd -r 183980
+adtd -b 202853
+adta -s qzngq
+adtd -f 127762
+adtp -r
+adta -r 50
+adtp
+adtp 204066
+adta -r 860
+adtd -r 128891
+adta -r 500
+adtd -s bzchm
+adta -r 350
+adta -r 590
+adtd -f 175347
+adta -r 510
+adtp -r
+adtd -r 115425
+adta -r 440
+adtd -s kbtiw
+adta -r 610
+adtd -s ohinm
+adtd -r 201503
+adta -r 160
+adta -r 880
+adtd -f 195091
+adta -r 590
+adtp -r
+adtp 89307
+adtd -b 19730
+adta -s babjt
+adtr 2
+adta -s gkkjk
+adts
+adtp -r
+adtd -r 36459
+adtd -r 204393
+adta -r 880
+adta -r 680
+adts
+adta -r 710
+adtd -f 26290
+adtq snogw
+adtp -r
+adtd -r 117030
+adtd -b 38817
+adtp -r
+adtd -r 16546
+adtd -b 44976
+adta -r 530
+adta -r 360
+adtp -r
+adtp 168902
+adtp -r
+adtp 109584
+adtd -f 6421
+adtd -r 102062
+adtq bhoyn
+adtd -r 135845
+adtp 158700
+adtd -f 9290
+adtd -a
+adta -r 300
+adtp 191401
+adtp
+adtp
+adtp -r
+adtd -f 209075
+adta -r 570
+adtd -r 87933
+adtd -a
+adtd -r 102165
+adtd -r 8310
+adta -r 550
+adta -r 80
+adtq krnsb
+adta -r 470
+adtp -r
+adta -s derll
+adtd -s cudau
+adta -r 560
+adtp -r
+adtd -b 210918
+adtd -f 201741
+adta -s oybmm
+adtp -r
+adtd -r 18700
+adta -r 360
+adtd -r 40867
+adtd -f 18120
+adta -r 820
+adta -r 240
+adtr 6
+adtd -r 68353
+adtd -r 39011
+adtd -f 109363
+adtd -s djogw
+adtd -f 140559
+adta -r 500
+adta -r 200
+adtd -f 18324
+adta -r 770
+adta -r 230
+adtr 5
+adta -s vqfed
+adta -s brbzp
+adtd -s idnml
+adta -r 830
+adtp 85483
+adtp
+adtp
+adta -r 510
+adta -r 440
+adtr 6
+adtp 157673
+adtp 154981
+adtp
+adta -r 920
+adta -r 290
+adtd -r 76117
+adta -s ftfos
+adtd -r 73683
+adta -r 140
+adtp 175236
+adta -r 710
+adtp 87301
+adta -r 60
+adta -s yzvuz
+adtr 10
+adtp 118080
+adtd -s vtueu
+adtr 5
+adtd -r 29874
+adtp 88537
+adtp 190369
+adta -r 910
+adta -s tpsth
+adtd -r 54550
+adtp
+adta -r 430
+adta -r 130
+adtd -b 211559
+adtd -b 21430
+adta -r 580
+adtd -r 25140
+adta -s npjzn
+adtr 1
+adtq vrdmt
+adta -r 830
+adtd -r 209706
+adta -r 550
+adta -s fhgna
+adtp 154914
+adtd -r 2999
+adtr 6
+adta -s loujd
+adtp -r
+adtp -r
+adtd -r 223460
+adtd -f 186025
+adta -r 840
+adta -r 320
+adtd -r 159432
+adta -r 880
+adta -s ukojs
+adtp 186186
+adta -r 280
+adta -r 830
+adtq uufsf
+adta -s yzqke
+adta -s vrfcb
+adtd -r 5128
+adtp
+adta -s vmvaz
+adtd -r 124756
+adta -r 20
+adtp -r
+adtp
+adtr 1
+adta -r 400
+adtp
+adtr 2
+adtp -r
+adtd -r 200534
+adta -r 220
+adtp
+adtp
+adtd -r 30912
+adta -r 90
+adta -r 510
+adtp 27092
+adtd -b 139229
+adta -r 930
+adtd -f 56511
+adtp -r
+adtp 16744
+adtd -f 63052
+adtd -f 84601
+adtp
+adtp 81915
+adta -s xmhsg
+adta -r 170
+adtp -r
+adtd -r 173291
+adtd -a
+adtp
+adtd -r 7159
+adta -s szglf
+adtp -r
+adta -s ujzmm
+adtr 6
+adtr 3
+adta -r 150
+adtp -r
+adtd -b 185869
+adtp
+adta -r 260
+adtd -f 159803
+adta -r 110
+adtp 10444
+adtd -f 47512
+adtp
+adtp 70172
+adtq qmjip
+adta -r 460
+adtq bygys
+adta -r 230
+adtd -r 20330
+adtq fvwaa
+adta -r 70
+adta -r 640
+adta -s tzvsu
+adta -r 810
+adtp -r
+adta -s zwmzu
+adta -r 180
+adtr 7
+adtp -r
+adtp
+adtp 159480
+adta -s igmvx
+adta -r 890
+adtd -r 222479
+adtd -b 166968
+adta -r 760
+adta -r 420
+adtd -f 33582
+adtd -f 198172
+adtd -b 141859
+adtd -r 220298
+adta -r 360
+adtd -r 89880
+adtd -r 152602
+adtp -r
+adtp 194716
+adta -s ffezj
+adtd -f 203445
+adtd -r 28228
+adtp -r
+adta -r 960
+adta -r 390
+adta -s xibma
+adta -s rpcyn
+adtq anuxe
+adtd -b 156487
+adtd -r 43261
+adtp
+adtd -r 148455
+adtd -b 120097
+adta -r 370
+adtd -s ustaq
+adtd -s lagxr
+adtp
+adta -r 940
+adtd -s qopvf
+adtp -r
+adta -r 610
+adtp
+adtd -s avlcy
+adta -r 130
+adta -r 610
+adtq ghvsl
+adtd -a
+adta -r 620
+adtp -r
+adtd -s zqqhf
+adtp -r
+adtp
+adtd -r 205403
+adtd -r 227812
+adtp
+adtd -r 239985
+adtp -r
+adta -r 980
+adtq qxyuy
+adta -s ctibg
+adtq dxipi
+adta -r 370
+adtd -r 27075
+adta -r 220
+adta -r 870
+adtp 161187
+adtd -b 223786
+adtd -b 165963
+adtd -f 80765
+adtd -f 98899
+adtd -r 66376
+adtr 2
+adtp
+adta -r 850
+adtp -r
+adtd -r 228071
+adta -s oullf
+adta -r 420
+adtp 15972
+adtr 8
+adta -r 580
+adta -r 570
+adtd -b 77717
+adta -r 960
+adtd -s nhawb
+adtp -r
+adtd -f 158984
+adtd -r 144701
+adtd -r 67026
+adtd -r 63783
+adtd -b 42003
+adtd -a
+adta -r 590
+adta -s hwnnl
+adtd -r 167683
+adta -r 850
+adtr 1
+adta -r 760
+adtd -a
+adtd -b 133172
+adta -r 90
+adta -s pzthh
+adtq sqdcj
+adtd -r 143069
+adtd -r 106139
+adta -r 940
+adtp
+adta -r 740
+adtp
+adtd -b 239576
+adtd -r 90170
+adtd -s cvhdv
+adtd -r 65198
+adta -r 810
+adta -r 760
+adtp
+adta -s rhdag
+adtp -r
+adtp -r
+adtq qcdbv
+adta -r 720
+adta -r 500
+adtd -f 235327
+adtp -r
+adtp 224639
+adta -r 550
+adtd -s nihue
+adta -s svevi
+adtd -r 232591
+adtd -r 37431
+adtd -r 60659
+adtd -a
+adtp
+adta -r 960
+adta -r 740
+adtd -a
+adta -s lfbwv
+adtd -r 176677
+adta -r 690
+adtd -a
+adtq qrxaa
+adta -s odume
+adtq ardpo
+adtd -f 80960
+adta -r 380
+adta -s ycfpj
+adta -r 150
+adta -r 540
+adtd -f 30829
+adtr 1
+adtr 7
+adtd -r 118304
+adtp -r
+adta -s hlyii
+adta -r 130
+adtd -r 248789
+adtd -f 211057
+adtd -r 165827
+adtd -s mcskd
+adtr 10
+adta -r 880
+adtr 4
+adtd -f 249548
+adta -s ifglb
+adta -r 420
+adta -r 530
+adta -r 990
+adts
+adta -r 170
+adtp -r
+adtd -a
+adtd -b 99390
+adtd -a
+adta -r 300
+adtq mxmyp
+adtd -f 77550
+adtd -r 228889
+adtp
+adta -s mxsmy
+adtd -a
+adta -r 720
+adta -r 900
+adta -r 480
+adta -r 320
+adta -r 160
+adta -r 410
+adtr 3
+adtd -r 204702
+adtd -a
+adta -s hrktv
+adta -r 510
+adta -r 220
+adtq xlkog
+adtp -r
+adtd -f 215237
+adta -r 420
+adta -r 140
+adta -r 970
+adta -s vdihp
+adta -r 780
+adtd -s nkriq
+adtd -a
+adtd -s sjyuq
+adtd -r 124314
+adta -r 660
+adtd -r 45645
+adta -r 420
+adtd -r 261531
+adta -r 160
+adtp -r
+adtp
+adtd -f 138772
+adtq qcpst
+adtp 114608
+adtp
+adta -r 420
+adta -r 620
+adtp 84483
+adta -r 930
+adtd -r 178506
+adtd -a
+adtp 253832
+adta -r 90
+adtd -r 132713
+adtq tfbvn
+adtd -r 3137
+adta -r 60
+adtr 4
+adtp -r
+adta -r 30
+adta -r 560
+adtp -r
+adtd -r 269622
+adta -r 760
+adtd -s bvkrq
+adtd -r 148993
+adtq rxbgm
+adta -r 600
+adts
+adtp 180160
+adta -r 510
+adta -r 600
+adtp -r
+adtp -r
+adta -r 990
+adta -r 830
+adtd -f 172822
+adtd -b 142261
+adta -r 570
+adta -r 700
+adtp 9421
+adta -r 190
+adtd -f 219614
+adtq obydo
+adta -r 640
+adtd -b 185780
+adtd -f 34768
+adtd -r 269142
+adtd -r 218609
+adta -r 530
+adtp
+adta -r 910
+adta -r 760
+adtd -s hwuul
+adtd -r 176945
+adtp
+adta -s azuwz
+adtd -f 175087
+adtd -s mwnec
+adtd -a
+adtd -b 107514
+adta -r 800
+adta -r 140
+adta -r 60
+adtp 189148
+adta -s jdtpo
+adta -r 870
+adta -r 270
+adtp
+adta -s tzfwj
+adtd -f 254781
+adtp
+adta -r 450
+adtd -r 278743
+adta -r 900
+adtp 156201
+adtr 2
+adtd -s mdziq
+adtd -b 28505
+adta -r 210
+adtp 166559
+adta -r 650
+adtd -f 166140
+adtq trkyu
+adtd -r 243767
+adta -r 930
+adtd -b 172149
+adtp 16753
+adtp -r
+adta -r 470
+adtp 27702
+adtp -r
+adta -r 490
+adta -r 250
+adta -r 660
+adta -r 390
+adtd -r 194388
+adtp
+adta -r 700
+adts
+adtd -b 239505
+adtq dqvco
+adtd -s xatfp
+adtr 3
+adtp
+adta -r 600
+adtq devjq
+adta -s lxvkq
+adtp 83972
+adtd -r 67478
+adtp 183187
+adta -r 890
+adtd -r 273924
+adtp 143471
+adtd -s hnhyl
+adta -r 440
+adta -r 790
+adta -r 390
+adtd -r 178821
+adtp 185658
+adtq gpewj
+adtp -r
+adta -r 880
+adta -r 130
+adtp
+adtd -b 217009
+adtd -b 35748
+adta -r 790
+adtp 276294
+adtp -r
+adtp -r
+adtd -r 84587
+adtq guuwh
+adtd -f 173468
+adtd -f 155287
+adtr 2
+adtd -r 142004
+adtd -r 248606
+adtd -a
+adtd -r 91940
+adtd -r 22238
+adta -s rafhj
+adtd -b 102713
+adta -r 240
+adtq zartl
+adta -r 710
+adtp
+adtd -f 147300
+adtp -r
+adta -r 590
+adta -s zvize
+adtd -f 111298
+adtp -r
+adtp 187513
+adtd -r 167390
+adtd -r 154550
+adtd -r 292885
+adtd -b 64053
+adtd -r 25261
+adta -r 590
+adtp
+adtp
+adts
+adtp -r
+adtq ymhnv
+adtd -r 51949
+adta -s bynbj
+adta -r 910
+adtp -r
+adtr 2
+adta -s oswks
+adtq gjowt
+adtd -r 42362
+adtd -f 288491
+adta -r 640
+adtd -a
+adtd -f 6371
+adtp 5627
+adta -r 680
+adtd -f 39486
+adtd -f 13237
+adta -r 520
+adtq rpklq
+adtd -a
+adtq rpxtm
+adta -s afyeg
+adtd -f 42432
+adtd -b 286694
+adta -s kbebo
+adtq nkivg
+adta -r 610
+adtq nkljx
+adtd -f 55386
+adta -r 410
+adtp
+adtp 33151
+adta -r 500
+adta -r 160
+adtp 147173
+adtd -s dazwk
+adta -r 430
+adtp 84251
+adta -s nitti
+adtq qefhk
+adta -s mkjpq
+adtd -r 101903
+adtd -f 92362
+adta -r 440
+adtp 295457
+adtr 10
+adtp
+adta -r 970
+adtp 297277
+adtd -a
+adta -r 490
+adtp -r
+adtp
+adtp 127908
+adtd -r 179870
+adtd -r 103709
+adtp -r
+adta -r 570
+adtp 127422
+adta -r 960
+adtp
+adtd -b 184378
+adtp -r
+adtd -s upbic
+adtp -r
+adtp -r
+adtd -f 213633
+adtr 7
+adtp 295558
+adta -r 10
+adtp 82600
+adta -r 560
+adta -r 190
+adtd -r 163814
+adtp
+adta -r 200
+adta -r 730
+adtd -r 261212
+adta -r 680
+adta -r 920
+adta -r 530
+adtd -r 217403
+adtd -b 74617
+adtd -f 31028
+adtp
+adtd -r 283466
+adta -r 350
+adtd -b 157308
+adtd -r 198738
+adtd -a
+adta -r 440
+adtp
+adtp -r
+adtp 229495
+adtd -f 285750
+adtd -r 266968
+adtp -r
+adta -r 790
+adtp
+adtd -s fgstk
+adta -r 350
+adtp 258628
+adta -r 380
+adtd -b 260399
+adta -r 340
+adtq gcbzx
+adtd -f 270031
+adta -r 170
+adtd -a
+adtp
+adta -r 40
+adta -r 340
+adtq uegyl
+adta -r 350
+adtr 3
+adta -r 900
+adtd -r 94765
+adtd -b 256746
+adta -r 460
+adtp 210238
+adtd -f 104391
+adtd -r 150754
+adta -r 740
+adtp
+adtd -f 130559
+adtd -f 112398
+adtr 8
+adta -r 700
+adta -s seelr
+adtd -r 272489
+adta -r 180
+adta -r 580
+adta -r 890
+adtq csyxx
+adta -r 630
+adts
+adtp -r
+adtp 39200
+adtd -r 61493
+adtd -a
+adtd -r 29951
+adtd -a
+adta -r 650
+adtd -f 83217
+adta -r 480
+adta -r 970
+adtd -b 183689
+adta -s ergbq
+adtp 71280
+adtq yzlkt
+adtd -b 309502
+adtd -r 6732
+adtd -f 72002
+adtd -r 113864
+adtd -s zqriw
+adtp
+adtd -f 71788
+adtp 231751
+adtd -r 177644
+adtd -b 172310
+adtp
+adta -r 600
+adtp -r
+adtd -r 284636
+adta -r 540
+adtq umlml
+adtq kodcq
+adtq vvmcz
+adtd -r 221882
+adta -r 180
+adtr 6
+adta -s apqly
+adts
+adtd -f 180044
+adtd -r 199605
+adtp -r
+adtp
+adta -r 560
+adtq yvext
+adta -r 280
+adta -r 850
+adta -r 280
+adta -r 710
+adtd -r 165515
+adtd -r 242115
+adta -r 330
+adtd -f 215361
+adta -r 100
+adta -r 50
+adtr 3
+adtd -b 131607
+adtd -r 285240
+adta -r 700
+adtd -s ejxlh
+adtd -r 269588
+adtr 4
+adtp -r
+adtd -f 12706
+adtq iirfr
+adta -r 800
+adta -r 850
+adtd -r 52706
+adta -r 920
+adtp 35569
+adtp
+adta -r 470
+adtr 1
+adta -r 860
+adtp
+adtd -s xwwbq
+adtd -s xrunw
+adtp
+adtp -r
+adta -r 30
+adtd -s yjilt
+adtd -b 249412
+adtp 5797
+adtd -r 219691
+adta -r 50
+adtd -b 75438
+adtp 43799
+adtp 86744
+adtd -r 271985
+adtd -b 119549
+adta -r 480
+adtp
+adta -r 780
+adta -r 160
+adtr 10
+adtp -r
+adtd -r 136422
+adtp -r
+adta -r 120
+adtd -f 50851
+adtp -r
+adtd -b 158721
+adtq yhdlx
+adtd -s bmmsh
+adtd -f 69463
+adtd -f 170165
+adtd -r 25889
+adtd -f 180366
+adtp -r
+adta -r 90
+adtd -b 300998
+adtp -r
+adtp -r
+adtd -a
+adtd -a
+adtd -f 177813
+adtp 212650
+adtd -r 249603
+adta -s ycwor
+adta -r 50
+adta -r 520
+adta -r 210
+adta -r 250
+adtd -b 181283
+adtd -f 159714
+adta -r 960
+adta -s lkwcb
+adtq ddcka
+adta -r 120
+adtd -r 226031
+adta -s hnnng
+adtp
+adtd -f 72264
+adta -r 550
+adtd -f 281585
+adta -s dbjiv
+adtd -r 137490
+adtd -b 296010
+adtd -b 253837
+adtd -f 627
+adtd -r 52154
+adta -r 540
+adtp
+adta -s qrzug
+adta -r 230
+adtd -s hojoe
+adtq kmhlj
+adta -r 590
+adtd -r 147361
+adtd -r 308012
+adtd -r 28668
+adtr 9
+adtq dsvzc
+adtd -s geuyw
+adts
+adta -s beqzo
+adtd -r 16812
+adta -r 480
+adtr 4
+adta -r 950
+adtd -r 100010
+adtd -r 2530
+adta -s iduxx
+adta -r 730
+adtp -r
+adta -r 860
+adtd -b 135678
+adtd -r 328465
+adtp
+adtd -r 263380
+adta -r 860
+adtp
+adtp -r
+adtp
+adtp
+adta -r 700
+adta -r 550
+adtp
+adta -r 660
+adta -r 930
+adtp 256782
+adta -s jyzyu
+adtd -r 247990
+adta -r 160
+adtd -b 222989
+adtd -b 266027
+adta -s sducb
+adtp -r
+adtr 5
+adtd -r 118130
+adtd -f 251382
+adtd -f 93334
+adta -r 510
+adtp
+adtd -r 307302
+adta -s etitn
+adtd -r 192974
+adtr 9
+adtd -b 174273
+adtp 133708
+adta -s qsuwb
+adta -s tjaiy
+adtp
+adtr 9
+adtr 10
+adtp 28016
+adta -r 440
+adta -r 800
+adtd -r 139517
+adta -s yowzl
+adta -r 630
+adts
+adtd -f 272804
+adtd -f 27658
+adtq ravds
+adta -r 740
+adta -s qliqk
+adta -r 720
+adtq qxfjf
+adta -s wuxys
+adtd -b 176129
+adtd -r 132308
+adtd -r 92680
+adtd -r 291187
+adtd -r 185721
+adtp 188695
+adtd -b 275001
+adtp
+adta -s uqcxd
+adtp -r
+adta -r 100
+adta -r 760
+adtd -r 41318
+adtd -s favya
+adtd -b 308867
+adta -r 610
+adta -r 730
+adtd -f 146423
+adtd -r 314100
+adtp 16668
+adtp -r
+adtq ovipf
+adtd -f 127713
+adts
+adtq amidz
+adta -r 840
+adta -r 220
+adta -r 70
+adtd -s isnqy
+adta -s esaec
+adtd -b 221687
+adtd -s fxudn
+adta -r 240
+adts
+adta -r 940
+adtp -r
+adtd -r 4566
+adtd -f 104327
+adta -s klqsl
+adtd -f 70155
+adtp -r
+adtd -r 54904
+adta -s pwcez
+adtd -b 314469
+adtd -r 231787
+adta -r 500
+adtd -r 217005
+adtd -f 328740
+adtd -f 244369
+adta -r 460
+adtp
+adtr 3
+adtp
+adtd -b 27147
+adtd -r 163846
+adtr 8
+adta -r 210
+adtd -b 186113
+adtd -f 284384
+adtp
+adta -s aufbm
+adtd -r 280713
+adtp
+adtd -f 109708
+adtq irnlz
+adta -r 60
+adtp 269817
+adta -r 270
+adta -r 480
+adtp
+adta -s orysb
+adtd -f 313599
+adtd -r 194631
+adtd -b 102340
+adtd -r 44583
+adta -r 310
+adtp
+adtq ozyek
+adtd -r 64206
+adta -r 760
+adtr 4
+adtd -a
+adta -r 440
+adtd -f 185361
+adta -r 380
+adta -r 130
+adta -r 70
+adta -r 350
+adta -r 200
+adtd -b 136391
+adtd -r 260912
+adta -s zjabl
+adta -r 360
+adtd -b 263257
+adtr 2
+adtq norfd
+adta -r 260
+adtr 10
+adta -r 380
+adtq jdnbi
+adta -s iszak
+adta -s zjwtf
+adtd -f 1072
+adtd -r 232931
+adtq avmfz
+adtq jgulu
+adta -r 430
+adtp
+adtp -r
+adtd -r 58204
+adta -r 500
+adtd -f 2814
+adtd -f 270440
+adtd -f 211123
+adta -s uaibp
+adtp 45874
+adtd -b 76132
+adtd -a
+adta -r 890
+adtr 2
+adtp 200771
+adtd -s xzpvh
+adtd -r 94885
+adtr 9
+adts
+adtd -f 351911
+adta -r 80
+adtd -r 158382
+adta -r 570
+adta -r 870
+adta -s ykngl
+adta -r 370
+adtr 8
+adtd -b 195429
+adtp -r
+adtd -b 333042
+adta -r 850
+adtd -r 104656
+adtp -r
+adta -r 740
+adtd -a
+adtd -r 97719
+adta -r 570
+adtd -b 86873
+adta -r 950
+adtd -b 162426
+adtq hpzxi
+adts
+adta -r 850
+adtp 25446
+adtd -r 9847
+adtd -b 241
+adtp 269394
+adtd -b 356556
+adtd -f 136722
+adtd -f 308148
+adtp 89117
+adtd -f 6355
+adta -s hnbgl
+adtp -r
+adtp -r
+adtp 169985
+adtd -r 167577
+adta -r 730
+adtd -r 212159
+adtp
+adta -r 320
+adtp -r
+adtp
+adta -r 960
+adtd -f 280213
+adta -r 340
+adtd -b 155057
+adtd -r 138864
+adta -r 550
+adtd -f 121921
+adtq ladts
+adta -r 840
+adta -s qhljy
+adta -r 870
+adtd -b 116145
+adtq bnepd
+adtp
+adta -r 420
+adtd -a
+adtd -r 111467
+adtp 56839
+adta -r 70
+adtd -r 159732
+adtd -f 79370
+adta -r 430
+adtd -a
+adta -r 520
+adta -r 730
+adta -s rhhub
+adtd -f 21584
+adta -r 890
+adtd -r 41122
+adta -r 480
+adtr 8
+adtp 345745
+adtd -b 283076
+adtd -f 73593
+adtd -r 62068
+adta -r 920
+adta -r 600
+adtd -f 49256
+adta -s pdbou
+adtp
+adta -r 920
+adta -r 500
+adtq fithk
+adtr 10
+adtd -f 76504
+adtd -r 31590
+adtd -b 19602
+adtr 10
+adtp
+adts
+adta -r 110
+adtq ynoeq
+adtp
+adtp
+adtp 86799
+adta -r 970
+adta -r 940
+adtp
+adtd -r 180160
+adtd -r 43432
+adtd -r 2178
+adtd -s pfaxv
+adtd -r 354050
+adta -r 140
+adtd -r 190211
+adta -r 640
+adtd -r 215370
+adtp 254430
+adtd -r 217056
+adtd -f 340048
+adtp
+adtd -b 297561
+adtp -r
+adtd -b 184839
+adta -r 790
+adtd -r 100317
+adta -r 920
+adtp
+adtd -r 42788
+adtd -b 254489
+adta -r 760
+adtd -b 365901
+adtd -b 211154
+adtd -f 374196
+adtd -r 56278
+adta -s vmtwv
+adtq wdkmw
+adtp
+adtd -r 333887
+adtd -f 204596
+adtd -f 179256
+adtd -a
+adtq mehje
+adta -r 540
+adtq tunwm
+adtp
+adta -r 780
+adtp -r
+adtd -r 315441
+adta -r 120
+adtd -r 37796
+adta -r 590
+adta -r 370
+adtp -r
+adta -r 560
+adta -r 560
+adta -s oplgu
+adtq kfuej
+adtr 9
+adtq gxhld
+adtd -b 31107
+adta -r 960
+adta -r 690
+adtd -r 98629
+adta -r 750
+adtd -f 17752
+adta -r 550
+adtp 316499
+adta -r 370
+adtd -r 215504
+adtd -f 370740
+adtp
+adtq lqpfu
+adtp
+adta -r 840
+adta -r 330
+adtd -f 21211
+adta -r 560
+adtp 27853
+adta -r 580
+adtp
+adtp 132692
+adtp
+adtd -b 169814
+adta -r 620
+adtd -r 92764
+adta -r 170
+adtp
+adtd -a
+adtr 5
+adtp
+adta -r 940
+adtp
+adtp 367132
+adtd -s uuybv
+adtp 54089
+adta -r 610
+adtd -r 16626
+adta -r 650
+adtd -r 171101
+adtd -b 33532
+adtd -r 294052
+adta -r 330
+adtd -a
+adta -r 850
+adtp -r
+adtp 379173
+adtq xqufx
+adtp 71079
+adtd -a
+adtd -r 106615
+adtp 211920
+adta -r 310
+adtp -r
+adtd -b 44075
+adtd -r 280899
+adta -r 890
+adtd -r 385337
+adta -r 810
+adta -r 370
+adta -r 450
+adtq tsmfq
+adtp 86348
+adtp -r
+adtp -r
+adta -r 590
+adtd -r 33408
+adtq pvluk
+adtd -s zhvbo
+adta -r 550
+adtd -b 104479
+adtd -r 131590
+adtp
+adta -s nvhib
+adtr 3
+adtd -b 231043
+adtq dtlqe
+adtd -b 18463
+adta -r 150
+adta -r 600
+adtp 54201
+adta -r 560
+adta -r 610
+adtd -r 120443
+adtd -r 151740
+adtd -f 296168
+adta -r 980
+adta -s zqtns
+adta -r 830
+adtd -r 244073
+adtd -s hbqtx
+adtd -r 3907
+adtp -r
+adta -s feyqc
+adta -s jfrfo
+adta -r 390
+adtp
+adta -r 520
+adtq sbciu
+adtd -a
+adtp
+adtd -r 145866
+adtq flpsz
+adta -r 220
+adta -s oenwr
+adtd -r 262878
+adtd -f 394169
+adtd -f 351799
+adtd -r 31990
+adtd -f 8472
+adtp 102496
+adtd -r 118338
+adta -r 840
+adtd -r 378078
+adtd -r 31179
+adtd -f 6994
+adtp
+adta -s xtkgt
+adtd -s csndo
+adtd -f 314953
+adtd -r 390786
+adta -r 640
+adta -r 190
+adta -r 490
+adta -r 260
+adtd -f 230569
+adtp 338972
+adtp
+adta -r 920
+adtd -r 221110
+adtp 265539
+adtd -r 236047
+adtd -f 182227
+adtp -r
+adta -r 980
+adtd -b 55999
+adtp
+adtd -r 159078
+adtq iumts
+adta -r 670
+adta -s oxxcf
+adtd -a
+adtp
+adtp
+adta -r 840
+adta -r 890
+adtp 274605
+adta -r 180
+adta -r 860
+adta -r 220
+adtp
+adta -s fcnxh
+adta -s pybho
+adtp -r
+adtd -r 360881
+adtd -r 207309
+adtd -f 346917
+adtp 399460
+adtd -f 108607
+adtd -f 391354
+adta -r 510
+adtd -s cgpnv
+adtp -r
+adtd -s jbfhq
+adtp 363456
+adtq xdmrw
+adtp 378717
+adtp
+adtr 3
+adtd -s cyrhx
+adta -r 10
+adtp 283356
+adtp
+adtp 63900
+adtq texwi
+adtq eaqua
+adta -s lbrnr
+adta -s debua
+adtd -r 340769
+adta -r 950
+adtd -r 98863
+adtd -b 221809
+adtd -s jsduv
+adta -r 420
+adtd -r 390801
+adta -s xmsco
+adta -r 270
+adta -r 620
+adtr 10
+adtq njsnw
+adta -r 930
+adtd -b 30986
+adtd -s ezbqa
+adta -r 300
+adtp -r
+adta -r 950
+adtp 285093
+adtp 227859
+adta -r 510
+adtp
+adtp 109984
+adtd -f 35502
+adtd -b 125026
+adta -r 850
+adtd -a
+adtd -f 76174
+adta -s wcqvc
+adtd -r 288330
+adtd -b 271875
+adta -r 630
+adta -s qigri
+adtd -r 360389
+adtp -r
+adta -r 360
+adtd -b 14202
+adtd -r 243219
+adtd -a
+adtr 3
+adtd -b 414772
+adta -r 300
+adtq dzmcq
+adta -s phykh
+adtp 179717
+adtd -b 35897
+adtp
+adtd -r 100777
+adtd -b 358646
+adta -s egjfz
+adtd -r 284107
+adtr 5
+adta -r 740
+adta -r 410
+adtd -f 190759
+adtp
+adtp 314867
+adtd -b 22786
+adtd -f 288586
+adta -r 10
+adtd -f 147883
+adtp
+adtd -r 4480
+adta -r 80
+adtd -f 247289
+adtd -f 333883
+adtd -r 292320
+adtd -r 7853
+adtp -r
+adta -r 260
+adta -r 730
+adta -r 740
+adta -r 530
+adts
+adta -r 300
+adta -s ighrs
+adtd -f 88684
+adta -s nszfj
+adta -r 310
+adtp
+adtd -b 133388
+adtd -b 315602
+adts
+adtd -f 166905
+adtd -b 124392
+adtd -b 147706
+adtp 25785
+adta -r 810
+adtp -r
+adta -s wcmcj
+adtp -r
+adta -s xoxok
+adtq arjqd
+adta -r 80
+adtp
+adtp 305704
+adtp 95101
+adtd -f 54898
+adtp
+adta -s mnhwq
+adtd -b 370338
+adta -r 860
+adtr 10
+adtd -r 103062
+adta -s fekfx
+adtd -f 263498
+adta -r 220
+adtp
+adta -s fneul
+adta -r 710
+adta -r 310
+adtq ofaib
+adta -r 230
+adta -r 700
+adtq nyviq
+adta -r 360
+adtd -f 390104
+adta -r 80
+adtd -b 98734
+adtd -f 44128
+adtp 87461
+adtp 419907
+adtd -a
+adtd -b 295144
+adtp 21723
+adta -r 370
+adtp 314236
+adtd -f 92667
+adtd -b 380950
+adtd -r 62426
+adtp 422603
+adta -r 310
+adta -r 810
+adtd -r 247190
+adta -r 760
+adtd -b 410233
+adtd -f 304318
+adtd -f 282372
+adtp 117931
+adtd -r 112459
+adtp 264346
+adtd -s ydkdm
+adta -s wfgwx
+adta -r 210
+adtq okhsa
+adtp -r
+adtd -r 400729
+adtq ewplu
+adta -r 430
+adtp 405321
+adtd -r 308689
+adtd -r 155883
+adta -r 30
+adta -s otqfa
+adtd -f 73025
+adtp
+adtp -r
+adta -r 770
+adta -r 60
+adtd -r 9945
+adta -r 110
+adta -r 110
+adtd -f 349081
+adtp
+adtd -f 290997
+adta -r 150
+adtd -r 25010
+adta -r 980
+adta -r 540
+adtd -b 388660
+adtq ywqtl
+adtp 338613
+adtd -s jhrfq
+adta -r 260
+adtd -b 12990
+adtp -r
+adtd -r 107363
+adtp
+adtd -f 261266
+adtd -a
+adta -s ixtih
+adtd -r 82615
+adta -r 510
+adtp 136961
+adtq huqll
+adtd -r 401217
+adtd -b 150225
+adtr 9
+adtq nmlhh
+adtp
+adta -r 850
+adta -r 190
+adtp 370179
+adta -r 420
+adtq swzdp
+adtd -r 87106
+adta -r 140
+adta -r 140
+adtd -s juqhx
+adtd -b 118373
+adta -s eqpxk
+adta -r 850
+adta -r 130
+adtp 167581
+adta -r 230
+adtq mfacs
+adta -r 440
+adtp -r
+adta -s dewsa
+adtr 6
+adta -s bvzwg
+adta -r 440
+adtp
+adta -r 970
+adta -r 510
+adtd -b 102389
+adtr 3
+adtd -a
+adtd -b 78817
+adtp 315617
+adta -r 400
+adtr 1
+adtp
+adtq xumpc
+adtr 7
+adta -r 50
+adtd -s eatnq
+adtp -r
+adta -r 40
+adtd -a
+adtd -s fcqfq
+adta -r 720
+adtp
+adtp 162862
+adtd -a
+adtr 9
+adta -s cdolm
+adtp -r
+adtd -s qmzmc
+adtp 264612
+adtd -r 156201
+adtp
+adtq dpevj
+adtr 7
+adtd -b 162222
+adta -s kkgpm
+adtp -r
+adtp -r
+adtd -r 40891
+adta -r 90
+adtp
+adtd -r 431331
+adta -s qauzh
+adta -r 550
+adta -s skboo
+adta -r 80
+adtd -s cxzrb
+adtd -r 47533
+adtr 8
+adtr 6
+adta -r 850
+adta -s jjejo
+adtd -a
+adtd -r 145534
+adta -r 310
+adtd -s rydmv
+adta -r 520
+adtd -b 185587
+adta -r 850
+adtd -r 95746
+adtd -r 311365
+adtp
+adtr 8
+adtp
+adtp
+adta -s boqlq
+adtq smcev
+adtd -r 116696
+adta -r 140
+adta -r 560
+adta -r 10
+adtd -f 334845
+adta -r 170
+adta -s hrpin
+adta -r 430
+adta -r 640
+adtd -r 345715
+adtd -f 170045
+adtp 296974
+adtd -s kkgpo
+adtd -r 382751
+adtd -b 166431
+adta -r 490
+adta -r 310
+adtd -f 430419
+adtd -r 328466
+adta -s uapqf
+adtp
+adta -r 710
+adtd -r 356597
+adta -r 750
+adta -r 580
+adta -r 10
+adtp
+adtp 426074
+adta -r 980
+adtd -b 179626
+adta -r 610
+adtd -s zleyi
+adtd -f 157120
+adtd -r 148599
+adts
+adtr 1
+adta -r 390
+adtd -r 427302
+adta -s pixrk
+adta -r 40
+adtp
+adta -s qfdhw
+adtp -r
+adta -s lfnet
+adtd -r 229520
+adtp 10617
+adta -r 730
+adtr 7
+adta -r 110
+adtp 147232
+adtp -r
+adta -r 680
+adtd -b 1803
+adtd -a
+adta -r 680
+adta -r 450
+adtd -r 311711
+adtd -r 234189
+adtr 10
+adtd -b 50777
+adtp
+adta -s laotz
+adtd -b 267843
+adtd -a
+adtq kadpx
+adta -r 120
+adtd -r 265215
+adta -r 970
+adtd -s bkdqp
+adta -r 720
+adtd -r 277445
+adta -r 50
+adtr 9
+adta -r 730
+adta -r 650
+adtd -f 276566
+adtd -r 207729
+adtd -r 19572
+adtr 7
+adtd -r 364876
+adtp -r
+adtp -r
+adtr 4
+adta -s huuot
+adta -r 560
+adtd -b 285391
+adtd -s vvhqq
+adtd -r 304122
+adtq ofuzm
+adta -s xunzt
+adtp
+adtd -b 379857
+adtd -r 179273
+adtd -r 299291
+adta -r 450
+adta -s wfwbg
+adtd -f 399968
+adtd -s tfsqb
+adtd -s bdkjy
+adta -r 600
+adta -r 400
+adtp 21208
+adtq foehm
+adta -s vabjq
+adtp -r
+adtp 115619
+adta -r 260
+adts
+adtd -a
+adta -r 910
+adtd -f 29347
+adtp
+adtq creuw
+adtd -r 435114
+adta -r 200
+adtd -r 354503
+adtd -f 320710
+adta -s okwcr
+adtp 336745
+adta -s sdcim
+adtd -a
+adtq fztfg
+adtd -b 60229
+adta -r 10
+adtd -b 109426
+adtd -a
+adtd -r 439356
+adta -r 380
+adtd -a
+adta -r 970
+adtp 311373
+adta -r 610
+adtp
+adtp -r
+adta -r 750
+adta -r 500
+adtd -r 277598
+adtr 5
+adtp 200612
+adtp 115075
+adtp -r
+adtd -f 302329
+adtd -b 313669
+adtp 371706
+adtd -r 84242
+adtd -b 306323
+adtd -r 57383
+adtq fllkd
+adta -r 270
+adtd -s dcvkm
+adta -r 430
+adtp 72033
+adta -r 330
+adta -r 420
+adtp
+adtq kqbal
+adtq framk
+adtp -r
+adta -r 440
+adtd -f 452662
+adtd -f 422614
+adta -r 420
+adtp -r
+adtd -b 44680
+adtd -s loyme
+adtp 243721
+adtp 99762
+adtd -r 111098
+adtd -r 388991
+adtp 178557
+adta -r 330
+adtd -b 430129
+adtp -r
+adtd -r 173350
+adta -s nxymk
+adta -r 760
+adta -r 480
+adta -r 710
+adtd -b 231065
+adtr 2
+adta -r 820
+adtd -f 172798
+adta -r 20
+adtp
+adtd -r 373247
+adtp
+adtp
+adtq kidmv
+adtp
+adtd -b 245221
+adta -s njcxk
+adtd -f 95775
+adtp -r
+adtd -f 405067
+adta -r 510
+adtd -r 229987
+adtd -a
+adtd -s mrpvk
+adta -r 90
+adtd -b 184995
+adtd -f 336182
+adtd -s qvwii
+adtr 6
+adta -r 70
+adtd -b 409148
+adtd -b 356781
+adtd -b 307947
+adta -s bcrlq
+adtd -f 272873
+adtd -r 407140
+adta -r 510
+adtq amzts
+adtp 201795
+adta -r 200
+adtd -b 139450
+adta -r 200
+adtd -s ayeyj
+adtr 5
+adtp -r
+adtp
+adta -r 590
+adtd -r 110344
+adtd -f 300648
+adtd -r 308915
+adtd -r 445881
+adta -r 540
+adta -r 430
+adtd -r 247284
+adtq sxgwh
+adtd -a
+adta -r 970
+adta -r 620
+adta -r 730
+adta -r 140
+adtp 375212
+adta -r 350
+adta -r 110
+adtd -f 329291
+adtp
+adta -r 200
+adta -r 340
+adtp 130540
+adta -s gjgir
+adta -r 460
+adta -r 90
+adta -s mqrnc
+adtd -r 329907
+adtp
+adtp
+adtd -a
+adtd -r 83587
+adta -r 840
+adta -r 520
+adtd -a
+adtd -r 448814
+adta -r 10
+adta -r 600
+adtd -f 398328
+adtd -f 31404
+adtr 1
+adtd -b 316909
+adtr 7
+adtd -r 211388
+adtd -b 466497
+adtp -r
+adtr 7
+adtd -r 440323
+adta -r 490
+adta -r 400
+adta -s fisfx
+adta -r 450
+adtd -f 81704
+adtq zjhgo
+adtq xpaes
+adta -r 480
+adta -r 740
+adta -s rjmru
+adtr 9
+adtd -r 116110
+adta -r 40
+adta -r 510
+adtd -f 160837
+adtd -s dsucy
+adtp 471601
+adta -r 890
+adtp -r
+adta -r 430
+adta -r 600
+adtp 146050
+adta -r 960
+adta -r 160
+adta -r 280
+adta -r 50
+adtp 116084
+adtd -s mwyby
+adtp
+adtr 7
+adtd -r 312444
+adta -s uaycu
+adtp -r
+adtd -f 381081
+adtp
+adtp
+adtr 9
+adta -r 150
+adta -s nbijq
+adtr 7
+adtd -r 449143
+adtr 5
+adtp
+adta -r 80
+adta -s szgtx
+adtd -b 253007
+adtp 282549
+adtd -s rbjyk
+adtq yuylf
+adtp -r
+adta -r 840
+adtd -a
+adtd -b 336429
+adtd -r 325765
+adtd -f 438765
+adtp
+adta -s vvfcn
+adtp -r
+adta -r 700
+adta -r 110
+adtd -f 366195
+adta -r 310
+adtr 2
+adtd -b 75060
+adtp 262001
+adtp -r
+adta -r 460
+adtd -f 217077
+adta -r 100
+adta -s xupoj
+adtp -r
+adtp -r
+adtq bbrgg
+adtd -r 184653
+adtd -r 384135
+adta -r 810
+adta -r 310
+adtq llags
+adtp 344847
+adta -s ahxje
+adtr 5
+adtd -r 407011
+adtp 188236
+adta -r 700
+adtq cqtcr
+adtp 394959
+adtd -r 131471
+adtr 9
+adta -r 610
+adtp -r
+adtd -b 115225
+adtd -r 43335
+adtd -r 110456
+adtp 103037
+adta -s lxlpw
+adtp 338793
+adtd -r 452402
+adta -r 850
+adtr 2
+adtp 412729
+adtd -f 57422
+adta -r 730
+adtd -s bzbal
+adtd -f 292898
+adta -r 290
+adtp -r
+adtd -r 456619
+adts
+adta -s scwfk
+adtd -r 251820
+adtq lnwum
+adta -r 470
+adtp
+adta -r 520
+adtd -r 389899
+adta -r 580
+adtd -r 105686
+adta -r 260
+adtd -b 103934
+adtd -r 349234
+adtd -a
+adtd -r 128696
+adtd -r 53839
+adta -r 570
+adtp
+adtd -b 257162
+adtr 7
+adta -r 440
+adtp -r
+adtd -f 446847
+adtp 150611
+adta -r 690
+adtd -a
+adtd -r 83269
+adta -r 850
+adtp 400335
+adta -r 20
+adta -s qynmt
+adtd -f 51163
+adtr 8
+adta -r 680
+adtp
+adtp 233967
+adtd -s arobz
+adtp 343176
+adtd -b 182734
+adtd -r 5382
+adtq szqjj
+adta -r 200
+adtp 74358
+adtp -r
+adta -r 420
+adtq ctdxh
+adta -s ltyib
+adta -r 310
+adtp
+adta -r 640
+adta -r 130
+adtd -r 217974
+adta -r 230
+adtr 5
+adta -r 210
+adts
+adta -r 840
+adtd -b 363646
+adtd -r 35571
+adtq nlvre
+adtd -b 183408
+adtd -b 115947
+adta -r 560
+adtd -r 359437
+adta -s zxyqv
+adta -r 320
+adtp -r
+adtp 379800
+adtp -r
+adta -r 350
+adtd -r 269630
+adtp
+adtr 6
+adts
+adtd -r 409613
+adtp -r
+adta -r 760
+adtd -b 390050
+adta -r 680
+adtd -b 91105
+adtd -s skopn
+adta -r 460
+adtp -r
+adta -r 50
+adta -r 910
+adtd -r 78183
+adta -r 700
+adta -r 720
+adta -r 620
+adtd -f 491680
+adtd -r 79373
+adtd -r 160913
+adtd -f 17877
+adtd -r 445087
+adtd -r 432307
+adtd -f 183398
+adtd -s ouqmf
+adta -r 470
+adta -r 870
+adtp 367857
+adtd -f 39928
+adtp
+adtd -s vddmo
+adta -s zojgd
+adtp -r
+adtd -r 256344
+adtd -r 51401
+adtp
+adts
+adtr 4
+adtd -r 292361
+adtd -r 24989
+adtd -s fvspv
+adta -r 550
+adtq avcdx
+adtd -a
+adta -s pwtap
+adtp
+adtd -r 363172
+adta -r 730
+adtd -s gigcs
+adtd -r 213127
+adtr 2
+adtp
+adtp
+adtq grfmc
+adtp 353982
+adtp
+adta -r 260
+adtd -s dziqr
+adtd -a
+adtp 256504
+adta -s ogunm
+adtr 8
+adta -r 240
+adta -r 50
+adta -r 140
+adtq zjrlh
+adtd -f 206196
+adta -r 440
+adta -r 800
+adtp
+adtd -r 116323
+adtd -f 263738
+adtp 501709
+adtd -r 427792
+adta -r 670
+adta -r 430
+adta -r 620
+adtd -b 59157
+adtd -b 478899
+adtd -b 208629
+adta -r 760
+adtq cofkb
+adtp -r
+adta -s dnhxv
+adtr 9
+adtr 8
+adtp 419680
+adtd -f 73873
+adtd -f 19464
+adta -r 300
+adtp -r
+adta -r 250
+adtp -r
+adtd -r 30967
+adta -r 170
+adta -r 880
+adta -s iawaq
+adtr 10
+adta -r 930
+adtd -r 2840
+adta -r 600
+adta -r 350
+adta -r 720
+adta -r 50
+adta -r 950
+adtd -a
+adtd -f 508161
+adta -r 980
+adtd -b 421448
+adta -r 10
+adtp -r
+adta -r 980
+adta -r 240
+adtd -a
+adtp
+adtp -r
+adtp -r
+adtd -f 60150
+adtd -s rgkes
+adtr 2
+adtp
+adtp 72241
+adtd -b 149119
+adtp 466052
+adta -r 670
+adtd -r 175460
+adtq lheeg
+adtp
+adtd -a
+adtd -b 173811
+adta -r 490
+adta -r 140
+adtd -r 489932
+adtd -a
+adta -r 270
+adtp 441837
+adta -r 570
+adtp -r
+adta -r 710
+adtq xevmo
+adtd -r 472913
+adta -r 280
+adta -s rsaom
+adta -s bddvb
+adtd -a
+adtd -r 203448
+adtd -r 495622
+adtp -r
+adtd -r 33852
+adtd -b 386801
+adtd -f 338885
+adta -r 160
+adtd -r 57883
+adtq sjquv
+adta -s aulbu
+adta -r 920
+adta -r 720
+adtr 2
+adta -r 80
+adts
+adta -s fknjd
+adtd -r 64418
+adta -s gtubk
+adtd -r 31313
+adtd -r 373581
+adtd -r 493069
+adtd -b 424392
+adtp 175645
+adtd -r 22411
+adtd -b 229951
+adta -r 470
+adtp 233757
+adtd -f 294721
+adtd -r 211405
+adta -r 370
+adtq cjctj
+adta -r 500
+adtd -r 315059
+adta -r 890
+adtp
+adta -r 480
+adtp -r
+adtd -a
+adta -s rkntr
+adtd -f 113745
+adta -s pbcdn
+adta -r 430
+adta -s oqcya
+adta -s gsxim
+adta -r 80
+adtr 2
+adtd -r 331636
+adtd -b 261126
+adta -r 630
+adtp 57688
+adtp
+adts
+adtd -r 215932
+adtp
+adta -r 560
+adtd -r 49070
+adtd -r 406285
+adtd -b 451166
+adtr 6
+adtd -s cvqup
+adtp 53384
+adtd -r 126101
+adtp 85947
+adtp 9378
+adta -s tavqw
+adtq uexjc
+adtq eobie
+adtd -r 287123
+adtd -b 67911
+adtd -r 279118
+adtp -r
+adtq towun
+adtq gixkb
+adtd -r 515991
+adtd -f 455877
+adta -r 750
+adtq iknar
+adtd -b 250619
+adta -r 910
+adtp
+adtp 397154
+adts
+adtd -r 434284
+adtr 7
+adtp
+adtp
+adtd -f 449478
+adtq uimui
+adta -r 20
+adtp
+adtp -r
+adtq yxsjw
+adtr 7
+adtq dnpyg
+adta -r 870
+adta -r 290
+adta -r 660
+adta -s ykhjw
+adtp
+adtr 3
+adta -r 650
+adtd -r 492004
+adta -r 170
+adta -s mehyw
+adta -r 950
+adtd -f 418724
+adta -r 180
+adtd -a
+adtd -b 440825
+adta -r 10
+adtr 10
+adtp 37209
+adtd -r 211719
+adta -r 470
+adtq wkkiq
+adta -r 370
+adtp 115059
+adta -r 350
+adtd -f 440765
+adtr 6
+adtd -a
+adtp 495303
+adtd -b 242905
+adtd -r 224508
+adtp
+adtp 525949
+adtr 4
+adta -r 360
+adta -r 460
+adtd -f 143412
+adtp
+adtp -r
+adta -r 150
+adta -r 470
+adtd -f 351199
+adtp 159416
+adta -r 920
+adta -r 180
+adtd -b 331957
+adta -r 190
+adtp 105577
+adtp -r
+adta -s wnwad
+adtp -r
+adtq dzfas
+adtd -b 339827
+adtd -a
+adtp
+adtp
+adta -r 110
+adtq hojpr
+adta -r 220
+adta -r 330
+adtp
+adtd -r 305484
+adta -r 940
+adta -r 970
+adtd -b 106300
+adtd -b 344812
+adta -r 720
+adta -r 200
+adtp
+adta -r 390
+adtr 1
+adtd -b 390192
+adtr 9
+adta -r 380
+adta -s kuvin
+adta -r 180
+adtd -b 365407
+adtd -s ypcwh
+adtp -r
+adtd -a
+adta -r 180
+adtd -s ttdzu
+adtd -s ikvcq
+adtd -f 29117
+adtr 7
+adta -r 820
+adtp -r
+adtp
+adtp 45347
+adtd -a
+adtd -b 243699
+adtr 1
+adta -r 420
+adtp 481528
+adtp
+adta -s rttmp
+adtd -a
+adta -r 820
+adta -s afmkn
+adtd -b 180807
+adtd -r 452250
+adtd -r 510002
+adta -r 630
+adtd -f 251763
+adtp 80918
+adta -s jwtrt
+adta -r 40
+adtp 98180
+adta -s ggihy
+adtq byrmc
+adtp 474142
+adtq cwjgr
+adtd -s uanfo
+adtd -a
+adtd -b 127524
+adta -r 730
+adtp
+adta -r 130
+adta -r 560
+adtp -r
+adta -r 240
+adtr 1
+adtp
+adtd -a
+adtp 349544
+adtd -f 240458
+adtd -f 307083
+adtp 103603
+adtr 9
+adta -s rgdag
+adtr 2
+adtp
+adtq czfwf
+adta -s qfbrr
+adtd -r 42269
+adtd -f 410860
+adtp
+adta -r 210
+adtd -r 231833
+adts
+adta -r 120
+adtd -a
+adta -r 910
+adtr 7
+adta -r 140
+adta -r 80
+adta -r 480
+adtd -b 469358
+adtp 144874
+adta -r 360
+adtd -r 528272
+adtd -r 324411
+adtd -f 6209
+adtd -r 543489
+adtd -r 448191
+adtd -r 386429
+adtd -r 494119
+adtp
+adtq tcptt
+adta -r 820
+adta -s amzwz
+adtd -b 441301
+adta -r 930
+adta -r 890
+adta -s ovvnx
+adta -s whybz
+adtd -r 208337
+adta -r 890
+adtd -s omsfl
+adts
+adta -r 310
+adtp 140638
+adtp
+adtd -f 354121
+adtq drllu
+adta -r 560
+adta -r 790
+adtd -r 247558
+adtp 527632
+adtd -r 527885
+adtr 6
+adta -r 710
+adtd -r 380996
+adtd -r 195356
+adtp 322113
+adtq hwkyu
+adta -s ylmki
+adtd -f 899
+adtp
+adtd -s yssdf
+adtr 4
+adtr 10
+adtp
+adtp 291418
+adta -s tefab
+adtp 515251
+adtd -a
+adta -r 920
+adtp 214446
+adta -r 400
+adtd -f 301721
+adtd -r 40943
+adta -r 860
+adta -r 280
+adtp -r
+adtp
+adtd -s kzuqi
+adtr 3
+adta -r 580
+adta -r 440
+adta -s yyblk
+adtd -f 478140
+adtd -r 30749
+adta -r 400
+adtd -b 273392
+adtd -r 83375
+adtd -f 237652
+adta -r 760
+adtp
+adta -r 190
+adtq dbcks
+adta -s bfdlu
+adtd -b 272954
+adta -r 200
+adtp 343184
+adtp 359995
+adta -s muzyj
+adta -r 120
+adtp 460522
+adtp 464734
+adtp
+adtq oaqym
+adta -s cwtpk
+adta -r 840
+adtp
+adta -s axauy
+adtd -r 425311
+adtp
+adtd -r 218259
+adts
+adta -r 290
+adtp -r
+adtd -a
+adta -r 530
+adtp 40431
+adtd -b 183076
+adtd -f 388902
+adta -r 700
+adtq ucwuh
+adta -r 760
+adtd -r 183192
+adtr 3
+adtd -b 351746
+adtp
+adtd -f 191385
+adta -r 610
+adtp -r
+adtd -r 170685
+adtd -r 19953
+adta -r 300
+adta -s gloau
+adtp -r
+adtd -b 25350
+adtp
+adtp 201579
+adtd -b 146439
+adta -r 830
+adtd -s xirvx
+adtd -r 171788
+adtp -r
+adta -r 280
+adtd -f 177986
+adtr 9
+adtp -r
+adtd -b 49177
+adtd -r 237904
+adtd -f 432508
+adta -r 930
+adtq uhlsr
+adtp 489884
+adta -s icxih
+adtd -f 300519
+adtp -r
+adtp
+adtp -r
+adtp
+adtr 6
+adtd -f 447445
+adta -r 670
+adta -r 810
+adta -r 500
+adta -s gznll
+adtp -r
+adtp -r
+adtd -r 206549
+adtq vrsmu
+adta -r 620
+adta -r 550
+adta -r 280
+adtd -b 33774
+adtd -r 492313
+adta -r 90
+adta -r 40
+adta -r 850
+adtd -a
+adtp -r
+adta -r 120
+adta -s xfhqc
+adtd -s duuww
+adta -r 540
+adta -r 200
+adtd -r 265758
+adtp 357278
+adtd -r 223277
+adta -r 800
+adtr 7
+adta -r 110
+adta -r 540
+adtr 3
+adtp
+adtd -b 400942
+adta -r 320
+adtp
+adtd -a
+adta -r 420
+adtd -r 554740
+adtp
+adta -s rdden
+adtd -b 263857
+adtd -r 363930
+adta -r 140
+adtd -b 512577
+adta -r 270
+adtd -a
+adta -r 60
+adta -r 780
+adtd -b 346455
+adtp -r
+adtp 318393
+adta -r 940
+adta -s libpm
+adta -r 990
+adtd -a
+adtd -r 526080
+adta -r 460
+adta -r 960
+adtp 384124
+adta -r 150
+adtd -r 453196
+adta -r 550
+adtd -r 489013
+adtp -r
+adtp
+adtd -r 223519
+adtd -r 543517
+adtp -r
+adtd -b 87764
+adta -r 400
+adta -r 820
+adtd -r 65968
+adtp -r
+adtd -r 535423
+adtp
+adtd -r 311231
+adtd -f 566051
+adta -s elfjn
+adta -s asnwt
+adtd -a
+adta -r 410
+adtp 148492
+adtd -r 333035
+adtd -r 521991
+adtq dkyuu
+adta -s iogsf
+adta -r 800
+adtp 536445
+adtr 2
+adta -r 310
+adtp 38989
+adta -r 270
+adta -r 750
+adtd -r 298077
+adta -s qyqvj
+adtd -b 391075
+adta -r 600
+adta -r 770
+adtq dkgru
+adtp 92176
+adtd -f 524510
+adtd -s qwyib
+adtp 486878
+adtp 569571
+adtq kuldj
+adta -r 590
+adtd -f 307863
+adta -r 280
+adta -r 190
+adtr 8
+adta -r 650
+adtd -b 285060
+adtd -s echhg
+adtd -b 114637
+adtr 8
+adta -s syelk
+adtd -r 213530
+adtd -f 391421
+adtd -b 303639
+adtp -r
+adtd -b 363301
+adta -r 510
+adta -r 630
+adta -r 680
+adtp -r
+adtd -b 149636
+adtq nqlvc
+adtd -r 418323
+adta -r 560
+adtd -r 341275
+adtd -r 431009
+adta -s ugqbq
+adtp
+adta -r 10
+adtd -f 139524
+adtd -r 584000
+adta -r 250
+adta -r 480
+adtr 3
+adta -r 810
+adta -r 950
+adta -r 350
+adta -r 910
+adta -r 840
+adtr 9
+adta -r 980
+adta -r 540
+adtp 214153
+adtd -r 496482
+adta -r 520
+adta -r 640
+adta -s qntie
+adta -r 990
+adtd -r 242310
+adtp -r
+adta -r 100
+adtd -r 7971
+adtp
+adtp 380885
+adta -r 290
+adtd -b 116105
+adtd -r 424230
+adtp 65180
+adtp
+adts
+adta -r 270
+adtd -b 141747
+adtd -r 471424
+adtp 95147
+adtd -r 439674
+adtd -f 88277
+adtr 9
+adta -r 270
+adta -s osbim
+adta -s pecgu
+adtd -r 216181
+adta -r 890
+adta -r 470
+adtd -f 168568
+adtd -r 167492
+adta -r 930
+adtd -f 395710
+adtd -r 106320
+adtd -f 486416
+adtp -r
+adtp 290788
+adtp
+adtq dthuo
+adtp
+adtd -a
+adta -s lpdol
+adta -r 390
+adtp -r
+adta -r 150
+adtd -a
+adtp 446667
+adtd -r 329892
+adtq qrzrj
+adtd -b 2755
+adtp 406514
+adtp
+adta -r 990
+adtp
+adta -r 950
+adtd -b 119994
+adtp
+adtd -r 51901
+adtd -r 503111
+adtd -s dczjo
+adtp
+adtp
+adta -r 510
+adta -s tpdfb
+adtd -s celfr
+adtp -r
+adtr 7
+adtd -r 97570
+adta -r 110
+adta -r 190
+adta -r 100
+adta -r 560
+adtd -r 364331
+adtp
+adta -r 410
+adts
+adtd -r 577365
+adta -r 80
+adtd -r 144007
+adta -s zesfc
+adta -r 690
+adta -r 900
+adtd -f 455198
+adtd -r 67254
+adta -r 420
+adtd -r 305630
+adtd -b 63293
+adtr 5
+adtd -f 550924
+adtp 566554
+adtd -b 587341
+adta -r 690
+adtp 215854
+adta -r 180
+adtp 371272
+adta -r 10
+adta -r 860
+adta -r 220
+adta -s tjhnx
+adta -r 90
+adta -r 570
+adtp
+adta -r 430
+adtp 384492
+adtd -b 168695
+adta -r 720
+adtd -a
+adtp
+adtd -r 391165
+adtd -f 558510
+adtr 4
+adta -r 390
+adtd -r 160241
+adtp
+adtd -r 508310
+adtd -r 104114
+adta -r 830
+adta -r 280
+adtd -r 223824
+adtp 389073
+adtd -b 389259
+adtp
+adta -r 230
+adtp
+adtd -r 18497
+adtp 302756
+adtd -s qvxrh
+adtp 76734
+adtp
+adta -r 450
+adtp
+adtd -s xdjea
+adtr 9
+adtd -b 515873
+adtd -r 443701
+adtd -r 111127
+adtp 362375
+adtd -b 317282
+adtd -a
+adtd -r 580025
+adta -s sexkn
+adta -r 980
+adta -s jdwwc
+adtd -b 145211
+adtp 24413
+adtd -r 26596
+adtq krsis
+adta -r 720
+adta -r 870
+adta -r 950
+adtd -s sgtel
+adtd -r 116431
+adtd -s yqitf
+adta -r 750
+adta -r 160
+adtd -f 523935
+adta -r 700
+adtd -f 439027
+adta -s rkdem
+adtd -s zczeb
+adta -s sztcx
+adtd -f 136510
+adtr 9
+adta -r 400
+adtd -r 28894
+adta -s spier
+adta -r 630
+adta -r 230
+adtd -r 316091
+adtd -s myjda
+adtp -r
+adta -r 230
+adta -r 980
+adta -r 230
+adta -r 680
+adta -r 520
+adtd -b 48474
+adtp 560084
+adta -r 20
+adtd -a
+adtp -r
+adta -s dwhkj
+adta -r 180
+adtq korpa
+adtd -r 391762
+adtp -r
+adtd -r 578646
+adtd -r 459425
+adtd -r 96951
+adta -r 690
+adtd -r 581738
+adtp 503820
+adta -r 920
+adta -r 790
+adta -r 140
+adtd -r 458558
+adta -r 390
+adtd -b 447229
+adta -r 670
+adtd -b 59147
+adta -r 640
+adta -r 260
+adtd -b 501209
+adtp 440729
+adtd -f 144896
+adtr 10
+adtd -b 51575
+adta -r 120
+adta -r 400
+adtd -f 381910
+adta -s yxxxz
+adtr 1
+adtd -b 506362
+adtp 611985
+adta -r 500
+adtd -r 278906
+adta -s buzvk
+adtr 3
+adta -s iwhth
+adtd -f 594012
+adtd -b 188268
+adts
+adtd -f 31677
+adta -r 440
+adtp -r
+adta -r 160
+adta -r 330
+adta -r 520
+adtp
+adtd -r 139693
+adta -r 820
+adtd -r 385026
+adtd -r 533120
+adtp
+adta -r 950
+adtd -a
+adta -r 110
+adtp -r
+adtd -r 553039
+adtd -r 467923
+adta -r 250
+adtd -r 269150
+adtq aacej
+adtd -b 396767
+adtp -r
+adtd -s nyqpr
+adtd -s tfjli
+adtd -b 212124
+adta -r 810
+adtp -r
+adta -r 970
+adtp -r
+adtp -r
+adtp -r
+adta -s zgwqd
+adtd -r 175124
+adtd -b 441441
+adtp 564965
+adtd -r 518887
+adta -r 790
+adtp
+adtd -r 237345
+adta -r 630
+adta -r 490
+adta -r 850
+adtp -r
+adtd -a
+adtp -r
+adtp
+adtq mbrxi
+adtd -r 503637
+adta -r 550
+adtd -r 548584
+adta -r 820
+adtd -r 560870
+adta -r 180
+adts
+adtp -r
+adtd -f 578377
+adtd -s lizkd
+adtr 6
+adtd -a
+adta -r 480
+adta -r 320
+adtd -r 435215
+adtd -r 26362
+adtp -r
+adtd -b 158132
+adta -r 720
+adtd -r 44947
+adta -r 200
+adtp
+adta -s hreqc
+adta -r 530
+adta -r 970
+adtp 459072
+adtd -r 162258
+adtd -r 558262
+adtd -f 440441
+adta -r 290
+adtd -s nytfz
+adtp -r
+adtp
+adta -r 10
+adtd -s mbfoo
+adta -r 220
+adta -s yjhtd
+adtd -f 499709
+adtd -r 552944
+adtp 491735
+adtp 142657
+adta -r 660
+adtd -f 527564
+adtd -a
+adtp 225170
+adtd -b 384167
+adta -r 280
+adtd -r 56696
+adtd -b 59006
+adtd -b 549194
+adta -r 780
+adtr 4
+adtp
+adtp 186057
+adtp -r
+adta -r 700
+adtd -a
+adtp -r
+adtd -f 338819
+adtd -s pdaed
+adta -s ekfek
+adta -s dwpog
+adtd -r 414061
+adta -r 900
+adtd -f 300680
+adtd -f 614576
+adta -r 240
+adta -r 30
+adta -r 940
+adtd -r 408002
+adta -s mdnsr
+adta -r 240
+adtq amylx
+adta -s bdwxh
+adtp
+adta -r 300
+adtd -r 87492
+adta -r 660
+adta -r 740
+adta -s qmont
+adtp -r
+adtd -b 129605
+adta -r 930
+adtp 63
+adtd -f 465497
+adtq ewhzy
+adtp 60428
+adts
+adtp -r
+adta -r 10
+adtd -f 463962
+adtd -r 157601
+adtd -s fsacs
+adtp 58091
+adtd -f 537247
+adtq rtsnf
+adtd -b 260111
+adta -s ckhvu
+adta -s bdmkx
+adta -s rmrem
+adtd -b 289326
+adta -r 80
+adtq fzpfb
+adta -r 30
+adta -r 940
+adta -r 300
+adtp
+adtp 29134
+adta -r 410
+adta -r 930
+adta -r 110
+adta -r 610
+adtp 238818
+adtp -r
+adta -r 380
+adtd -r 122961
+adtd -a
+adtd -b 140539
+adtd -r 17460
+adtp -r
+adtd -r 491183
+adtd -r 9379
+adta -s onthl
+adta -r 490
+adta -s bdcpk
+adtd -r 159991
+adta -r 690
+adtp
+adtp 318427
+adtp -r
+adta -r 70
+adtd -b 627035
+adtp -r
+adtp
+adta -s xszdf
+adtd -a
+adtp
+adta -r 720
+adtd -r 147777
+adta -s jdkff
+adtd -f 331044
+adtq mgczl
+adtr 10
+adtp 53694
+adta -s ewvil
+adtd -s gjbaf
+adtd -s amxao
+adta -r 80
+adta -s nvmmo
+adtd -b 590869
+adtd -r 319219
+adtp -r
+adtd -r 56716
+adtd -s hurzw
+adtd -r 176569
+adtp
+adtp 106905
+adtd -r 58809
+adts
+adtd -r 494375
+adtd -a
+adta -r 470
+adtp
+adtr 9
+adtd -f 622583
+adtq jsyap
+adta -r 730
+adtd -s yxtuv
+adtr 5
+adta -r 220
+adta -r 490
+adtd -a
+adtd -b 474258
+adtp -r
+adtp
+adtd -s qaroo
+adtp 206854
+adtd -s buyxl
+adtd -r 533784
+adtd -r 287398
+adta -s npapm
+adtd -r 547049
+adta -s abjqh
+adtp
+adtp -r
+adtd -f 652515
+adta -r 370
+adta -r 990
+adta -s zuctn
+adta -s silet
+adtd -s zhovz
+adtd -s kttbw
+adtd -r 433102
+adtd -r 7737
+adtd -f 447844
+adtd -f 355627
+adta -r 620
+adta -r 870
+adtd -a
+adta -r 890
+adtr 9
+adta -s dfgrn
+adtp -r
+adtd -s jgpub
+adtd -b 223700
+adtp 377186
+adta -s dwtar
+adta -r 580
+adts
+adta -r 290
+adta -r 720
+adtd -s qskwp
+adtd -r 357675
+adtd -r 5524
+adtp 110361
+adta -s bcbiw
+adtd -r 69562
+adta -r 820
+adtd -r 207283
+adta -s vhrsh
+adta -s qwtwd
+adtq ywurm
+adta -r 710
+adta -s rrlij
+adta -r 70
+adtp 406056
+adtd -s otvkg
+adts
+adtd -f 564442
+adtr 7
+adta -s tbggj
+adtd -b 482934
+adtd -f 508207
+adtr 10
+adta -r 200
+adtp -r
+adta -r 980
+adta -r 880
+adtd -b 92884
+adta -r 710
+adtd -r 230278
+adta -r 780
+adta -r 280
+adta -r 630
+adtp 70505
+adta -r 730
+adtd -r 256499
+adtd -r 419168
+adtd -b 295498
+adtp
+adtq kqlmf
+adtd -f 188506
+adtq bebrm
+adtd -r 186163
+adta -r 880
+adtq tzdgz
+adta -r 140
+adtd -s awpbl
+adta -r 540
+adtd -f 44550
+adtd -r 264156
+adta -r 260
+adtp 590534
+adtp 75378
+adta -r 980
+adtp -r
+adtp
+adta -r 740
+adtp 86694
+adtd -r 442465
+adts
+adtd -a
+adtd -s gwbmz
+adtr 2
+adtd -f 371936
+adtd -r 597213
+adtp
+adtd -r 51725
+adtd -r 233124
+adtd -s ihfey
+adta -r 120
+adta -r 160
+adta -s yiuam
+adtd -b 348454
+adtd -f 627685
+adtd -a
+adtp
+adtp 610569
+adta -s stmwq
+adtp 311559
+adtd -a
+adtd -f 116818
+adta -r 530
+adtp
+adtp -r
+adtd -s dwhkr
+adtd -r 356785
+adtd -f 471305
+adta -r 330
+adtp 530531
+adtp -r
+adtd -r 486566
+adtd -r 397079
+adtd -r 306114
+adta -r 600
+adtp 64440
+adtp
+adtd -r 140057
+adtq sukna
+adtd -r 386102
+adtd -b 436033
+adtd -b 549584
+adtd -f 123700
+adtr 6
+adta -r 460
+adtp
+adta -r 100
+adtq qaomm
+adtd -s himio
+adtp 187545
+adtp -r
+adtp 610468
+adta -r 150
+adtd -b 292364
+adtp
+adta -s vcfaj
+adtd -s ipjaw
+adtp -r
+adtp -r
+adtd -s kgbcb
+adtp -r
+adta -r 340
+adtd -f 605106
+adtd -b 279746
+adtd -s sntga
+adta -r 320
+adta -s sadcu
+adtp
+adtd -f 369732
+adtp -r
+adta -r 920
+adta -r 250
+adtp
+adta -r 980
+adtp -r
+adta -r 200
+adta -s maxhy
+adta -r 190
+adta -s hvlfg
+adtp
+adta -s xlruj
+adta -r 460
+adtp 561623
+adta -r 190
+adtd -r 583701
+adta -r 970
+adta -r 250
+adta -r 570
+adtd -b 500947
+adtp
+adta -r 270
+adtd -b 401924
+adta -r 480
+adtd -r 588204
+adta -r 30
+adtd -r 419863
+adta -s puyix
+adtq ctxaq
+adta -r 950
+adta -r 450
+adta -r 620
+adta -r 920
+adtd -r 168982
+adta -r 820
+adtd -f 193149
+adta -r 640
+adta -r 550
+adtd -r 8823
+adta -r 300
+adta -r 780
+adtp 356750
+adta -s jpcgx
+adtd -s rkbyh
+adtp 630142
+adta -r 550
+adta -r 640
+adtp -r
+adtd -s grsic
+adtd -f 60975
+adtq mzrlm
+adtd -r 43503
+adta -s bliws
+adtd -r 590387
+adta -r 740
+adta -s ovctx
+adtp -r
+adta -r 820
+adtd -r 331498
+adtd -r 101051
+adtd -r 424403
+adtr 7
+adtd -b 385440
+adtd -b 563660
+adtp
+adtr 10
+adtp
+adtp 232515
+adtd -f 336655
+adtd -f 163249
+adta -r 30
+adtp
+adta -r 770
+adta -r 710
+adta -r 950
+adtd -r 297319
+adtd -r 494626
+adtp
+adta -r 300
+adtp
+adtd -b 191546
+adtp 542314
+adtd -a
+adta -r 380
+adtd -s urhig
+adtp 231208
+adtd -s tlvca
+adta -r 440
+adtp
+adtd -s yuknm
+adtp
+adta -r 770
+adta -r 520
+adta -r 770
+adta -r 160
+adta -r 630
+adta -r 630
+adtd -b 249156
+adta -s sevsv
+adtd -b 613277
+adta -r 540
+adta -r 340
+adtp -r
+adtd -r 389004
+adtd -f 630157
+adtd -r 215502
+adta -r 260
+adtd -r 582957
+adta -r 510
+adtd -r 492252
+adta -r 400
+adtp 29288
+adtr 4
+adtp 590289
+adtd -f 441288
+adtd -f 186206
+adta -r 30
+adtq iggbh
+adta -r 340
+adta -r 40
+adtd -r 334262
+adta -r 190
+adtp
+adtd -r 291918
+adta -r 470
+adta -r 290
+adtr 5
+adtp 324298
+adtq vqtgv
+adta -s ozqpe
+adtp
+adta -r 500
+adtd -a
+adtd -r 119291
+adtq nilru
+adtd -r 282645
+adtp 432902
+adta -r 350
+adta -r 170
+adtp 680234
+adtq ezuux
+adtp -r
+adtp
+adta -s qrfrq
+adta -r 520
+adta -s omzkk
+adtp 128136
+adtr 3
+adtd -s fnpug
+adtr 6
+adtd -a
+adtd -f 78109
+adta -r 190
+adtd -f 57577
+adta -r 750
+adtd -s cnpue
+adtd -f 40606
+adtd -r 32712
+adta -r 940
+adta -s ikuca
+adta -r 780
+adta -r 130
+adta -r 80
+adtp
+adta -r 430
+adtq goixu
+adtp
+adta -r 310
+adtd -b 502338
+adta -r 890
+adtq nnssf
+adts
+adta -s tarqn
+adtr 4
+adta -r 280
+adtr 8
+adtd -r 42797
+adtr 6
+adtd -r 53125
+adta -s diugp
+adta -r 880
+adtd -r 93119
+adta -r 150
+adtd -f 645616
+adtd -b 623301
+adtd -r 319105
+adta -r 190
+adts
+adta -r 20
+adtq nnrfj
+adta -r 90
+adtd -b 11649
+adtp 65348
+adtp 138892
+adta -r 930
+adtq xpuss
+adtd -r 71069
+adta -r 540
+adtd -r 387516
+adta -r 920
+adtd -a
+adtp
+adtd -r 177444
+adtp -r
+adtd -r 130824
+adtd -f 34814
+adta -r 990
+adtq sldhj
+adtp
+adtd -r 14094
+adtp -r
+adta -r 490
+adtr 7
+adta -r 890
+adta -s hjlqp
+adta -r 500
+adtd -b 490258
+adtr 5
+adtd -s zwfit
+adta -r 70
+adtp 351208
+adtd -a
+adta -r 530
+adtd -b 83934
+adtd -b 692664
+adtd -r 644121
+adta -r 360
+adtd -s rhale
+adta -s cyyxh
+adtr 4
+adtd -r 553406
+adta -r 610
+adta -r 340
+adtp -r
+adtq qtyqb
+adta -r 990
+adtd -r 314506
+adta -r 430
+adtd -f 584116
+adta -r 700
+adta -s jivfb
+adta -s brdat
+adtd -r 487004
+adtd -f 3681
+adtp
+adta -s mipav
+adta -r 100
+adta -s ypuzt
+adta -r 360
+adtd -f 252644
+adta -r 230
+adtd -r 560927
+adtr 1
+adts
+adta -r 200
+adta -r 100
+adtd -r 667395
+adtp -r
+adta -s jswhe
+adta -r 890
+adtq pjiwr
+adtp
+adtd -f 199456
+adtd -s jklzk
+adtd -b 338775
+adtp
+adtr 10
+adta -r 70
+adta -s lntkg
+adtd -r 320637
+adta -r 480
+adta -r 180
+adtp 49549
+adtd -b 460873
+adtd -b 239449
+adtd -f 658719
+adtd -r 457402
+adtp 199091
+adtd -b 515299
+adtq oftwh
+adta -r 710
+adtp 232646
+adtq czjmw
+adta -s mvocz
+adtq juscw
+adtd -a
+adta -r 580
+adta -r 120
+adtp 479963
+adta -r 450
+adtp
+adtr 9
+adta -s dbwby
+adtd -s lpvmd
+adtp
+adtd -b 182676
+adtp 19516
+adtd -s dficr
+adta -s fgart
+adtd -r 377736
+adta -r 460
+adtp -r
+adtr 6
+adtp 458642
+adtp -r
+adta -r 470
+adta -r 70
+adtr 3
+adtp 139786
+adta -r 70
+adta -r 390
+adtd -b 41003
+adta -s elbje
+adta -r 380
+adta -s psmpw
+adtd -f 409334
+adta -r 190
+adtd -b 572709
+adta -r 420
+adta -s igjvz
+adtp 656222
+adta -r 500
+adta -r 600
+adta -r 230
+adta -r 730
+adtp
+adta -r 180
+adtp 502881
+adta -s qswdl
+adta -r 220
+adta -r 590
+adtr 6
+adtd -r 683865
+adtd -b 587303
+adtd -b 516398
+adtd -r 501508
+adtp
+adtp -r
+adtd -s ogrno
+adts
+adta -r 290
+adtr 6
+adtp
+adtd -a
+adta -r 330
+adta -r 740
+adtr 3
+adta -r 270
+adts
+adta -r 990
+adtp 649522
+adtd -f 711401
+adtr 10
+adtd -r 471461
+adtd -r 533328
+adtp 324498
+adtd -r 477911
+adtd -f 180237
+adtd -r 430638
+adtd -b 351373
+adta -r 810
+adta -r 890
+adtr 8
+adta -r 380
+adtq shakq
+adtp 363940
+adtd -r 699422
+adtp
+adtd -r 629198
+adtp -r
+adtd -r 207599
+adtd -f 44589
+adtp
+adtd -r 628083
+adtq pcsds
+adtp -r
+adta -r 750
+adtp -r
+adtd -r 698169
+adtp 723954
+adtd -r 703214
+adtd -r 171326
+adta -r 590
+adtp -r
+adtp 342325
+adta -r 160
+adta -r 880
+adtd -r 266133
+adta -r 720
+adtq woxyn
+adtp
+adtd -f 117943
+adtp
+adta -s zjgih
+adtr 8
+adtd -b 71620
+adta -r 240
+adta -r 440
+adta -r 680
+adtd -f 281744
+adtd -a
+adtd -r 444959
+adta -r 240
+adtd -r 724150
+adta -r 990
+adtd -r 569366
+adtd -a
+adta -r 920
+adtd -b 287328
+adta -r 90
+adtd -a
+adtd -r 85914
+adta -r 870
+adtp
+adtd -r 666828
+adtp
+adtd -r 715565
+adtd -f 409188
+adtd -r 35338
+adtp -r
+adta -r 380
+adtd -f 266672
+adtd -r 330509
+adtp 47257
+adtd -b 444731
+adta -s fppxy
+adtp
+adta -r 740
+adtp
+adtp 57237
+adta -r 940
+adta -s ixnks
+adtp
+adtd -b 533203
+adtq zwlff
+adtd -r 164639
+adta -r 170
+adtr 1
+adta -r 690
+adtr 3
+adta -r 720
+adtd -r 151521
+adta -s rrwte
+adtp -r
+adta -r 640
+adtp
+adtd -b 263988
+adta -r 430
+adta -r 770
+adta -r 310
+adta -r 420
+adtp -r
+adtp
+adtp
+adtp
+adtp 402059
+adtq pcfle
+adtd -a
+adtp 488415
+adtd -f 577124
+adtp 208119
+adtd -f 61298
+adta -r 480
+adtd -b 717901
+adtd -s dmygh
+adta -r 750
+adtq yetsn
+adtd -f 554514
+adtr 7
+adtd -b 230429
+adta -r 980
+adtd -r 38017
+adtd -f 487239
+adtp 521271
+adtp -r
+adtd -r 17328
+adtq zxzki
+adta -r 600
+adtd -r 462844
+adtp
+adta -r 370
+adtd -r 243109
+adtp 120285
+adtd -r 646990
+adtp
+adtd -r 161514
+adtq pqyyy
+adtp
+adtd -r 386400
+adtq oydrb
+adtp
+adtd -f 484799
+adta -r 920
+adta -r 610
+adtp 379073
+adtq ottyg
+adtd -b 447499
+adtp
+adtp -r
+adtq jshak
+adta -r 460
+adtp -r
+adtd -r 335257
+adtd -f 507848
+adta -r 60
+adta -r 850
+adtp
+adtp
+adtd -b 304078
+adtp 246936
+adtd -a
+adtr 3
+adta -r 980
+adtp
+adtd -r 327627
+adtd -f 336250
+adtd -r 642114
+adta -r 730
+adtd -b 395868
+adts
+adta -r 430
+adta -r 480
+adtr 8
+adtd -b 498308
+adtd -r 8200
+adta -r 400
+adta -r 120
+adtp
+adta -s eirmq
+adta -r 760
+adta -r 780
+adtd -a
+adtd -r 369026
+adta -r 710
+adtd -r 503210
+adtd -r 196796
+adta -s xjiai
+adta -r 900
+adtd -r 436328
+adta -s wkvqz
+adtd -s uaktv
+adtp -r
+adtp -r
+adta -s fkvir
+adtp 702104
+adtd -r 663560
+adtd -b 561829
+adtp -r
+adta -r 300
+adtd -s bkxyb
+adta -r 790
+adtp 715486
+adtd -f 142612
+adtr 7
+adtp -r
+adta -r 370
+adtd -b 27414
+adtp -r
+adta -r 860
+adtd -r 576215
+adta -r 320
+adtd -r 709699
+adtp -r
+adtq uhavl
+adtd -b 25128
+adtd -b 70956
+adtd -b 227132
+adtp
+adtq wttca
+adta -s dkdqs
+adtd -b 648713
+adtp 27809
+adtp -r
+adtd -r 461218
+adtr 5
+adtd -a
+adtp -r
+adtp
+adtq wfsui
+adta -r 160
+adta -r 200
+adtp 33488
+adtd -f 245975
+adta -r 590
+adta -r 690
+adta -s gouty
+adtd -s pnnbz
+adta -s cxuun
+adtd -b 432700
+adta -r 50
+adtd -f 264718
+adta -r 440
+adtp 430728
+adtd -r 602025
+adta -r 90
+adtd -a
+adtd -a
+adtp 355533
+adtr 1
+adtp
+adtr 1
+adtd -r 411383
+adta -r 310
+adta -r 10
+adta -r 440
+adtd -b 288852
+adta -r 760
+adta -r 540
+adtp 494820
+adtp 471537
+adta -r 290
+adta -r 720
+adtp -r
+adtd -a
+adta -s ceeri
+adta -s wmsom
+adtp
+adtq hfyjg
+adtp -r
+adtq bqnlb
+adta -r 450
+adtd -b 147399
+adtp
+adtd -b 661028
+adta -s dpene
+adta -r 150
+adtp 289485
+adta -r 880
+adtd -r 16216
+adtq zikjj
+adta -r 250
+adta -r 220
+adtd -b 135092
+adtd -b 431753
+adtp -r
+adtp -r
+adtp 538658
+adtd -r 198382
+adta -s nbpqs
+adtd -r 364377
+adtd -r 120500
+adtp
+adtd -b 611606
+adtd -s xeuwb
+adtd -r 622763
+adtp 62195
+adtd -a
+adta -r 940
+adta -r 870
+adtd -r 564454
+adta -r 610
+adts
+adtp
+adtd -r 250543
+adtp 544835
+adtp -r
+adtd -r 211254
+adtp
+adtd -b 390687
+adta -s sicfy
+adtd -r 150168
+adtr 8
+adtr 10
+adtd -b 382200
+adta -r 190
+adta -r 100
+adta -r 510
+adtd -s mkbqc
+adta -r 60
+adtd -r 331126
+adta -r 120
+adtp -r
+adtp 106594
+adta -r 190
+adtp 365299
+adtd -b 665223
+adtp
+adta -r 210
+adta -s pjbig
+adta -r 860
+adta -s ajsys
+adtd -b 369168
+adtd -b 119095
+adta -r 830
+adta -r 290
+adta -r 30
+adta -r 980
+adtp -r
+adtp 721026
+adtd -f 36139
+adta -r 710
+adtp
+adtd -b 9509
+adtd -f 575065
+adtq wfijt
+adtp 502569
+adtd -r 394287
+adta -r 90
+adtd -b 252282
+adtp
+adtd -a
+adtd -r 763990
+adtp
+adta -r 920
+adta -s jtzoc
+adtd -r 110632
+adtp -r
+adtp 771793
+adtr 10
+adta -r 940
+adta -r 150
+adta -s cbkgl
+adta -r 310
+adta -r 940
+adtp
+adta -s fyqkq
+adtd -f 195507
+adtp
+adts
+adtp -r
+adta -r 830
+adta -s hmpvb
+adtd -f 136501
+adtp
+adtp
+adtq iqztk
+adta -s ainpg
+adtp 773861
+adta -r 580
+adtr 1
+adta -r 740
+adta -r 550
+adtp
+adta -r 750
+adtd -r 340989
+adtq qlmmn
+adtr 7
+adta -r 340
+adtp
+adtd -f 6795
+adtp 448949
+adta -s xtgpn
+adtq acsia
+adtq losbn
+adtd -r 217349
+adtp
+adta -r 750
+adtd -r 368940
+adta -r 960
+adtd -a
+adta -r 40
+adta -r 100
+adtd -r 12652
+adtp
+adtq zidqj
+adtp
+adtq qtrgk
+adtd -b 190345
+adta -r 470
+adta -r 920
+adtd -r 779644
+adtr 2
+adts
+adtp 340550
+adta -r 410
+adtp
+adta -r 860
+adtp
+adts
+adtp
+adtd -s joqnh
+adtp
+adtp -r
+adtq lqtlx
+adtr 10
+adtp 153957
+adtd -r 453082
+adtd -a
+adtd -r 560033
+adtd -b 514367
+adta -r 250
+adtp -r
+adtp -r
+adtp -r
+adta -r 220
+adta -r 490
+adts
+adtq aqkfw
+adta -r 50
+adtd -b 75102
+adtd -r 228844
+adtq wwqxx
+adtd -r 471017
+adtd -r 601414
+adtd -f 680254
+adtp -r
+adta -s fsuii
+adta -r 620
+adta -r 660
+adtd -b 390231
+adtd -r 212869
+adtr 7
+adtq wkbwg
+adtd -r 316835
+adtd -s ndplr
+adta -r 120
+adtr 3
+adta -r 960
+adta -r 70
+adtr 8
+adtd -r 565174
+adtd -a
+adtr 3
+adta -r 500
+adtd -f 65637
+adtp
+adta -s tjmmv
+adtd -r 8203
+adtp -r
+adtd -b 505161
+adta -s hxnbv
+adtd -r 143260
+adtr 7
+adta -r 250
+adta -r 340
+adtd -r 621750
+adta -s rvvyf
+adtd -f 581737
+adta -r 970
+adts
+adtq flquh
+adtq xdofg
+adtd -b 151945
+adta -r 510
+adtd -r 318983
+adtd -b 379233
+adta -r 680
+adtd -r 563874
+adtd -a
+adtd -r 182103
+adtp -r
+adta -s jfsbw
+adta -s dvlou
+adta -r 230
+adta -r 30
+adta -r 840
+adtd -b 262269
+adtr 7
+adtp -r
+adta -r 340
+adtd -r 737545
+adtq yceil
+adtq psdym
+adtp -r
+adtr 9
+adtd -r 250380
+adtq wosvf
+adta -r 90
+adta -r 120
+adtd -f 105802
+adta -r 390
+adta -r 370
+adtp
+adta -r 120
+adtd -r 629
+adtd -r 699036
+adtp 443378
+adta -r 960
+adta -r 960
+adtd -f 688373
+adtd -r 214408
+adtd -b 141693
+adta -r 510
+adtp -r
+adtd -r 660872
+adta -r 770
+adta -r 340
+adtd -r 498046
+adtd -b 344005
+adta -r 340
+adtd -b 648170
+adtd -s xbssl
+adtd -b 603495
+adta -s cmnmb
+adta -r 550
+adtd -f 262308
+adts
+adtr 6
+adta -r 480
+adtp 272810
+adta -r 590
+adtq smakn
+adta -r 330
+adtd -s unkfy
+adtd -r 520170
+adtq opcyd
+adtd -b 581504
+adtd -s lfghb
+adtd -a
+adtr 4
+adtr 10
+adtp
+adtd -a
+adtp -r
+adtp 628693
+adtd -r 151036
+adta -r 380
+adtd -b 286419
+adta -s syzpq
+adtd -r 710056
+adtp
+adtp -r
+adta -r 270
+adta -r 380
+adtd -r 108533
+adtd -s tifid
+adtd -s fpnnf
+adta -s bqjkg
+adtp
+adta -r 160
+adtr 8
+adtp 349832
+adta -r 400
+adta -r 670
+adtd -b 288682
+adtd -r 507846
+adtd -b 477422
+adtr 3
+adta -s pcpzq
+adta -r 30
+adtp 704075
+adta -r 600
+adtp 562166
+adtd -r 261351
+adta -r 80
+adtd -a
+adtd -a
+adtp -r
+adta -r 330
+adta -r 320
+adtd -a
+adtd -a
+adtd -r 625774
+adtp 338821
+adtq ildwq
+adta -r 30
+adtd -r 218148
+adtp 322777
+adta -r 340
+adta -r 520
+adtd -a
+adta -r 340
+adtp 470309
+adtd -r 461474
+adtp 336368
+adtp -r
+adtp -r
+adta -r 220
+adtd -b 413281
+adtd -r 117791
+adtp 150066
+adtd -f 538513
+adta -r 710
+adtr 3
+adta -r 490
+adtd -b 414088
+adtd -r 197669
+adtp
+adta -r 310
+adtq sljjm
+adtp
+adta -s jzqtu
+adtd -a
+adtr 1
+adta -r 770
+adtd -b 797638
+adtq rxtkb
+adtd -r 523682
+adta -r 10
+adta -s kwzxk
+adtp -r
+adtd -s pupym
+adts
+adta -s fgagr
+adts
+adta -r 910
+adtd -b 272976
+adtp
+adtp
+adtp
+adtd -r 242438
+adtd -f 642252
+adtd -f 447226
+adta -s nlhqk
+adtd -r 745567
+adta -r 220
+adtp
+adts
+adtq cokha
+adtd -r 520741
+adta -s bxbyz
+adtd -r 56930
+adtp -r
+adta -r 850
+adta -r 590
+adta -r 460
+adtq hpiie
+adtp
+adta -r 100
+adtd -f 248268
+adtd -b 114416
+adta -r 260
+adta -r 450
+adta -r 500
+adtp
+adtq qulef
+adtp -r
+adta -r 10
+adtp 538465
+adta -r 950
+adta -r 150
+adtd -s prjhu
+adtr 3
+adta -r 760
+adtp 28219
+adtq pqope
+adta -r 460
+adta -r 150
+adtd -a
+adta -s vtwxt
+adtd -b 621919
+adtd -r 442152
+adtd -r 674467
+adta -r 890
+adtd -r 263811
+adtp
+adta -s vpdiy
+adtp -r
+adtp 36308
+adta -r 340
+adtd -r 809088
+adta -r 440
+adtd -r 557019
+adtp 456093
+adtr 8
+adtd -f 662065
+adtd -r 592335
+adta -r 310
+adta -r 930
+adta -r 740
+adta -s bnols
+adta -s gjfsz
+adtd -b 336918
+adtd -r 480094
+adtd -r 622033
+adtd -f 121956
+adtd -r 583891
+adtd -f 561173
+adtd -r 815644
+adtd -b 676860
+adtd -r 522997
+adta -r 290
+adtd -s qjzel
+adta -r 670
+adtd -f 196897
+adtr 6
+adtr 10
+adtp -r
+adtp -r
+adtq vwdoh
+adta -r 420
+adtp 421966
+adtd -r 747080
+adtd -f 373535
+adta -r 50
+adta -r 760
+adtd -r 173088
+adtq pfylb
+adtd -r 541744
+adta -r 850
+adtd -r 294191
+adtd -b 628051
+adta -r 350
+adta -r 640
+adtr 7
+adta -r 20
+adtd -b 402721
+adtd -s cansy
+adta -r 950
+adtp -r
+adta -r 830
+adta -r 930
+adtp -r
+adtp 349216
+adtp 330596
+adtp 301064
+adtd -b 235836
+adta -r 870
+adta -r 70
+adtd -s kcitl
+adtd -s xmxko
+adtd -b 594008
+adta -r 620
+adtd -r 735163
+adtd -f 759210
+adtp
+adtp 765119
+adtr 3
+adtp 412704
+adta -r 290
+adtp -r
+adtd -r 106316
+adtd -r 773386
+adtp 627361
+adtd -f 265051
+adtd -b 203771
+adtd -b 96437
+adta -r 130
+adtd -r 46947
+adtp
+adta -s phnei
+adtd -r 520037
+adtr 7
+adta -r 850
+adta -s gcwuj
+adtd -r 2509
+adts
+adta -s jfusd
+adtd -a
+adtd -r 751695
+adta -r 880
+adtr 3
+adtp -r
+adtr 1
+adtd -r 491259
+adtq irrgp
+adta -r 240
+adtd -r 573642
+adtd -b 608867
+adtp 408598
+adtd -r 352632
+adtp -r
+adtd -r 599119
+adtp -r
+adtp
+adta -r 90
+adtd -s qgaym
+adta -r 590
+adta -s wlkab
+adtp 193731
+adtd -s uvcco
+adtd -f 399084
+adtd -s hhlqa
+adtd -f 235349
+adtd -s ipnid
+adtd -r 721429
+adta -r 380
+adtd -s uqchw
+adtd -r 559641
+adtd -r 123900
+adta -r 570
+adtd -f 12548
+adtd -r 289035
+adtd -r 484738
+adta -r 650
+adtd -b 633853
+adtq fqsog
+adtd -f 350610
+adtd -r 233194
+adtp -r
+adts
+adtd -r 556615
+adta -s vlujw
+adta -r 40
+adtd -r 96407
+adtd -r 489062
+adta -s odooi
+adtq umwak
+adtd -b 518935
+adtd -s umpnh
+adta -r 340
+adtd -b 674609
+adtp 74842
+adtd -a
+adts
+adta -r 820
+adtp
+adta -r 380
+adtd -r 259325
+adtp 759671
+adtd -r 541849
+adtd -r 410518
+adtd -r 532229
+adtp -r
+adtd -r 334922
+adtd -a
+adta -r 940
+adta -r 370
+adta -r 350
+adtd -r 438876
+adtd -b 634996
+adtp 633626
+adtd -f 808544
+adtq sicok
+adtp
+adta -r 750
+adtd -s cwysh
+adta -s uabln
+adtd -r 524741
+adta -s njbik
+adta -r 840
+adtp
+adtd -r 111782
+adta -r 510
+adtp -r
+adtq qywnj
+adtd -f 158919
+adta -s qgmxh
+adta -r 670
+adta -r 310
+adtd -r 438316
+adta -r 260
+adta -r 90
+adta -r 100
+adtp
+adtd -a
+adta -s oqrco
+adtd -r 791365
+adtp -r
+adtd -b 483945
+adtq mkajm
+adtd -r 266315
+adtd -r 255265
+adta -r 900
+adtr 8
+adta -r 590
+adta -r 210
+adtq psrrs
+adtd -b 702508
+adtr 4
+adtp -r
+adtq zdnlj
+adta -s cmbni
+adtp 431793
+adtq mhvzr
+adtd -r 416541
+adta -s yjeqt
+adta -s ptjlt
+adtq okbco
+adtp 404341
+adtd -a
+adta -r 640
+adta -r 600
+adta -r 340
+adtp 178873
+adtp -r
+adtp
+adtd -b 565249
+adtd -a
+adts
+adtp -r
+adta -r 410
+adtp -r
+adtr 3
+adtd -a
+adtp 193457
+adtp 730226
+adtd -b 1518
+adta -r 640
+adtq ukast
+adtp
+adtd -f 209201
+adtp 262527
+adtp
+adtp
+adtd -b 340468
+adta -s fvjgf
+adtd -r 693567
+adtd -s qlozm
+adta -r 360
+adtd -b 272018
+adtd -r 343767
+adta -r 750
+adtd -f 430214
+adtp 412592
+adtd -f 620924
+adtd -r 778236
+adta -s jbsow
+adtd -f 617562
+adtr 5
+adtp -r
+adta -r 210
+adtd -f 602733
+adtd -f 303423
+adta -s rvfga
+adtd -r 692686
+adtd -r 518370
+adta -r 860
+adtd -r 540334
+adtd -b 535615
+adtd -r 830136
+adta -r 500
+adtd -r 581067
+adtd -f 39797
+adtd -s sgxhg
+adta -r 60
+adtd -r 554272
+adtd -f 758604
+adtd -r 289379
+adtd -f 818769
+adta -r 630
+adtd -r 2220
+adtp
+adtr 9
+adtp 383298
+adtd -b 812189
+adtp 759677
+adtp -r
+adta -r 890
+adtd -b 337692
+adtr 1
+adtp -r
+adta -r 120
+adtp 623116
+adta -r 850
+adta -r 960
+adtd -r 817891
+adta -r 290
+adtd -a
+adta -r 630
+adta -r 860
+adta -r 460
+adtp
+adtr 6
+adta -r 80
+adta -r 550
+adta -r 340
+adtr 10
+adtd -f 723236
+adtp
+adtd -r 329213
+adta -r 680
+adta -r 830
+adtd -f 690844
+adta -r 30
+adta -r 100
+adtp
+adtr 1
+adta -r 260
+adta -r 90
+adtd -f 500722
+adtp 32917
+adtd -a
+adta -r 70
+adtd -f 535367
+adtd -f 217967
+adtd -f 620952
+adtd -a
+adtp 841353
+adtd -b 451738
+adtp -r
+adtd -a
+adtd -f 439538
+adta -s vigbu
+adtd -r 291394
+adta -r 630
+adta -r 860
+adtp
+adta -r 330
+adtr 6
+adtd -s laawz
+adta -r 290
+adta -r 300
+adtd -f 484706
+adta -r 320
+adtd -f 628575
+adtd -s fkrzo
+adtd -a
+adtp
+adtd -r 623316
+adtr 6
+adtp
+adtd -b 723769
+adta -r 260
+adtq wlmxn
+adtd -a
+adtp
+adtd -s wmunp
+adta -r 610
+adtp 666999
+adtq bfksk
+adta -r 790
+adta -r 390
+adtr 8
+adta -r 810
+adta -r 980
+adtd -a
+adta -r 860
+adtp -r
+adta -r 740
+adtr 1
+adta -s xoxgy
+adta -r 420
+adta -r 700
+adta -r 420
+adtp -r
+adta -s hmwup
+adtp 652848
+adtd -b 662532
+adtd -r 423313
+adtp 426289
+adtr 7
+adta -r 520
+adtd -s gxyee
+adta -r 460
+adta -s okqel
+adtd -f 619525
+adta -r 560
+adta -r 220
+adtq aoxrz
+adta -r 30
+adta -r 630
+adta -s qexoa
+adtd -b 650308
+adtd -f 27664
+adtd -b 116829
+adtq hchgi
+adtp -r
+adta -r 780
+adta -r 820
+adta -s hyxpj
+adtr 2
+adtp 81296
+adtd -f 361183
+adtd -s rdcxq
+adta -r 810
+adta -r 930
+adtp
+adtd -f 239385
+adtp 380823
+adtp 317713
+adta -r 100
+adtd -a
+adts
+adta -r 560
+adtd -b 110840
+adtq dvvxv
+adtp -r
+adtq lhklg
+adts
+adtd -s lnxcz
+adta -r 970
+adtq dwmqd
+adtd -f 621230
+adta -r 780
+adtd -r 678182
+adtd -f 41355
+adta -r 500
+adta -r 30
+adtd -f 9482
+adta -s nsghm
+adta -r 160
+adtp
+adtp -r
+adta -r 820
+adta -r 850
+adtd -b 101638
+adtd -r 750255
+adta -r 580
+adta -r 830
+adtd -r 240392
+adta -r 280
+adtd -r 12072
+adtd -r 602452
+adtr 5
+adtr 8
+adtp 299691
+adtr 8
+adtp
+adtd -r 6066
+adtp
+adta -r 760
+adta -r 640
+adta -s pnfji
+adtp -r
+adtp -r
+adtd -f 871283
+adta -r 410
+adta -r 400
+adtp -r
+adtd -a
+adtr 6
+adtd -r 790042
+adta -r 860
+adtd -r 736899
+adtq hseab
+adtd -r 38077
+adtd -b 235311
+adtd -s fsyqj
+adtd -f 488885
+adtd -r 133842
+adtd -b 275008
+adtd -a
+adta -s kcuzt
+adta -r 400
+adtd -r 192076
+adtp 832013
+adtp -r
+adtp -r
+adtr 7
+adtp
+adtd -r 142421
+adtp 772599
+adtd -s ctluj
+adta -r 60
+adta -r 850
+adtp 688976
+adtd -a
+adta -r 280
+adtq aqfnh
+adta -r 900
+adta -r 920
+adta -r 820
+adtd -b 814276
+adtp
+adtd -r 819732
+adtd -f 847964
+adta -r 460
+adta -r 410
+adtp 397564
+adtd -r 699863
+adtd -a
+adtp
+adta -s mybrw
+adtd -s cisvr
+adtd -f 91757
+adta -s psayi
+adta -r 360
+adta -r 500
+adtd -f 506112
+adtd -s qhgku
+adta -r 630
+adtp -r
+adtr 1
+adtp 163754
+adta -s mksdr
+adtr 8
+adtd -b 125005
+adtd -f 474730
+adtd -r 577561
+adta -r 860
+adta -r 570
+adtp
+adtp -r
+adta -r 870
+adtq qzcrk
+adtq pctet
+adta -r 870
+adta -r 510
+adtd -b 15062
+adtp 598095
+adtp
+adtd -b 861734
+adtd -r 536418
+adta -r 870
+adtq czvkd
+adtd -b 319417
+adta -s gyooa
+adta -r 220
+adtp -r
+adtd -b 101823
+adtq sajjt
+adtr 10
+adtd -b 870015
+adtd -b 149939
+adtd -s eoyhx
+adtp -r
+adta -r 720
+adtp 551340
+adta -r 860
+adtq gejth
+adtd -f 628256
+adta -r 440
+adtq tvxnf
+adtd -b 674506
+adta -r 980
+adtq dpvco
+adtq koudu
+adtq ecjwl
+adta -r 980
+adta -s ftseh
+adtp
+adta -s nybqi
+adtd -f 488628
+adtp -r
+adta -r 650
+adtr 2
+adta -s tdefk
+adts
+adta -r 760
+adtp
+adta -r 520
+adtd -r 303644
+adta -r 920
+adtd -f 160072
+adta -r 160
+adtd -r 133791
+adtd -f 743251
+adta -r 570
+adtp
+adtp
+adtq zvmdf
+adtr 7
+adtd -r 302386
+adtd -r 3985
+adtp
+adta -r 320
+adta -r 620
+adtp -r
+adta -r 360
+adtp 245683
+adta -s ssuyu
+adtd -b 50549
+adtp 219362
+adtd -b 86807
+adtq povcd
+adtr 1
+adta -r 660
+adtp -r
+adtd -f 837229
+adta -r 410
+adtp
+adta -r 940
+adtd -r 246112
+adta -s lwiqq
+adta -r 470
+adta -r 60
+adtr 10
+adtp 633249
+adtq ehlcy
+adtd -a
+adtd -r 223697
+adtp
+adtd -r 409776
+adta -r 730
+adta -r 970
+adta -r 320
+adtd -a
+adtr 3
+adta -r 760
+adta -s malzx
+adtq jbhak
+adta -r 160
+adta -r 130
+adtd -f 309131
+adtd -r 60979
+adtd -f 634108
+adtd -r 427961
+adtd -f 529417
+adta -s vjiyg
+adtd -f 557386
+adtp -r
+adta -r 350
+adta -r 770
+adta -r 270
+adtd -r 330978
+adtp 872274
+adtd -a
+adtp 795191
+adtd -b 820684
+adtd -f 610532
+adtd -f 121538
+adtd -r 799680
+adtd -f 262944
+adta -r 410
+adts
+adtp -r
+adtr 2
+adtd -s ekfth
+adtp 50779
+adtd -r 464929
+adtd -f 632922
+adta -r 720
+adtd -r 444414
+adtd -f 571999
+adtd -r 111298
+adta -r 670
+adta -r 650
+adtd -b 796903
+adtd -s zpgfm
+adta -r 630
+adta -r 700
+adta -s wkzbz
+adtr 3
+adtd -r 873223
+adta -s omdrg
+adtd -a
+adta -r 30
+adtq olwit
+adta -r 930
+adtp
+adta -r 660
+adtp 108641
+adtp
+adtp 375140
+adtd -r 890081
+adta -r 820
+adtd -r 142395
+adta -s ldirj
+adta -r 420
+adta -r 820
+adtd -b 863707
+adta -r 310
+adta -s yblnq
+adta -r 720
+adtd -f 315588
+adta -r 840
+adtd -r 435428
+adta -r 10
+adtp -r
+adtq arehd
+adtp -r
+adtd -a
+adta -r 430
+adta -r 750
+adta -r 370
+adtp
+adtp 361372
+adtd -r 491038
+adtr 8
+adta -r 220
+adtd -s kcamp
+adtd -r 757021
+adtd -f 92698
+adtp
+adtd -f 665987
+adtp -r
+adtd -r 840234
+adta -r 250
+adtd -b 338972
+adta -r 610
+adta -r 650
+adtd -a
+adtd -r 223875
+adtd -b 449626
+adta -r 780
+adtp 120323
+adtd -r 785341
+adta -s cxnfn
+adtp
+adtq pvabe
+adtr 1
+adtq ciyvh
+adtp
+adta -r 860
+adta -r 130
+adtp
+adtd -r 423953
+adtp -r
+adta -s flsca
+adtp 592924
+adtr 1
+adtq ohvrb
+adtq vatwz
+adtp
+adtd -b 320737
+adtr 3
+adtp -r
+adtd -f 531102
+adtd -f 186450
+adtp -r
+adtd -f 263991
+adta -r 460
+adtd -r 250505
+adta -r 940
+adtd -b 754674
+adtd -r 516738
+adtp 891767
+adtd -s jxemu
+adta -r 380
+adtq sehet
+adtp -r
+adtq vpdbt
+adtd -b 312010
+adta -r 930
+adtp
+adtd -r 2915
+adtd -f 767106
+adtr 7
+adtp 753938
+adta -r 430
+adtp 392809
+adtp -r
+adtd -r 263675
+adtd -a
+adtd -r 634995
+adtd -b 364995
+adta -r 620
+adtp 494904
+adtd -s kuqsj
+adtd -b 228712
+adtp
+adtp 437339
+adta -s gzneu
+adtq dqgde
+adta -r 690
+adtd -f 660310
+adtd -a
+adtp 87810
+adtp -r
+adtp
+adta -r 690
+adtd -r 781747
+adta -r 90
+adta -r 80
+adtp
+adtd -s orzxx
+adta -r 880
+adtd -r 551995
+adta -r 290
+adtp 195989
+adtd -s iwykv
+adtp
+adtp 215664
+adtq qbpgn
+adtd -r 242682
+adtp 403013
+adta -r 800
+adtd -r 477907
+adtd -s rtpvc
+adta -r 310
+adta -r 770
+adta -r 980
+adta -r 650
+adtp 595863
+adtp
+adtp
+adta -r 680
+adtr 9
+adtd -f 275847
+adtd -s pufaj
+adtd -f 143264
+adta -r 140
+adtp 885759
+adta -r 640
+adtr 6
+adta -r 170
+adtd -b 454293
+adtd -r 39569
+adtq gdnaw
+adtd -b 305639
+adta -r 470
+adtd -s atnye
+adta -r 610
+adta -r 520
+adtp 349904
+adta -r 250
+adtd -f 729217
+adtd -a
+adtd -b 698921
+adtp
+adtd -r 223624
+adts
+adtd -b 446539
+adtp
+adta -r 620
+adtq dvlix
+adta -r 490
+adtp
+adtq eimto
+adtd -r 104100
+adta -s ihywj
+adtd -r 567599
+adtp 737911
+adta -r 250
+adta -r 790
+adta -r 170
+adta -r 180
+adta -r 950
+adtd -r 371914
+adta -r 870
+adta -s pftuf
+adta -r 820
+adta -r 890
+adtp 561872
+adtq ezwlc
+adtr 6
+adtd -f 348730
+adta -r 750
+adtr 5
+adtr 7
+adtp 197017
+adtd -s krpuk
+adtp
+adtd -a
+adta -s xpytb
+adtd -f 180719
+adtd -r 379902
+adta -r 660
+adta -r 960
+adtd -f 591761
+adtd -s fybpr
+adta -r 710
+adta -s hdvxq
+adtp 669130
+adta -s taxgf
+adta -r 720
+adta -r 910
+adta -r 950
+adtd -r 560040
+adta -r 720
+adtp
+adtd -r 131792
+adtd -f 732139
+adtp
+adtd -r 362566
+adtd -f 435902
+adtd -r 160478
+adtp 364084
+adtp -r
+adtp
+adta -r 600
+adta -r 220
+adta -r 420
+adtd -r 381051
+adtd -r 573464
+adtr 7
+adtp 298221
+adtp
+adta -s guepx
+adtd -r 567331
+adtp 508018
+adta -r 290
+adtp -r
+adtd -f 449317
+adtd -r 601638
+adta -s uupuz
+adta -r 600
+adtd -b 215242
+adtd -r 397071
+adtd -b 302911
+adtd -b 459508
+adtd -f 769341
+adtq echli
+adtq nsnjn
+adtq dzftw
+adta -s fziha
+adta -s bnpkj
+adtp -r
+adtd -f 146200
+adta -s jnswz
+adta -s avulr
+adta -r 20
+adtq wzmzf
+adtd -b 176302
+adtd -r 58825
+adtd -s anrhv
+adta -r 880
+adtd -r 110263
+adtp 935994
+adtd -s eqkaf
+adtd -b 749933
+adtp
+adta -r 560
+adtd -r 716002
+adtp 427334
+adtq fcyxq
+adta -r 220
+adtp
+adtd -f 153544
+adtr 6
+adtp 461991
+adta -r 520
+adtd -f 575602
+adta -r 850
+adtd -b 320688
+adta -s kudtr
+adta -r 770
+adtq kzyir
+adtp -r
+adtd -f 716363
+adtr 5
+adta -r 440
+adtd -r 320156
+adtd -a
+adtp 227282
+adtp -r
+adta -r 960
+adta -r 690
+adtp 816314
+adtd -b 748808
+adta -r 510
+adtd -r 54215
+adta -r 350
+adtp 97351
+adtr 3
+adtd -f 428307
+adtd -s tsykg
+adtq qpgqx
+adtd -a
+adta -r 280
+adtd -a
+adta -r 780
+adta -r 620
+adtd -r 186325
+adta -r 350
+adtp
+adta -r 140
+adtd -f 566231
+adtd -r 261113
+adtp 873219
+adta -r 120
+adtd -s vioqd
+adta -r 750
+adtd -r 920521
+adtp
+adtd -b 1818
+adtp 326331
+adtd -r 907458
+adtd -f 204630
+adta -r 460
+adtd -r 705085
+adta -r 310
+adta -r 840
+adtp
+adtp 437351
+adtd -s simee
+adtp
+adtd -b 121696
+adta -r 670
+adta -s igixx
+adtr 5
+adtd -s afsvm
+adtp
+adtq kbbkt
+adtp
+adtp -r
+adtd -a
+adtd -r 425981
+adtq omdzq
+adtp 69323
+adtr 1
+adtd -f 18556
+adta -r 700
+adtd -b 790657
+adta -r 270
+adtd -s uafsf
+adtd -s eeuil
+adtr 2
+adtr 2
+adtr 1
+adtd -r 418051
+adta -r 770
+adtq hyhxa
+adtp -r
+adtp
+adta -r 590
+adtd -s tuepd
+adtp 504527
+adta -s resqi
+adtd -s pdzng
+adtd -r 369915
+adta -r 550
+adta -s gbeqi
+adtd -s tzzzm
+adtp 329198
+adta -r 500
+adtp
+adtd -r 556408
+adtd -r 227216
+adta -r 590
+adtd -r 881757
+adtd -f 468886
+adtq jlpgp
+adta -r 660
+adta -r 10
+adtp 535969
+adtd -r 463566
+adtd -r 428612
+adtd -f 155699
+adta -r 20
+adtd -a
+adtd -b 323051
+adtd -r 6637
+adtd -b 959869
+adtr 7
+adta -r 970
+adtd -b 39088
+adta -r 790
+adtd -r 774490
+adta -r 820
+adta -r 710
+adtp 754090
+adtr 9
+adtp 115494
+adtd -s letzm
+adtd -a
+adtp 373523
+adtd -r 283240
+adtd -r 818732
+adta -s bwddd
+adtd -f 164418
+adtd -b 340757
+adtd -r 153216
+adtd -r 941859
+adtp 88565
+adtd -r 318809
+adtp 2281
+adta -r 90
+adtp -r
+adtp -r
+adtp
+adta -r 300
+adtq izwdc
+adta -s pcozz
+adtr 6
+adtd -b 738941
+adta -r 480
+adtd -b 832440
+adtp 462312
+adta -r 70
+adta -r 620
+adtd -r 370683
+adta -r 750
+adtd -a
+adtd -r 342092
+adtq urfhv
+adtp
+adtd -r 928193
+adtd -s wpaqd
+adtp -r
+adtd -b 601187
+adta -r 300
+adta -r 840
+adta -r 720
+adta -r 420
+adtd -b 40637
+adtd -r 51953
+adtp 438645
+adta -r 950
+adtq xsqzn
+adtd -b 820159
+adta -r 250
+adtd -r 580926
+adta -r 840
+adta -r 570
+adta -r 510
+adtd -r 867770
+adtd -r 902969
+adta -r 480
+adta -s oxsso
+adta -r 440
+adtd -b 848827
+adtd -r 770231
+adta -r 440
+adtr 8
+adtd -a
+adtq vrlif
+adta -r 380
+adtr 10
+adta -r 940
+adta -r 690
+adta -r 930
+adtp
+adts
+adta -r 820
+adtp -r
+adtp
+adtd -s thxtf
+adta -r 830
+adtd -r 591800
+adtd -b 905060
+adta -r 360
+adtp
+adtp -r
+adtd -b 906436
+adta -s hgyvr
+adtp
+adtd -b 409030
+adta -r 240
+adtd -r 35461
+adtd -a
+adtd -r 380876
+adtd -r 22484
+adtp -r
+adta -r 530
+adtq vmxoq
+adtq udojh
+adtp
+adtr 5
+adta -s vxoyp
+adta -r 690
+adtd -b 609326
+adta -s yoabm
+adta -s aumxr
+adta -r 680
+adtp 93483
+adta -r 240
+adtp
+adtd -r 38526
+adtd -f 46737
+adtp 456026
+adtp
+adtp 725703
+adta -r 110
+adtp -r
+adtd -b 520178
+adta -r 660
+adtr 10
+adtd -r 58078
+adtd -a
+adta -r 940
+adtq ceixd
+adtd -a
+adtd -f 660681
+adtd -f 483608
+adtd -r 798024
+adta -r 930
+adtp 211456
+adtd -b 892974
+adtp 631987
+adtd -b 92966
+adta -r 100
+adtr 3
+adta -r 730
+adtr 6
+adta -r 770
+adta -r 230
+adtq wrpun
+adtd -r 86677
+adtp
+adtp
+adtr 10
+adtq uoggs
+adtp 188509
+adtd -r 346776
+adtd -r 510216
+adtd -b 594098
+adtd -s ppyeu
+adtp 27959
+adta -s mopyu
+adtd -a
+adtr 4
+adtp 620323
+adta -s ljtcf
+adtd -r 130226
+adta -r 760
+adta -r 740
+adtd -b 214260
+adtd -r 278607
+adtd -f 24921
+adtr 10
+adtp
+adta -r 420
+adta -s nyoma
+adta -r 940
+adta -r 530
+adtd -f 604577
+adtd -s mafly
+adtp -r
+adtd -a
+adtd -b 932941
+adta -s nfrsj
+adta -s bonfy
+adtd -s cnnjc
+adtd -s vfbrr
+adta -s mhrvv
+adta -r 260
+adta -s lwfce
+adtq tzwfw
+adtd -b 12190
+adtq brrhg
+adtd -f 852422
+adta -r 570
+adtd -s hbziu
+adtd -f 939348
+adta -r 460
+adta -r 200
+adtd -r 452827
+adta -r 480
+adtd -f 383407
+adtp 992611
+adtd -r 428661
+adta -r 360
+adtd -a
+adtd -s vqwwc
+adta -r 90
+adta -r 660
+adtd -s razro
+adtd -a
+adta -r 470
+adtd -f 525647
+adtp
+adtd -f 420377
+adtp
+adtp 971110
+adta -r 920
+adtp -r
+adtd -r 334679
+adta -r 780
+adtq tlijf
+adtp -r
+adtd -r 888314
+adtp
+adta -r 890
+adtq zzwyi
+adta -r 130
+adta -r 780
+adtd -b 597599
+adtd -f 74978
+adtd -b 173084
+adtd -r 386437
+adtq bvjej
+adta -r 650
+adta -r 330
+adtr 7
+adta -r 940
+adtd -f 98100
+adtp -r
+adtp
+adtd -a
+adta -s xogwf
+adtr 7
+adtr 4
+adtd -s hkdox
+adtd -b 889595
+adta -r 670
+adtd -r 506283
+adtd -a
+adtd -r 739363
+adta -r 850
+adtd -r 103430
+adtd -b 42749
+adta -s jxjpb
+adtd -b 651781
+adta -r 780
+adta -r 570
+adtr 10
+adtp 455626
+adtd -s rrscl
+adtp -r
+adtd -r 116745
+adta -r 850
+adta -r 30
+adtd -b 260601
+adtp 429873
+adtd -r 792411
+adtq bvnsx
+adtp 463228
+adtd -b 420208
+adta -r 110
+adtd -f 518360
+adtd -b 314141
+adtd -r 431561
+adtd -s fwqwz
+adta -r 580
+adta -r 700
+adtd -b 545605
+adtd -r 515178
+adta -r 770
+adtd -a
+adtp 342309
+adtd -a
+adta -r 450
+adta -r 780
+adtp 267772
+adta -r 720
+adta -r 220
+adta -r 340
+adtd -b 545930
+adtd -r 952538
+adtd -r 972280
+adtd -r 142568
+adtd -f 485546
+adtd -s uykbe
+adtp 59264
+adtp 220586
+adtp -r
+adtd -s ftziw
+adta -r 760
+adtr 8
+adta -r 420
+adtd -r 219121
+adta -s actin
+adtd -r 574542
+adta -s orvzl
+adtd -b 274851
+adtd -b 157430
+adtd -a
+adtq fichj
+adtd -r 664185
+adtp
+adtd -b 694296
+adtd -s pucly
+adtd -f 832255
+adtr 2
+adta -r 350
+adtp
+adta -r 970
+adta -r 160
+adtd -r 138298
+adtp 241486
+adtd -a
+adta -r 560
+adtd -r 373725
+adta -s bkwzh
+adtd -r 182636
+adtd -r 777230
+adta -s qrure
+adtd -a
+adta -r 510
+adta -r 790
+adta -r 350
+adta -s oappy
+adtr 6
+adta -r 250
+adta -s zeaml
+adtd -r 773053
+adtd -r 124141
+adtd -r 740600
+adtp -r
+adtp
+adtd -s qiphy
+adta -r 150
+adtq ogafh
+adtr 5
+adtd -b 247954
+adta -r 130
+adtd -b 525011
+adtr 1
+adta -r 70
+adta -s plbxc
+adtp
+adtq ihlgn
+adtd -b 910535
+adtp
+adtd -b 884766
+adtp 168955
+adtd -r 64780
+adtd -r 958656
+adta -s vvmgr
+adta -s urskt
+adta -s ptsju
+adtd -f 921272
+adtd -f 346913
+adta -s qmiof
+adtp 555826
+adtp 742959
+adta -r 120
+adta -r 70
+adtp -r
+adtd -a
+adtp 901273
+adtp -r
+adtd -f 949894
+adtd -r 430374
+adta -r 680
+adtp
+adtd -f 1008584
+adtd -r 207510
+adta -r 870
+adtd -s ipttc
+adtd -b 626550
+adta -r 190
+adtd -a
+adtd -r 597832
+adta -r 250
+adtd -b 978891
+adta -r 390
+adta -s ccvwl
+adtd -a
+adta -s tassl
+adtd -r 562930
+adta -s usamm
+adta -r 450
+adtr 8
+adta -r 330
+adtd -b 670868
+adtd -r 117427
+adta -s kprts
+adtd -f 885174
+adtp
+adta -r 680
+adtp 671545
+adtp
+adtp 597007
+adta -r 780
+adta -s qlzog
+adtp
+adtr 2
+adta -r 50
+adtp
+adtq bmtot
+adtd -b 920324
+adta -s htrgh
+adtd -r 922009
+adtd -b 803251
+adtd -a
+adta -s xavqx
+adta -r 650
+adtp
+adtp
+adta -s bplnd
+adta -r 130
+adtq sqiic
+adtd -r 515671
+adtp -r
+adtp 429116
+adtq ebpck
+adta -r 60
+adtd -b 232499
+adtd -f 939042
+adta -r 250
+adtd -r 540614
+adta -s mloww
+adtd -r 348344
+adta -s ivvkw
+adtq xlyko
+adtq qlkjm
+adtp 978410
+adtd -a
+adta -r 770
+adtd -b 430983
+adta -r 280
+adtp -r
+adta -r 940
+adtp -r
+adta -r 980
+adtr 10
+adtp 809362
+adta -s lqroq
+adta -s iovah
+adtd -r 537026
+adta -r 520
+adtq llrro
+adtd -a
+adtp 685400
+adts
+adtd -f 524490
+adta -r 110
+adtd -r 245529
+adta -r 80
+adtd -r 486011
+adtd -r 978355
+adtr 10
+adta -r 740
+adtp
+adtd -r 330104
+adta -r 810
+adta -r 400
+adta -s fdkki
+adtq mxcur
+adtd -b 672268
+adta -r 950
+adtp -r
+adtp 697804
+adta -r 980
+adtp
+adta -s ppnuw
+adtd -b 244965
+adtd -r 505054
+adtr 8
+adtd -r 259087
+adta -r 750
+adta -r 500
+adta -r 940
+adta -r 890
+adtd -s bwfbj
+adtd -s qrsuu
+adta -r 460
+adtp 1018152
+adtr 3
+adtq pvwvy
+adts
+adtd -r 252435
+adta -s oxweh
+adta -r 730
+adtd -a
+adta -r 320
+adtp -r
+adtr 8
+adtr 6
+adtp 425613
+adta -r 670
+adta -r 130
+adtd -f 508998
+adta -r 130
+adtd -r 539989
+adtd -r 898314
+adtp -r
+adta -s epwum
+adtd -f 959969
+adtd -s pqckh
+adtd -b 544297
+adta -r 910
+adta -r 210
+adtp
+adtp -r
+adtr 8
+adtd -f 599562
+adta -r 90
+adta -r 680
+adtd -r 1013132
+adtp
+adtd -s axncc
+adtd -s sklrk
+adtd -r 667187
+adta -s dldfi
+adtp
+adtp
+adtp
+adtd -r 8475
+adta -r 500
+adtp
+adta -r 540
+adta -r 590
+adta -r 870
+adtd -r 994098
+adta -r 580
+adtd -a
+adtd -r 513970
+adtp 343045
+adta -r 690
+adta -r 900
+adta -r 210
+adtr 4
+adta -r 580
+adtd -r 449481
+adta -r 420
+adta -r 70
+adtp 670601
+adtq nqrxa
+adtr 3
+adta -r 870
+adta -r 600
+adtd -b 181175
+adtd -b 70863
+adtd -r 573169
+adtd -a
+adta -s wmgkg
+adtd -b 817362
+adtd -b 314393
+adtp 348482
+adtr 5
+adtr 7
+adtd -a
+adtd -b 147731
+adta -r 750
+adtp -r
+adtd -r 961218
+adtr 10
+adtd -f 971637
+adta -r 660
+adtd -f 430345
+adtd -f 47802
+adtd -r 200532
+adtd -b 260656
+adtp
+adta -r 560
+adtd -s hsyzw
+adta -r 220
+adtd -r 394993
+adtp
+adta -r 610
+adta -r 580
+adta -r 860
+adtr 1
+adta -r 580
+adta -r 460
+adtr 1
+adta -r 850
+adtq xucff
+adta -s zdrlo
+adtd -f 784807
+adtp 541901
+adta -r 570
+adtd -r 686190
+adta -r 450
+adta -s avjjl
+adtd -r 133873
+adtp 806446
+adtd -r 573303
+adtq ybafr
+adta -r 230
+adta -r 850
+adtd -r 768372
+adtp 297567
+adtp -r
+adta -r 960
+adtd -f 823587
+adta -s szkwk
+adtp 119533
+adtp -r
+adtp
+adta -r 580
+adtq vkwee
+adtq rxnwd
+adtq cdvhw
+adtd -r 495349
+adtd -b 788460
+adta -r 670
+adtp 477216
+adta -r 760
+adta -r 710
+adtd -r 543227
+adtd -b 128349
+adta -s jyxhj
+adtp -r
+adtd -b 773427
+adtd -b 415366
+adtp
+adta -r 900
+adtd -b 808444
+adtr 5
+adtp -r
+adtp
+adtp
+adtr 9
+adta -r 550
+adtq nzudg
+adtp 682444
+adtp 920833
+adtd -s qxzmn
+adtd -b 550690
+adtd -r 436899
+adta -r 850
+adta -r 490
+adtd -b 868361
+adta -r 930
+adta -s gtdcu
+adta -r 500
+adtd -f 185452
+adtd -f 448243
+adtp
+adta -r 630
+adtp 632696
+adta -r 860
+adta -s hscww
+adtp 978825
+adtr 6
+adtd -r 258197
+adta -r 490
+adta -r 70
+adta -r 860
+adtp 408903
+adtd -r 700772
+adtp
+adtp 135211
+adta -r 650
+adtp 212140
+adtd -r 53817
+adtd -r 330508
+adtp 223648
+adtp
+adta -r 700
+adtd -r 211013
+adtp 598489
+adta -r 950
+adtd -r 179388
+adta -r 810
+adtq ehqvs
+adtd -r 323812
+adts
+adtp
+adtd -r 125424
+adta -r 460
+adta -r 880
+adta -r 500
+adtd -b 29960
+adta -s ziydp
+adta -r 760
+adtd -r 719145
+adtp
+adta -s rpzxy
+adtq xxfdu
+adta -r 680
+adtr 10
+adta -r 320
+adtd -a
+adtd -r 65682
+adta -r 640
+adtd -b 423876
+adtd -r 1024213
+adtp 101756
+adtp
+adtd -b 822461
+adtd -r 340709
+adtd -r 889054
+adta -r 30
+adta -r 810
+adta -r 540
+adtd -f 116035
+adtd -b 1067280
+adtp -r
+adtr 3
+adtd -r 717703
+adtp -r
+adtd -b 625554
+adtd -f 303147
+adtp -r
+adta -r 640
+adtd -s pxkny
+adta -r 400
+adtr 10
+adta -s sdjen
+adtd -a
+adta -r 130
+adtd -r 790268
+adtq gmjqp
+adta -s nlrbb
+adtd -r 1042218
+adta -r 660
+adtd -s litbp
+adtp -r
+adtp
+adtd -r 551512
+adta -r 460
+adta -r 410
+adta -r 320
+adtp
+adtr 10
+adta -r 50
+adtq kjnsd
+adtd -f 845163
+adtq rpsdr
+adtp -r
+adta -r 480
+adta -s sulcm
+adtd -f 306073
+adta -r 520
+adta -r 100
+adta -r 990
+adtd -r 85986
+adtp
+adtp
+adtp 131430
+adtd -r 783814
+adta -s kudyv
+adtp
+adtq sjdxi
+adtd -s kajoi
+adtd -a
+adta -r 790
+adtd -f 660175
+adtr 8
+adta -r 280
+adtp -r
+adtp -r
+adtp -r
+adtr 1
+adtd -s hropz
+adtq toicg
+adtd -r 745887
+adtd -r 173417
+adtd -f 891794
+adtr 3
+adta -r 740
+adta -r 840
+adtp 447530
+adta -r 320
+adta -r 590
+adta -r 960
+adta -r 750
+adtd -r 402408
+adtd -f 12621
+adtd -b 845040
+adtd -r 819931
+adtd -r 118437
+adtd -r 577425
+adtd -b 646026
+adta -r 760
+adta -r 300
+adta -r 370
+adta -r 60
+adta -r 420
+adtq ojfbh
+adta -r 780
+adta -r 780
+adtd -r 211306
+adts
+adta -r 780
+adtq jnzkq
+adtq nqkcb
+adtd -r 1035119
+adta -r 570
+adtd -f 99865
+adtd -r 117758
+adta -s ghwfr
+adtd -r 602396
+adtd -r 904667
+adtp
+adtd -s uenqf
+adtp -r
+adta -r 240
+adta -r 520
+adta -r 880
+adtr 6
+adta -r 520
+adtd -r 644668
+adtd -f 107628
+adta -r 440
+adta -r 170
+adta -r 210
+adtd -r 798622
+adtd -r 277952
+adta -r 650
+adta -r 270
+adta -r 230
+adtd -r 828836
+adtd -f 910443
+adtd -f 222108
+adtd -f 780668
+adta -r 760
+adtd -a
+adtp
+adtp
+adtp -r
+adtd -b 275729
+adtd -b 296495
+adtp -r
+adta -r 940
+adtp -r
+adtr 10
+adtr 5
+adtd -r 1000163
+adtp 810870
+adtd -r 1011463
+adtd -r 536325
+adta -r 940
+adta -r 320
+adta -s rfonf
+adta -r 250
+adtd -r 118831
+adtd -b 875347
+adta -r 260
+adtp -r
+adtd -s ihmzm
+adta -r 160
+adtd -r 540270
+adtp 433067
+adta -r 480
+adta -r 480
+adtd -f 261905
+adtq ipbqt
+adtp
+adtd -f 1036686
+adta -r 600
+adtd -r 964484
+adta -r 920
+adta -r 290
+adtp
+adtp
+adta -r 80
+adtd -f 954391
+adtd -b 284653
+adta -r 200
+adtd -r 180373
+adta -r 960
+adtp 877802
+adtd -r 866284
+adta -r 670
+adta -r 550
+adta -r 190
+adta -r 750
+adta -r 870
+adtd -s kqcyn
+adtd -f 987187
+adtd -a
+adta -s nrwpu
+adtd -s rbfga
+adtp -r
+adtd -s lqymf
+adta -r 440
+adtr 8
+adta -s jzqtz
+adtd -r 944593
+adtd -r 443982
+adtd -r 62428
+adtd -a
+adtp
+adtp -r
+adta -r 380
+adta -r 360
+adta -r 10
+adta -r 900
+adtd -r 119520
+adta -r 610
+adtp 265252
+adtd -r 722936
+adtd -r 287601
+adta -r 980
+adta -r 730
+adtd -b 467753
+adtd -b 93909
+adtd -s pynac
+adtd -r 1003116
+adtd -a
+adtp
+adta -r 830
+adta -s oxvsl
+adtd -s vflzq
+adtd -b 276842
+adts
+adtd -b 190582
+adtp
+adtd -r 592647
+adtr 2
+adta -r 960
+adta -r 310
+adtp 278787
+adtd -f 284854
+adta -s cbgzk
+adtp -r
+adta -s lzrwp
+adtp 814044
+adtd -s kcbhf
+adtq qbidq
+adtp 545218
+adta -s hwftt
+adta -r 440
+adtd -f 321181
+adta -s fyqaq
+adtd -r 721902
+adta -r 830
+adtp
+adta -r 570
+adtd -r 303228
+adtd -f 726169
+adtd -f 959683
+adtd -r 520824
+adtd -f 494806
+adta -r 200
+adtp -r
+adtp
+adtd -s xfwaf
+adta -r 560
+adtd -b 157786
+adtd -a
+adtd -r 939251
+adtd -r 1086105
+adtd -f 579592
+adta -r 960
+adta -r 560
+adtp 657727
+adtp 1073355
+adtp 952771
+adtd -r 510686
+adtp
+adtp
+adta -r 160
+adta -r 360
+adta -r 920
+adtp -r
+adtp -r
+adtd -b 815329
+adtd -r 868079
+adtq nyeom
+adta -r 80
+adtd -b 929124
+adtd -r 26035
+adta -r 660
+adta -r 560
+adta -r 270
+adtd -r 804719
+adta -s hpimz
+adta -r 620
+adta -r 300
+adtp
+adta -r 60
+adtd -b 757258
+adta -r 370
+adta -s byojb
+adtp -r
+adtq occzm
+adta -s xnoxs
+adtp
+adtd -r 724422
+adtp -r
+adta -s pcjoe
+adtd -a
+adta -r 750
+adtd -s wohnd
+adtd -s rmxya
+adta -r 540
+adta -r 140
+adta -r 380
+adta -r 480
+adtd -f 162171
+adtq cidxn
+adtd -f 43239
+adta -r 710
+adtp
+adta -r 260
+adta -r 190
+adtd -r 90644
+adtr 10
+adtp -r
+adta -r 840
+adtp -r
+adtq xhdxm
+adtr 7
+adtp
+adtd -b 291302
+adta -r 80
+adtr 10
+adta -r 870
+adta -r 270
+adtd -r 769176
+adtp -r
+adta -r 640
+adtd -f 296969
+adtr 9
+adtp -r
+adtp 653330
+adta -r 290
+adtd -f 807961
+adtp
+adtp 235355
+adta -r 140
+adtq visab
+adtd -f 242026
+adta -r 710
+adta -r 460
+adtd -r 788759
+adtd -b 641749
+adta -s brrws
+adta -r 740
+adta -r 520
+adtp -r
+adta -r 330
+adtd -r 610535
+adtp 58833
+adtd -r 1077680
+adta -r 670
+adtp 82168
+adta -r 970
+adtd -r 135273
+adtp
+adtq hdktt
+adtd -s amzwg
+adtd -f 751692
+adtp 1048460
+adtp -r
+adtd -r 115152
+adta -r 250
+adtd -r 567421
+adtd -r 901333
+adtd -b 947520
+adtp -r
+adta -s ykarg
+adtd -s dessb
+adta -s skvpl
+adtp
+adta -r 490
+adta -r 850
+adta -r 480
+adtq fulsk
+adtd -r 52761
+adtp
+adtp
+adtr 2
+adtr 9
+adtp
+adtd -f 574515
+adtd -s ymsqb
+adta -r 770
+adta -r 860
+adtp -r
+adtd -f 258655
+adtd -r 1052761
+adta -s vezhx
+adtd -b 651530
+adtp 139468
+adta -r 520
+adtd -a
+adtd -b 305480
+adta -r 440
+adta -r 770
+adtd -b 1078603
+adta -r 490
+adta -s bmkgg
+adtd -f 592192
+adtd -s srjrl
+adtd -s xmwau
+adtd -r 440121
+adta -r 80
+adtd -r 503993
+adta -s zrgvz
+adtq tfuvi
+adtd -f 763471
+adta -r 770
+adta -r 890
+adtd -r 269
+adtd -r 189697
+adta -s qkfcr
+adtd -b 945343
+adtp
+adtd -r 820067
+adtp 500734
+adtd -r 496154
+adtd -b 145188
+adta -r 270
+adta -r 410
+adta -s nkylg
+adtd -a
+adtd -f 621052
+adtp 984808
+adta -s awkxo
+adta -r 570
+adtp -r
+adtd -r 344049
+adtp 229869
+adta -s pekey
+adta -r 900
+adtp -r
+adtq xkpuu
+adtr 7
+adtp 422415
+adtd -r 801687
+adta -r 190
+adta -r 570
+adtq sigml
+adtd -b 444857
+adtd -r 743475
+adtd -b 410921
+adtd -r 789870
+adtp -r
+adtp
+adtp
+adta -s ffanb
+adta -r 930
+adtp
+adtd -s jyzpd
+adtd -f 701401
+adtp
+adtd -r 689273
+adtd -r 42074
+adta -r 630
+adtd -r 936983
+adtd -s vtepr
+adta -r 30
+adtd -f 357175
+adta -s doycr
+adtr 5
+adtp -r
+adtd -r 258243
+adta -s sovcp
+adtd -f 42492
+adta -r 700
+adta -r 800
+adtd -r 1117097
+adta -s erdsa
+adta -s aezqt
+adtd -f 551090
+adtd -s zkduu
+adtd -r 144651
+adtd -a
+adtq ddpec
+adtr 4
+adtd -b 974511
+adtp 500279
+adtp -r
+adta -r 960
+adta -r 360
+adtp
+adtd -r 332025
+adtd -s oxitm
+adta -r 700
+adtr 6
+adta -r 170
+adta -s pemns
+adtd -s qciur
+adtp
+adtd -b 993789
+adtr 3
+adtd -r 615684
+adtd -r 117003
+adta -r 870
+adta -s rgvtv
+adtd -b 921317
+adtq nxavs
+adtd -f 378030
+adtp -r
+adtr 4
+adta -r 240
+adta -r 630
+adta -r 230
+adta -s kknul
+adtd -f 1034315
+adtd -r 887729
+adta -r 570
+adta -r 540
+adtp 144805
+adta -r 570
+adtd -r 553634
+adtd -f 1051201
+adtp -r
+adtp
+adta -r 800
+adtp -r
+adtd -r 1098306
+adta -r 770
+adtd -f 920755
+adta -r 620
+adta -s fiscf
+adtd -f 839189
+adtd -r 138350
+adta -r 690
+adtd -b 571932
+adtd -f 16991
+adtd -r 1136964
+adta -r 170
+adta -s jlskq
+adtd -f 1136967
+adtd -b 672058
+adtd -f 339519
+adtp 613698
+adtd -r 261322
+adtd -r 805164
+adtd -f 436473
+adta -r 460
+adtp
+adtp -r
+adtd -f 33988
+adtq ltudp
+adtr 4
+adtd -b 104588
+adta -r 860
+adtd -f 503089
+adtd -f 693316
+adtd -f 138024
+adta -r 990
+adtd -r 107514
+adtd -r 1123420
+adtd -r 962706
+adta -r 630
+adtd -r 50016
+adtd -r 704927
+adtp 432631
+adta -r 980
+adta -r 460
+adtd -r 544269
+adtp 210259
+adta -s iiayt
+adtp
+adtp -r
+adta -r 600
+adta -r 410
+adtd -r 433819
+adtr 10
+adta -r 390
+adtd -r 615946
+adta -s qrsvg
+adtp 381959
+adtd -b 584825
+adtd -b 843863
+adta -s ohfzn
+adta -s oooin
+adtd -r 410316
+adtd -f 323691
+adtd -b 1139005
+adta -r 170
+adtd -b 418971
+adtd -a
+adtr 6
+adtq fvgrx
+adtd -r 177982
+adtd -a
+adta -r 40
+adtd -s pntnu
+adta -r 300
+adta -r 340
+adta -r 220
+adtp 969047
+adta -s anylo
+adta -s awadi
+adta -r 50
+adtp 14610
+adtp
+adta -r 390
+adtd -s zpper
+adtp 151114
+adtq ukurb
+adtr 7
+adta -r 910
+adtd -a
+adtd -b 189681
+adtd -r 803784
+adtp -r
+adtr 5
+adta -r 230
+adtp -r
+adtp
+adta -r 710
+adta -r 610
+adta -r 100
+adtd -b 919282
+adtq gpxaq
+adtd -s hpkab
+adtq obfkm
+adts
+adta -r 590
+adtp
+adta -s icnmo
+adtd -r 375847
+adta -r 50
+adtd -f 399440
+adtp -r
+adtp
+adtp 1113760
+adta -r 730
+adtd -b 877380
+adtd -f 499653
+adta -r 890
+adtd -f 1066893
+adta -r 60
+adta -r 220
+adta -r 30
+adta -r 880
+adtd -r 117554
+adta -r 430
+adta -s zifjf
+adtd -r 530408
+adtq qowoj
+adtd -b 389308
+adtd -f 882846
+adta -r 740
+adtd -f 852005
+adtp 915663
+adtd -a
+adta -s eodso
+adtd -r 596480
+adta -r 150
+adta -r 650
+adta -r 130
+adtp 571880
+adtd -r 290978
+adtp 818049
+adtp
+adtp
+adtd -f 277254
+adta -s gdukv
+adtp 437335
+adtd -r 343772
+adta -r 960
+adta -r 60
+adtp 1059061
+adtp
+adtd -b 476184
+adta -r 870
+adtd -r 1047779
+adta -r 620
+adtp
+adtd -r 66435
+adtd -b 95614
+adtr 1
+adtd -r 1120079
+adtd -r 1127163
+adta -s rntiz
+adta -s rfksh
+adta -r 920
+adta -r 650
+adtp
+adtq ogwjd
+adta -r 60
+adta -r 710
+adtd -f 229773
+adtp
+adta -r 920
+adtd -s kfdpl
+adtd -b 93164
+adtd -s jvbdh
+adtd -b 478781
+adtq labxz
+adtd -a
+adtq dgoki
+adta -r 950
+adtd -b 940504
+adtd -b 809046
+adtp 380728
+adta -r 370
+adta -r 430
+adtd -r 1012840
+adtp -r
+adtp 293049
+adta -r 970
+adtd -b 689651
+adtp
+adtp -r
+adtq rhmbi
+adtd -r 807461
+adta -r 500
+adta -r 510
+adtp 822442
+adtd -r 92425
+adta -r 290
+adta -r 70
+adtd -r 857493
+adta -r 260
+adta -r 590
+adtd -s liqxd
+adtd -b 554171
+adtr 8
+adtd -r 970449
+adtd -f 487602
+adta -r 110
+adtr 9
+adta -r 590
+adtr 8
+adtd -a
+adtp -r
+adtd -b 611356
+adtr 4
+adtp
+adtp
+adtd -f 657063
+adtd -a
+adta -s qaebg
+adtd -s ylmkd
+adtd -r 128186
+adtp 813571
+adtp 760782
+adtp
+adtd -b 1113497
+adtd -b 352621
+adta -r 980
+adtd -r 1033881
+adta -r 790
+adtp
+adta -r 920
+adtd -b 1178265
+adtd -b 695062
+adta -r 700
+adtp 412604
+adta -r 10
+adtp
+adta -s rqriu
+adtd -r 12437
+adta -r 160
+adtp
+adtd -b 997765
+adtd -a
+adtd -r 887604
+adtr 1
+adtp -r
+adtd -r 275603
+adtd -f 464289
+adtd -s txilr
+adtd -a
+adtd -s ifkjv
+adtd -r 178965
+adta -s vffcq
+adtp -r
+adtq abrau
+adtd -b 842796
+adtd -a
+adta -s lzkjl
+adts
+adtp 369288
+adta -r 570
+adta -s wgqvh
+adtp
+adtr 5
+adta -r 720
+adtd -f 316453
+adtp
+adtq wmzky
+adtd -r 872862
+adtr 8
+adtd -b 1054494
+adtp -r
+adtr 5
+adta -r 450
+adtp
+adta -r 850
+adtp 22036
+adta -r 160
+adta -r 470
+adtq yirdh
+adta -r 270
+adtd -r 1152376
+adtp -r
+adtr 3
+adta -s efmrf
+adtd -s tuypd
+adta -r 690
+adta -r 170
+adtd -f 661030
+adtp
+adtr 7
+adtd -b 293720
+adta -r 340
+adtp
+adtd -r 279194
+adtd -r 116249
+adtd -r 79514
+adtp
+adtd -r 1151920
+adtp
+adta -s dcxcb
+adtd -b 759039
+adta -r 360
+adta -r 380
+adta -r 270
+adtd -s yxzwj
+adtp 514385
+adtd -a
+adtd -b 602247
+adta -r 670
+adtd -b 467766
+adta -r 310
+adta -r 210
+adtd -f 408614
+adtd -r 518278
+adtp -r
+adtd -r 982576
+adtq ewcrh
+adtr 1
+adtq pemrn
+adtp
+adtd -r 1070529
+adtp 1176729
+adta -r 240
+adtq rytyo
+adtd -r 1113805
+adtd -a
+adtq dgqog
+adtd -r 487180
+adtd -b 848668
+adta -r 820
+adtp -r
+adtr 1
+adtp -r
+adta -r 200
+adta -r 340
+adta -s mcgzs
+adtd -r 732353
+adtd -r 479021
+adtd -r 482989
+adtd -r 281675
+adta -s ukxbx
+adtd -b 245596
+adtd -r 571435
+adtd -r 1055728
+adtp
+adta -r 270
+adtd -r 110691
+adtd -f 990995
+adtd -r 753333
+adta -r 230
+adta -r 130
+adtp -r
+adta -r 540
+adtp
+adtd -r 389707
+adta -r 180
+adta -r 510
+adta -r 160
+adtp -r
+adtp
+adta -r 110
+adta -r 730
+adtd -r 457930
+adta -r 770
+adtd -r 379721
+adtd -f 918477
+adta -s fjhrr
+adtp
+adtp
+adtd -b 355404
+adtd -r 1042021
+adta -r 660
+adta -r 340
+adtd -r 694924
+adta -r 450
+adta -r 530
+adtd -b 537978
+adta -r 510
+adta -r 500
+adta -s kffuv
+adtd -r 669368
+adta -r 50
+adtp -r
+adtd -b 342913
+adta -r 200
+adtd -b 71970
+adta -r 360
+adta -s sxghg
+adtd -a
+adts
+adtp 180454
+adtd -b 406801
+adtr 7
+adtd -s ibdqo
+adtd -a
+adta -r 150
+adtd -r 1025379
+adtr 2
+adtq dgujd
+adtr 3
+adtd -s ainug
+adta -r 30
+adtp
+adtd -f 549031
+adtp
+adta -r 980
+adtd -b 1029675
+adta -r 870
+adta -r 110
+adtd -b 385183
+adta -r 590
+adtd -r 554131
+adtd -b 839353
+adtr 7
+adta -r 900
+adtd -r 48314
+adtp -r
+adtd -a
+adta -s khstj
+adtd -b 772627
+adtd -b 598860
+adta -r 260
+adta -r 410
+adtd -r 425819
+adta -s wxxmi
+adtd -r 711461
+adtd -f 356184
+adtd -f 812549
+adtd -b 1091944
+adtp
+adtd -f 826215
+adtp -r
+adta -r 370
+adtd -r 645125
+adta -r 730
+adta -r 640
+adtd -b 1141636
+adtd -r 656273
+adtp 386318
+adtp -r
+adtd -r 258907
+adtd -f 54268
+adtp
+adta -r 680
+adta -r 50
+adtd -f 604166
+adtd -a
+adtr 6
+adta -r 240
+adta -r 500
+adtr 6
+adtd -r 837912
+adtp -r
+adtp
+adtp
+adtp -r
+adtd -r 67808
+adtp
+adta -r 210
+adtp
+adtd -b 41378
+adtp -r
+adta -r 70
+adtp -r
+adta -s iqtbz
+adtd -r 28640
+adtd -a
+adta -r 830
+adta -r 710
+adtd -b 163090
+adta -r 990
+adtd -r 956064
+adta -r 940
+adtd -a
+adtd -s gzxbt
+adta -r 210
+adta -r 590
+adtq azixm
+adtd -f 1133443
+adtd -r 90989
+adta -r 920
+adtq ouave
+adtd -f 443775
+adtd -f 466742
+adtp
+adta -r 460
+adta -s rarnj
+adtp 86428
+adta -s shwvi
+adtd -r 121751
+adta -r 510
+adtd -f 703064
+adtd -r 119574
+adtd -f 750735
+adtd -r 67531
+adta -r 820
+adtd -r 262317
+adta -s rppwe
+adtd -s zymxp
+adtp
+adtq axgxw
+adta -r 160
+adtp -r
+adtd -r 36875
+adtp 25203
+adta -s xtzdc
+adta -s beopl
+adta -r 320
+adtd -b 1143937
+adtp -r
+adta -r 850
+adta -r 880
+adtd -r 307245
+adtq sudxc
+adta -r 880
+adtr 5
+adtd -f 649601
+adtp
+adtd -r 1023831
+adtd -f 708392
+adtd -s mcyow
+adtr 9
+adta -r 530
+adta -r 350
+adta -s hwbbi
+adta -r 910
+adtp -r
+adtd -f 311893
+adtd -f 1114911
+adtr 4
+adtq hqhmm
+adtd -a
+adtp 1166299
+adtd -s ezrhb
+adta -r 260
+adtd -f 966991
+adta -r 170
+adtq zpssm
+adtp -r
+adtd -f 738220
+adta -r 710
+adta -r 280
+adtp 685636
+adta -s tvhxm
+adtd -r 665452
+adtp
+adtp 380718
+adta -r 600
+adtr 1
+adta -r 500
+adtd -f 746125
+adtr 3
+adtp
+adtp
+adtq cwrub
+adtp
+adtp 220501
+adta -s psgit
+adtp
+adta -s kzdbf
+adta -s jrwhu
+adtp -r
+adta -r 410
+adta -r 900
+adtp
+adtr 10
+adta -r 100
+adtd -b 73295
+adta -r 800
+adtd -r 575833
+adta -r 50
+adtp
+adtd -s wfgpz
+adtd -f 857900
+adta -s xylyz
+adtr 8
+adtd -b 893513
+adtp 997102
+adta -r 980
+adtd -s lmxxc
+adtd -s framk
+adtp 514429
+adtp
+adtd -r 322870
+adta -r 90
+adtq vhxbd
+adta -r 330
+adta -r 600
+adtd -f 694092
+adtd -s vphyh
+adtd -r 822570
+adtd -r 401245
+adta -s xruhj
+adtq siuoe
+adtd -f 329878
+adtd -b 161030
+adtp 59083
+adta -r 150
+adtd -f 244667
+adtp
+adta -r 440
+adtd -r 423359
+adtp 139955
+adta -s vzsgt
+adta -r 40
+adtd -a
+adtd -r 500632
+adtp 675843
+adtd -r 1032965
+adta -r 230
+adtd -b 41287
+adtp 948335
+adta -r 470
+adtd -r 58580
+adtp
+adta -r 870
+adtd -r 1082686
+adtd -f 944672
+adta -r 470
+adta -r 320
+adta -r 990
+adtd -b 642914
+adta -r 670
+adtp
+adtd -r 155301
+adta -r 860
+adta -r 370
+adtp -r
+adtd -r 291668
+adtp
+adtr 10
+adtp 945974
+adtd -s rgctb
+adtd -r 392301
+adtp 407456
+adtd -r 14154
+adtp
+adta -r 970
+adta -r 160
+adtd -a
+adtp 22616
+adtd -r 453764
+adtd -b 231763
+adta -s qbsxz
+adtq ewoan
+adtp -r
+adtd -r 183639
+adtd -s fjvnr
+adtd -b 327139
+adtq wpyfx
+adta -r 940
+adtp
+adtd -a
+adtr 7
+adtd -r 544820
+adtp
+adtd -f 339337
+adtq tvyxo
+adtd -r 49187
+adta -r 320
+adta -r 740
+adtd -a
+adtr 1
+adta -s kpjff
+adtp -r
+adtd -r 183504
+adta -r 550
+adtd -r 786722
+adta -r 770
+adta -r 950
+adta -r 70
+adtp
+adtp
+adtd -r 74524
+adtd -r 967706
+adta -r 540
+adtp 1089794
+adtd -b 1148362
+adta -r 930
+adta -r 390
+adtp 703003
+adta -r 500
+adtd -b 586345
+adtd -r 561523
+adta -r 980
+adta -r 900
+adtp -r
+adtr 9
+adtd -f 553084
+adtd -r 749952
+adta -r 270
+adta -r 550
+adtd -b 420680
+adtp 64222
+adtd -f 204574
+adta -r 180
+adtr 1
+adta -r 210
+adtp -r
+adtd -r 1049047
+adtd -b 1009360
+adta -r 800
+adta -r 910
+adta -r 640
+adtd -r 613633
+adtd -r 490689
+adtp -r
+adta -r 360
+adta -r 810
+adta -r 340
+adtd -r 615947
+adtd -a
+adta -r 830
+adtd -b 1043127
+adta -s gxbwd
+adtp
+adtd -r 403716
+adta -r 230
+adtd -b 1090593
+adtd -a
+adtp
+adtp
+adtp 247828
+adtp
+adtd -s mvlgf
+adtp 452417
+adtd -r 82557
+adta -r 770
+adtd -r 764247
+adtd -r 718959
+adta -r 100
+adta -s ovqrx
+adta -s visar
+adtp 213669
+adta -r 370
+adtd -f 1193910
+adta -r 100
+adtd -r 526607
+adtp -r
+adtd -r 1133562
+adtq xdblv
+adtd -r 767667
+adtd -a
+adta -r 570
+adtd -r 3460
+adtd -f 635699
+adta -r 620
+adta -s djeow
+adtp 878565
+adtd -f 1202791
+adtd -b 795342
+adta -r 440
+adtq oazak
+adtd -f 266838
+adtd -r 1231927
+adta -r 170
+adtp -r
+adtr 10
+adtd -s fbeny
+adtq lyymk
+adtd -r 904179
+adtp
+adtd -r 823184
+adta -s liess
+adta -r 760
+adta -r 290
+adtp
+adta -r 450
+adta -r 300
+adta -r 70
+adtd -f 983275
+adtp
+adtr 9
+adtp -r
+adtd -b 715252
+adtd -f 6792
+adta -s imsky
+adtd -r 1149581
+adtq ctbqj
+adta -r 990
+adtp 833723
+adtp 137351
+adtp 200892
+adtd -r 415543
+adtd -r 1068267
+adta -r 650
+adta -r 520
+adtq oncrd
+adtd -s mftwa
+adtp 1222640
+adtp -r
+adtp
+adtd -b 1085371
+adtr 9
+adtq byvvn
+adtd -f 1047270
+adtp 707325
+adtp -r
+adtp
+adta -r 780
+adta -s yzvsb
+adtp
+adtp 1025262
+adtd -r 1108171
+adtp
+adtp
+adta -s nytuu
+adtp -r
+adtr 9
+adta -r 170
+adtq jcqsp
+adtd -s ynvpu
+adtd -r 177469
+adta -r 490
+adtd -s gjbmy
+adta -r 250
+adtd -f 1096034
+adtq fgttm
+adtq hxczx
+adta -r 490
+adta -s mgevy
+adtd -r 672474
+adta -r 310
+adtp
+adta -r 330
+adtp 594251
+adtq bhrut
+adtr 9
+adtd -f 109880
+adtd -r 932779
+adtd -a
+adtp
+adtd -r 1186144
+adtp 179908
+adta -r 990
+adta -r 280
+adtd -r 433847
+adta -s pdkfh
+adtd -f 1022503
+adtd -r 734096
+adta -r 520
+adtd -r 815752
+adtp -r
+adtd -f 647549
+adta -r 250
+adta -r 380
+adtd -b 843910
+adta -r 160
+adtd -r 740791
+adtp 1048196
+adtd -b 244622
+adtd -a
+adtp
+adta -r 270
+adtd -a
+adtd -r 235262
+adtd -r 313184
+adta -r 950
+adta -r 310
+adtd -b 1108003
+adta -r 170
+adta -r 370
+adta -r 990
+adta -r 500
+adtd -a
+adtp
+adtp 211754
+adtd -r 1053634
+adtp
+adtd -a
+adta -r 360
+adta -r 450
+adta -r 740
+adtp -r
+adtq gjyhr
+adta -r 490
+adtd -b 239216
+adta -r 60
+adtp
+adtq sziai
+adta -r 980
+adtd -r 81220
+adtp -r
+adtp 816935
+adtp
+adtd -r 60487
+adta -r 50
+adtd -a
+adta -r 120
+adta -r 880
+adtp -r
+adtd -a
+adtq xryfi
+adtp 341750
+adta -s wnykb
+adtd -r 1069251
+adtd -r 1258695
+adtd -r 925401
+adtd -r 1227935
+adtr 4
+adtd -b 311898
+adtp
+adtp -r
+adtd -s vszxj
+adta -r 580
+adtd -b 9772
+adtr 4
+adta -r 510
+adta -r 990
+adta -r 850
+adta -r 200
+adta -r 960
+adtd -r 1188343
+adta -s batpd
+adtd -r 207037
+adtd -r 1035365
+adta -r 290
+adta -r 990
+adta -r 10
+adta -s cpbpw
+adta -r 660
+adtd -b 743348
+adtd -b 1071404
+adtd -s gptoa
+adtd -r 500966
+adtd -r 1042552
+adta -r 220
+adtp
+adtp
+adtd -r 906956
+adtr 6
+adtd -r 228401
+adtd -f 206963
+adta -r 540
+adtp -r
+adta -s qpujc
+adta -r 960
+adtd -s uifwl
+adtd -b 813235
+adtq rddez
+adtp
+adtq ezhzl
+adtd -b 973474
+adtp 692962
+adtd -r 668814
+adta -r 20
+adtd -r 1039278
+adta -r 70
+adta -r 320
+adta -r 770
+adtd -r 205456
+adtr 4
+adta -s lkbsb
+adta -r 790
+adta -r 830
+adtq vqssk
+adtq moxnv
+adtp -r
+adta -r 860
+adta -r 180
+adts
+adta -s lnvhm
+adtd -f 734952
+adtr 3
+adtd -r 526040
+adta -r 340
+adtd -r 713732
+adtp 848678
+adta -r 610
+adtp 386708
+adta -r 630
+adtp 615
+adtp -r
+adtd -f 1257623
+adta -r 760
+adtd -r 1216340
+adtp -r
+adtd -r 1208898
+adtp
+adtr 7
+adtp 350205
+adta -s szwtd
+adtd -r 318841
+adtd -r 471689
+adtd -s sgagq
+adta -r 140
+adtd -b 1102367
+adta -r 210
+adtd -r 667411
+adtd -r 742291
+adta -r 510
+adtd -s ifpxu
+adtp -r
+adtp -r
+adtr 10
+adta -s ilutc
+adtd -a
+adtd -a
+adtp 1091917
+adta -r 680
+adtp
+adtp -r
+adta -r 830
+adtd -r 445129
+adts
+adtd -f 651699
+adtd -r 873588
+adtd -b 857868
+adtd -r 864423
+adtp -r
+adta -s hgklx
+adtr 2
+adtp 110449
+adtp
+adtq vvlvb
+adtr 10
+adta -r 770
+adtd -r 418930
+adta -r 150
+adtp
+adta -r 220
+adta -s ixprn
+adtr 9
+adtd -b 59204
+adta -r 830
+adtp -r
+adtd -a
+adta -r 700
+adtp 1247689
+adtd -s cbjzw
+adtp 425707
+adtd -s mjjxr
+adta -r 880
+adts
+adtd -a
+adtp
+adtd -b 735342
+adtr 8
+adta -s wmqle
+adts
+adta -r 970
+adtd -b 486569
+adtd -s nxdqd
+adta -r 460
+adtd -r 599952
+adtp
+adta -s ypaif
+adtd -r 943269
+adtp -r
+adtd -f 470061
+adta -r 800
+adts
+adtq fnpsk
+adta -r 880
+adta -r 110
+adtd -b 810888
+adtd -r 389514
+adtd -r 1111565
+adtd -b 991724
+adtp 10478
+adtd -s wjdih
+adtp 1207267
+adta -r 940
+adtd -s xuzay
+adta -r 870
+adtd -r 719470
+adtd -r 640579
+adtd -s gdabp
+adta -r 680
+adtd -f 757747
+adtd -r 1280603
+adta -r 580
+adtd -r 364025
+adtd -r 978195
+adtq xyuac
+adtp -r
+adtd -a
+adta -s bcpkt
+adtr 5
+adta -s ebjvl
+adta -r 60
+adta -r 260
+adta -r 220
+adtd -b 262500
+adta -r 200
+adtp -r
+adta -s wovgv
+adtd -f 418348
+adta -r 90
+adta -r 530
+adtd -r 1081094
+adta -r 90
+adtp 114978
+adta -s gsurj
+adtr 6
+adta -r 430
+adtp -r
+adtd -b 697107
+adtd -b 1005272
+adtd -r 1104209
+adta -r 160
+adtd -a
+adtd -f 286431
+adta -r 460
+adtd -f 983314
+adta -r 270
+adta -r 100
+adtr 9
+adtr 4
+adtd -r 523752
+adtd -r 122493
+adta -r 710
+adtd -r 978294
+adta -r 120
+adta -r 930
+adtq zxsei
+adtd -a
+adtp -r
+adta -r 490
+adtp
+adtd -b 1121023
+adtd -b 423445
+adtp -r
+adtd -b 85414
+adtd -f 263764
+adtr 6
+adta -r 590
+adtr 3
+adta -r 610
+adtd -r 536728
+adtp
+adtd -a
+adta -r 290
+adtd -f 999387
+adtd -r 703258
+adtd -b 393652
+adta -r 980
+adtd -b 121100
+adta -r 10
+adta -r 590
+adtq rrzta
+adta -r 780
+adtd -r 720701
+adtd -b 1164364
+adtd -r 735825
+adtd -s pulrm
+adtd -f 684184
+adtd -f 110654
+adta -r 670
+adta -r 320
+adtp -r
+adtp 664891
+adta -r 740
+adta -r 490
+adtp -r
+adtp
+adtp
+adtp 1198474
+adta -s zahou
+adta -r 860
+adta -s ptovr
+adta -r 450
+adta -s winyz
+adta -r 950
+adtq sjjgr
+adtp
+adtp -r
+adtd -b 465960
+adtp 125703
+adta -r 350
+adtp
+adta -r 330
+adtr 2
+adtp
+adtq conlr
+adta -r 180
+adtp 18951
+adta -s ylqix
+adtr 4
+adta -r 130
+adta -r 320
+adtd -s kjxnt
+adtd -s zauef
+adtd -a
+adtp
+adta -r 140
+adtr 3
+adtr 7
+adtp 876140
+adtd -r 1028902
+adtp
+adtd -b 1079828
+adtd -r 480630
+adtp 1181135
+adtr 8
+adtp -r
+adtd -a
+adtd -f 668010
+adtp
+adtp 869452
+adtd -r 456084
+adta -r 520
+adtd -f 1223297
+adtd -r 1069960
+adtd -a
+adtd -r 559828
+adta -r 920
+adtp -r
+adta -r 530
+adtd -f 563811
+adta -s thllk
+adtd -f 433263
+adta -r 740
+adtd -r 228613
+adtd -f 1222908
+adta -s pqqwb
+adtp 921082
+adta -r 790
+adta -r 750
+adtd -a
+adta -r 660
+adta -r 280
+adta -r 720
+adtd -r 869090
+adtd -s oecnl
+adta -r 530
+adtd -b 420272
+adta -r 130
+adtd -a
+adta -r 80
+adtd -r 1054433
+adta -r 620
+adtq nzxrf
+adta -r 730
+adtd -r 1190640
+adtd -a
+adtp -r
+adtp
+adts
+adta -r 150
+adta -s xdjjj
+adtd -f 429267
+adta -r 550
+adtp
+adta -r 510
+adta -r 580
+adtd -r 717235
+adtr 7
+adtp
+adtd -b 286957
+adta -r 530
+adta -r 720
+adta -r 930
+adtd -b 872252
+adtd -r 154415
+adta -r 720
+adtd -r 903745
+adtq fttkn
+adtd -s onmuz
+adta -s udbxn
+adta -r 810
+adtq gqiyl
+adta -r 560
+adtq mwxqn
+adta -r 50
+adtd -a
+adta -s xuyte
+adta -r 300
+adta -r 840
+adta -r 570
+adtd -b 654051
+adtp
+adta -r 830
+adta -r 190
+adtd -r 915246
+adtd -f 549337
+adtp -r
+adta -r 690
+adtp 248778
+adtd -r 918057
+adtd -f 1208482
+adta -s braht
+adta -r 220
+adta -r 110
+adtp -r
+adtd -b 459947
+adtd -f 304055
+adtd -b 44923
+adtq kwwry
+adtd -f 102996
+adtp -r
+adtr 1
+adta -r 790
+adtq dhlqx
+adtd -r 737246
+adtp -r
+adta -r 390
+adtp
+adta -r 970
+adtd -f 422917
+adta -r 200
+adta -r 590
+adta -s uekky
+adta -r 840
+adta -r 700
+adtp 171210
+adtd -f 193209
+adta -r 880
+adtd -b 509580
+adtp
+adta -r 540
+adta -r 410
+adta -s ybkkv
+adtp -r
+adta -r 930
+adtp -r
+adtd -r 418567
+adtd -s hdsje
+adta -r 240
+adta -r 850
+adta -r 480
+adtd -f 118014
+adtd -r 1142719
+adtp 964439
+adta -r 250
+adtd -s oyayr
+adtq jyiho
+adta -r 250
+adtd -r 535566
+adta -r 890
+adtp 777329
+adtp 909977
+adtp
+adts
+adtp 160762
+adta -s etcba
+adtd -r 18071
+adtp
+adtd -f 935714
+adta -r 170
+adtd -f 1313837
+adtd -r 729106
+adtd -b 192563
+adta -r 840
+adta -r 790
+adtp
+adtd -r 258939
+adtd -r 853887
+adta -r 170
+adta -r 800
+adta -r 990
+adtd -b 559753
+adtp
+adtd -s agkei
+adtr 1
+adtp -r
+adta -s dwwbj
+adtp
+adtp -r
+adts
+adta -r 330
+adts
+adtp
+adtd -b 283437
+adtp
+adtp -r
+adta -r 370
+adta -r 270
+adtd -r 276934
+adtd -r 500698
+adtd -b 1317063
+adta -r 110
+adta -r 850
+adtd -b 145130
+adtp
+adta -r 610
+adtd -r 320006
+adtd -b 1167543
+adtd -r 97456
+adta -r 840
+adta -r 280
+adtd -f 293547
+adta -s dxxdx
+adta -r 570
+adta -r 650
+adtp 559642
+adtd -r 175
+adta -r 580
+adtd -r 318566
+adtp 1340978
+adtp
+adtq ymwss
+adta -r 190
+adtd -r 102219
+adta -r 40
+adta -r 520
+adtd -b 731159
+adtd -f 571732
+adtp -r
+adtq shrns
+adtr 3
+adtp -r
+adtd -b 349230
+adta -r 690
+adtd -b 764293
+adtp
+adtd -f 1019328
+adtd -r 1102256
+adtd -r 169583
+adta -r 940
+adta -r 780
+adtd -r 208695
+adtp -r
+adtd -b 662235
+adtp -r
+adtd -a
+adtr 9
+adtd -b 721636
+adtd -f 1077422
+adta -r 260
+adtd -r 533929
+adtd -r 868168
+adta -r 150
+adtp -r
+adtd -r 1296214
+adtr 4
+adta -r 840
+adtq sxsrv
+adta -r 660
+adta -r 460
+adta -r 70
+adtd -r 446166
+adtp
+adtd -r 1138582
+adta -r 110
+adtq vigem
+adta -r 670
+adtp 188565
+adta -r 190
+adtq qgojo
+adtd -r 543314
+adtd -f 1004273
+adta -r 590
+adta -r 230
+adta -r 60
+adtd -r 724743
+adtr 8
+adtp
+adtq wnzpb
+adtp -r
+adtd -r 1131335
+adtp 57963
+adta -s xpqec
+adtd -b 130840
+adtr 7
+adtd -a
+adtd -f 1022769
+adtd -r 948605
+adtd -r 1278677
+adtd -f 625769
+adtd -r 1082975
+adtd -f 1203428
+adtd -b 1121620
+adtp -r
+adtr 3
+adtd -a
+adtd -f 210996
+adtp 1244626
+adta -r 330
+adtq lgyyq
+adtd -r 1003770
+adta -s wdick
+adtd -f 1073673
+adta -r 560
+adtp
+adta -r 920
+adtd -r 1183287
+adta -s yvxeg
+adta -r 520
+adtd -f 850224
+adtd -s mahaj
+adtq tspvj
+adtd -r 72234
+adta -s hyjjq
+adtr 3
+adta -r 620
+adta -r 740
+adtq lxauc
+adta -r 840
+adtd -r 731680
+adtd -r 1339245
+adtp -r
+adtd -a
+adtd -r 1307209
+adta -r 340
+adtp
+adtd -r 1129471
+adtd -a
+adta -r 600
+adtd -r 1354335
+adta -r 710
+adtd -s tsyuc
+adts
+adtd -s urhvf
+adtr 7
+adtq hsssv
+adtp -r
+adtr 9
+adtd -b 181780
+adtd -r 911313
+adta -s hmfbf
+adta -r 430
+adta -r 980
+adtd -r 70255
+adtp 428998
+adta -r 10
+adta -r 470
+adta -s ivbpb
+adtd -s cfvef
+adtr 5
+adtd -f 390989
+adtd -b 1279711
+adta -r 550
+adtd -b 983382
+adta -r 570
+adts
+adta -s ystxx
+adtq fzjzg
+adta -s ikgbw
+adtp
+adtd -r 1054854
+adtq veiac
+adta -r 770
+adta -r 330
+adtd -r 1123276
+adtd -b 1252427
+adtd -b 800005
+adtp 89809
+adtd -f 732533
+adtd -s yhzfe
+adtd -r 39149
+adta -r 880
+adta -r 270
+adta -s dioex
+adtp 1035838
+adtp
+adtr 3
+adta -r 700
+adtp
+adtd -r 634594
+adtp 624085
+adta -r 630
+adtd -b 218135
+adta -s whkvi
+adtr 9
+adtd -f 258759
+adtr 1
+adtd -r 1006520
+adta -r 590
+adtr 9
+adtp
+adtd -r 210664
+adtr 1
+adtd -f 136164
+adtr 9
+adta -r 340
+adtd -f 741802
+adta -r 720
+adtd -f 952187
+adtp
+adta -r 990
+adtd -b 430694
+adtd -a
+adtd -r 756670
+adtd -r 1361624
+adtd -r 1331274
+adtp -r
+adtd -r 24179
+adtp
+adta -r 740
+adtd -r 485734
+adtp -r
+adtd -f 1069654
+adtr 5
+adtd -f 907816
+adta -r 860
+adtd -f 126533
+adtq xqxhf
+adtd -a
+adta -r 770
+adtp 14877
+adtd -r 1193506
+adta -r 730
+adtd -s crnue
+adtd -s chzlq
+adta -r 150
+adtp
+adtd -r 96420
+adtp 1144070
+adtd -f 1093985
+adtp
+adtd -f 176045
+adta -r 430
+adta -r 290
+adta -r 960
+adtd -b 331532
+adta -r 110
+adta -r 790
+adta -s pesbc
+adtd -r 903109
+adta -r 330
+adtd -f 58397
+adtr 4
+adtd -s wbvri
+adtd -s trtcr
+adta -r 290
+adtp -r
+adta -r 310
+adtp
+adtd -b 400839
+adta -r 280
+adta -r 890
+adtp
+adtd -r 215349
+adtd -r 296807
+adta -s qofdx
+adtp
+adta -r 70
+adtd -f 814940
+adtq wrjzm
+adtp 664499
+adtd -r 893851
+adta -r 400
+adtp 895094
+adta -r 530
+adtp -r
+adtd -s exiea
+adtp -r
+adta -r 660
+adtd -r 769904
+adtp
+adtq dffws
+adtd -s ioumz
+adta -r 160
+adta -s ptcfs
+adtd -r 236609
+adtq fspdc
+adtd -r 835349
+adtd -a
+adta -r 120
+adta -r 410
+adtp 914648
+adta -r 280
+adta -r 670
+adta -r 940
+adta -r 130
+adta -r 80
+adtq raqhm
+adtd -s pxtym
+adtd -r 780908
+adta -r 150
+adtp 1026688
+adtp
+adtd -f 171126
+adtr 2
+adta -r 580
+adta -r 510
+adtd -r 1044809
+adtp 1106640
+adta -s toaek
+adta -r 720
+adta -r 440
+adtp
+adtd -f 79058
+adtp
+adtd -a
+adtd -r 1082559
+adtp 168246
+adtd -b 976102
+adtp
+adta -r 480
+adtd -f 529823
+adta -r 740
+adtq huusc
+adtd -r 362323
+adtd -f 544884
+adta -r 600
+adta -s xedpg
+adta -s bvflg
+adta -r 80
+adtd -r 228743
+adtd -f 1326743
+adta -r 900
+adtp 19293
+adtd -b 74151
+adta -r 820
+adtd -r 376837
+adta -r 310
+adtd -f 774046
+adta -r 740
+adta -r 420
+adta -r 530
+adtd -f 536200
+adta -r 450
+adtd -a
+adta -r 580
+adta -r 920
+adtd -r 283544
+adta -r 690
+adtd -f 955018
+adtd -b 579662
+adtp -r
+adtr 5
+adtd -f 535800
+adtd -f 1016115
+adtr 8
+adtd -a
+adtd -f 1368607
+adta -s rahdo
+adta -r 280
+adtd -r 1140475
+adtd -r 738704
+adtp -r
+adta -r 50
+adtd -r 177774
+adta -r 960
+adta -s xbwlm
+adtd -f 396743
+adtd -b 1039557
+adta -r 270
+adtd -r 688985
+adta -r 630
+adta -r 950
+adta -r 300
+adtp 1181757
+adtd -r 552007
+adta -s hnymx
+adtp
+adtp 808612
+adta -s aflih
+adta -r 490
+adtd -r 833152
+adta -r 810
+adta -s rbwzk
+adtp 855430
+adtp -r
+adtp
+adta -r 760
+adtd -r 837149
+adtp
+adta -r 980
+adta -s wdnnk
+adta -r 840
+adtd -r 399405
+adtd -r 251787
+adta -r 710
+adtd -a
+adta -s xdwya
+adtr 10
+adtd -r 1211010
+adtd -a
+adtr 2
+adtq xppnu
+adtp
+adtp
+adtp 57511
+adtd -r 402944
+adtr 10
+adta -r 230
+adtp -r
+adtd -r 1038488
+adtq cbdoe
+adtp
+adta -r 240
+adta -s ssmra
+adtp
+adta -s nadhj
+adta -r 670
+adta -r 690
+adtp -r
+adtp
+adtp 515174
+adtd -a
+adtd -a
+adta -r 810
+adta -s bdqll
+adtd -f 287903
+adtd -b 66501
+adtd -b 816936
+adtp 898847
+adtd -a
+adtp
+adtd -s vadyp
+adta -r 840
+adtd -f 125349
+adtq yqbxu
+adtp
+adtq tdbjk
+adtd -b 934163
+adtd -r 863587
+adta -r 420
+adtq pdrww
+adta -r 550
+adtp -r
+adtd -f 340627
+adta -r 790
+adtp 23110
+adtd -r 1251840
+adtp 114333
+adtd -r 761697
+adtd -f 787402
+adtd -s zdcof
+adtd -r 1228475
+adtr 3
+adta -r 810
+adta -r 510
+adta -s vuyni
+adtd -b 308211
+adtd -r 307711
+adta -r 780
+adts
+adtd -b 257620
+adta -r 460
+adta -r 820
+adta -r 190
+adtd -s fhzcz
+adtd -r 116449
+adtp -r
+adta -r 410
+adtd -r 953715
+adta -s plfau
+adta -r 300
+adta -r 450
+adta -r 820
+adta -r 50
+adtd -b 1126875
+adta -r 970
+adta -r 810
+adtp
+adta -r 860
+adtd -f 973131
+adta -r 420
+adtd -b 570905
+adtp -r
+adtq qpjzu
+adtp -r
+adta -r 70
+adta -r 730
+adtd -s kpefr
+adtq xaujy
+adtp -r
+adta -r 360
+adtr 7
+adtd -b 487148
+adtp -r
+adtd -r 1336971
+adta -r 950
+adtd -b 93042
+adta -r 320
+adtd -b 973658
+adtd -a
+adtd -r 1344871
+adtp
+adtd -f 1230562
+adta -r 470
+adta -r 740
+adta -r 160
+adtd -b 397372
+adta -r 560
+adta -r 990
+adta -r 150
+adta -r 20
+adtd -f 1187520
+adta -r 100
+adtd -r 1341984
+adtq phojk
+adtd -r 1309598
+adtq ahrae
+adta -r 800
+adtd -r 86775
+adtq jjrvc
+adtd -s hilrd
+adta -r 730
+adtd -r 1171946
+adta -s pgvrj
+adtd -a
+adtr 1
+adta -s ytvlt
+adtd -r 942959
+adtd -r 424915
+adta -s fhhoc
+adta -r 160
+adtq qsuoa
+adta -r 790
+adta -r 520
+adtd -r 194679
+adtp 802551
+adtp
+adtq rsjih
+adtp -r
+adtp
+adtp 808050
+adtq snkis
+adtd -r 900834
+adta -r 250
+adta -r 320
+adta -r 660
+adta -r 390
+adtd -a
+adta -r 420
+adtd -r 1081617
+adta -r 690
+adtq nolgv
+adta -r 300
+adtd -b 503166
+adta -r 220
+adtd -r 667445
+adtd -b 34628
+adta -r 610
+adtp
+adta -r 880
+adtd -r 509977
+adtd -b 292324
+adtp 506410
+adtd -r 1360736
+adta -r 540
+adtp -r
+adtd -r 85513
+adta -r 450
+adtd -r 94139
+adta -s mizdg
+adtp -r
+adta -s scgxm
+adtq sknrk
+adta -r 930
+adtd -f 579247
+adta -s cifwp
+adtp 1241973
+adtd -r 1303677
+adta -r 600
+adtd -r 489386
+adtd -r 1257704
+adtp
+adta -r 50
+adtr 10
+adta -r 50
+adtd -b 1139704
+adta -s zfgin
+adtp
+adtp -r
+adtd -f 872296
+adta -r 670
+adtd -r 537192
+adta -r 900
+adta -s vzhvs
+adta -r 390
+adtr 1
+adtr 7
+adtq wbsyf
+adtd -f 670161
+adtp
+adta -r 640
+adtr 5
+adta -r 680
+adtr 6
+adtd -f 559286
+adta -r 700
+adtp -r
+adtr 1
+adtr 2
+adtd -r 1194873
+adtd -a
+adtp -r
+adtd -r 1415742
+adtp -r
+adtr 7
+adtd -a
+adta -r 170
+adta -r 260
+adtd -f 956378
+adta -s mfbxe
+adta -s kmsqd
+adtp
+adtp -r
+adtd -r 948933
+adtd -f 895849
+adta -s eayvv
+adtd -s idpdx
+adtd -s wxhvr
+adtd -r 78889
+adtq sqeiv
+adta -r 730
+adtq yalat
+adtd -f 197271
+adtq nzkfu
+adtd -f 111037
+adta -r 280
+adta -r 180
+adta -r 80
+adtp
+adtd -f 688221
+adtd -r 602145
+adtd -a
+usage
+q -f

@@ -68,9 +68,9 @@ public:
    void pop_back() { if(_size == 0) return; --_size; _isSorted = false; }
 
    bool erase(iterator pos) { if(empty()) return false; else { --_size; *(pos._node) = _data[_size]; _isSorted = false; } return true; }
-   bool erase(const T& x) { iterator target = find(x); if(target == 0) return false; else return erase(target); }
+   bool erase(const T& x) { iterator target = find(x); if(target == end()) return false; else return erase(target); }
 
-   iterator find(const T& x) { for(auto i = begin(); i != end(); ++i) if(x == *(i._node)) { return i._node; } return 0; }
+   iterator find(const T& x) { for(auto i = begin(); i != end(); ++i) if(x == *(i._node)) { return i._node; } return end(); }
 
    void clear() { _size = 0; _isSorted = false; }
 

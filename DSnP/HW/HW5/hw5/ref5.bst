@@ -2529,7 +2529,7 @@ adt> adtq ric
 adt> usage
 Period time used : 0.01 seconds
 Total time used  : 0.01 seconds
-Total memory used: 2.113 M Bytes
+Total memory used: 2.121 M Bytes
 
 adt> q -f
 

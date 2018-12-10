@@ -26,89 +26,112 @@ class CirGate
 {
 public:
    CirGate() {}
-	CirGate(string t, int ti, size_t id, unsigned l) : _type(t), _typeInt(ti), _id(id), _line(l){ }
+	CirGate(int ti, size_t id, unsigned l) : _typeInt(ti), _fanin1(0), _fanin2(0), _id(id), _line(l), _mark(0) { }
+	CirGate(int ti, size_t id) : _typeInt(ti), _fanin1(0), _fanin2(0), _id(id), _mark(0) { }
    virtual ~CirGate() {}
 
    // Basic access methods
-   string getTypeStr() const { return _type; }
+   string getTypeStr() const
+	{
+		switch(_typeInt)
+		{
+			case UNDEF_GATE: return "UNDEF";
+			case PI_GATE: return "PI";
+			case PO_GATE: return "PO";
+			case AIG_GATE: return "AIG";
+			case CONST_GATE: return "CONST";
+			default: return "";
+		}
+	}
    unsigned getLineNo() const { return _line; }
-	size_t getId() const { return _id; }
+	unsigned getId() const { return _id; }
 	int getTypeInt() const { return _typeInt; }
+	string getSymbol() const { return _symbol; }
+	CirGate* getIn(int num) const { return (!num)? (CirGate*)(size_t(_fanin1) & (~1)) : (CirGate*)(size_t(_fanin2) & (~1)); }
+	CirGate* getOut(int num) const { return (CirGate*)(size_t(_fanout[num]) & (~1)); }
 
    // Basic setting methods
-   void setInGate(CirGate* gate) { _fanin.push_back(gate); }
-   void setOutGate(CirGate* gate) { _fanout.push_back(gate); }
-   void setInInv(bool inv) { _faninInv.push_back(inv); }
-   void setOutInv(bool inv) { _fanoutInv.push_back(inv); }
+	void setInGate(CirGate* gate1, CirGate* gate2, bool inv1, bool inv2)
+	{
+		if(inv1) _fanin1 = (CirGate*)(size_t(gate1) | 1);
+		else _fanin1 = gate1;
+		if(inv2) _fanin2 = (CirGate*)(size_t(gate2) | 1);
+		else _fanin2 = gate2;
+	}
+   //void setInGate(CirGate* gate, bool inv) { _fanin.push_back(gate); _faninInv.push_back(inv); }
+   void setOutGate(CirGate* gate, bool inv) { if(inv) _fanout.push_back((CirGate*)(size_t(gate) | 1)); else _fanout.push_back(gate);}
+	void setSymbol(string sym) { _symbol = sym; }
 
    // dfs functions
-   void dfs(size_t num = 0) const;
+   void dfs(size_t& num) const;
+	void dfs(bool in, int level, int searched_level = 0) const;
+	void dfs(IdList& idList) const;
+   void mark() const { _mark = _state; }
+	static void resetMark() { ++_state; }
 
    // Printing functions
-   virtual void printGate() const = 0;
+   void printGate() {}
    void reportGate() const;
    void reportFanin(int level) const;
    void reportFanout(int level) const;
 
+	// checking functions
+	bool fanin_inv(int num) const { return (!num)? size_t(_fanin1) % 2 : size_t(_fanin2) % 2; }
+	bool fanout_inv(int num) const { return size_t(_fanout[num]) % 2; }
+	bool is_marked() const { return _mark == _state; }
+	bool has_floating_fanin() const { for(size_t i = 0; i < 2; ++i) { if(!getIn(i)) continue; if(getIn(i)->getTypeInt() == UNDEF_GATE) return true; } return false; }
+	bool is_unused() const { if(!_fanout.size()) return true; for(size_t i = 0; i < _fanout.size(); ++i) if(_fanout[i]->getTypeInt() == UNDEF_GATE) return true; return false; }
+
 private:
 protected:
-	const string _type;
 	int _typeInt;
-	GateList _fanin, _fanout;
-	vector<bool> _faninInv, _fanoutInv;
-	size_t _faninSize, _fanoutSize;
-	size_t _id;
+	GateList _fanout;
+	CirGate* _fanin1;
+	CirGate* _fanin2;
+	unsigned _id;
 	unsigned _line;
-	bool value;
+	mutable int _mark;
+	static int _state;
+	string _symbol;
 };
 
 class PIGate : public CirGate
 {
 public:
-	PIGate() { }
-	PIGate(size_t id, unsigned l) : CirGate("PI", 1, id, l) { }
+	PIGate(size_t id, unsigned l) : CirGate(1, id, l) { }
 	~PIGate() { }
-	void printGate() const { }
 private:
 };
 
 class POGate : public CirGate
 {
 public:
-	POGate() { }
-	POGate(size_t id, unsigned l) : CirGate("PO", 2, id, l) { }
+	POGate(size_t id, unsigned l) : CirGate(2, id, l) { }
 	~POGate() {}
-	void printGate() const { }
 private:
 };
 
 class AIGGate : public CirGate
 {
 public:
-	AIGGate() { }
-	AIGGate(size_t id, unsigned l) : CirGate("AIG", 3, id, l) { }
+	AIGGate(size_t id, unsigned l) : CirGate(3, id, l) { }
 	~AIGGate() {}
-	void printGate() const { }
 private:
 };
 
 class UNDEFGate : public CirGate
 {
 public:
-	UNDEFGate() { }
-	UNDEFGate(size_t id, unsigned l) : CirGate("UNDEF", 0, id, l) { }
+	UNDEFGate(size_t id) : CirGate(0, id) { }
 	~UNDEFGate() {}
-	void printGate() const { }
 private:
 };
 
 class CONSTGate : public CirGate
 {
 public:
-	CONSTGate() { }
-	CONSTGate(size_t id, unsigned l) : CirGate("CONST", 4, id, l) { }
+	CONSTGate(size_t id, unsigned l) : CirGate(4, id, l) { }
 	~CONSTGate() {}
-	void printGate() const { }
 private:
 };
 

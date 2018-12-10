@@ -24,16 +24,18 @@ extern CirMgr *cirMgr;
 class CirMgr
 {
 public:
-   CirMgr() {}
-   ~CirMgr() {}
+   CirMgr();
+   ~CirMgr();
 
    // Access functions
    // return '0' if "gid" corresponds to an undefined gate.
-   CirGate* getGate(unsigned gid) const;
+   CirGate* getGate(unsigned gid) const { return sorted_list[gid]; }
 
    // Member functions about circuit construction
    bool readCircuit(const string&);
-	void combine(bool, bool, CirGate*, CirGate*);
+   void combineAIG(unsigned value_num);
+   void combinePO(unsigned value_num);
+   void linkSymbol(bool in, size_t gate_num, string sym);
 
    // Member functions about circuit reporting
    void printSummary() const;
@@ -42,11 +44,11 @@ public:
    void printPOs() const;
    void printFloatGates() const;
    void writeAag(ostream&) const;
-
+	
 private:
 	size_t M, I, L, O, A;
 	vector<vector<size_t>> value;
-	GateList gate_list;
+	GateList gate_list, sorted_list;
 };
 
 #endif // CIR_MGR_H

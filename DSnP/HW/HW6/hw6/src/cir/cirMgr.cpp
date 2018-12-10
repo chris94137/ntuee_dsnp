@@ -149,12 +149,8 @@ parseError(CirParseError err)
 /**************************************************************/
 /*   class CirMgr member functions for circuit construction   */
 /**************************************************************/
-CirGate* CirMgr::getGate(unsigned gid) const
-{
-   for(size_t i = 0; i < gate_list.size(); ++i)
-      if(gate_list[i]->getId() == gid) return gate_list[i];
-   return 0;
-}
+CirMgr::CirMgr() { sorted_list.push_back(new CONSTGate(0, 0)); cerr << "size of CirGate : " << sizeof(CirGate) << endl; cerr << "size of CirMgr : " << sizeof(CirMgr) << endl;}
+CirMgr::~CirMgr() { delete sorted_list[0]; for(size_t i = 0; i < gate_list.size(); ++i) delete gate_list[i]; lineNo = 0; colNo = 0; }
 bool
 CirMgr::readCircuit(const string& fileName)
 {
@@ -169,8 +165,8 @@ CirMgr::readCircuit(const string& fileName)
       else wholeFile.back().push_back(c);
    wholeFile.pop_back();
 
-   cerr << "whole file : " << endl;
-   for(size_t i = 0; i < wholeFile.size(); ++i) cerr << wholeFile[i] << endl;
+   // cerr << "whole file : " << endl;
+   // for(size_t i = 0; i < wholeFile.size(); ++i) cerr << wholeFile[i] << endl;
 
    stringstream ss;
    ss << wholeFile[0];
@@ -178,6 +174,7 @@ CirMgr::readCircuit(const string& fileName)
    string head;
    ss >> head;
    if(head == "aag") ss >> M >> I >> L >> O >> A;
+   ++lineNo;
    size_t current_value;
    // PI
    for(size_t i = 0; i < I; ++i, ++lineNo)
@@ -201,6 +198,7 @@ CirMgr::readCircuit(const string& fileName)
       ss << wholeFile[i + 1];
       ss >> current_value;
       vector<size_t> v;
+      v.push_back(M + i - I + L + 1);
       v.push_back(current_value);
       value.push_back(v);
       gate_list.push_back(new POGate(M + i - I + L + 1, lineNo));
@@ -220,54 +218,90 @@ CirMgr::readCircuit(const string& fileName)
       value.push_back(v);
       gate_list.push_back(new AIGGate(v[0] / 2, lineNo));
    }
-   // CONST
-   gate_list.push_back(new CONSTGate(0, 0));
-   for(size_t i = 0; i < value.size(); ++i)
+
+   sorted_list.resize(M + O + 1, 0);// plus const gate
+
+   for(size_t i = 0; i < gate_list.size(); ++i) { sorted_list[gate_list[i]->getId()] = gate_list[i]; }
+   
+   // // for debug
+   // cerr << "debug start" << endl;
+   // for(size_t i = 0; i < value.size(); ++i)
+   // {
+   //    if(i == 0) cerr << "PI : " << endl;
+   //    if(i == I) cerr << "LATCH : " << endl;
+   //    if(i == I + L) cerr << "PO : " << endl;
+   //    if(i == I + L + O) cerr << "AIG : " << endl;
+   //    for(size_t j = 0; j < value[i].size(); ++j) cerr << value[i][j] << " ";
+   //    cerr << endl;
+   // }
+   // for(size_t i = 0; i < sorted_list.size(); ++i)
+   // {
+   //    cerr << "id[" << i << "] : ";
+   //    if(sorted_list[i]) cerr << sorted_list[i]->getTypeStr();
+   //    else cerr << 0;
+   //    cerr << endl;
+   // }
+   // cerr << "debug end" << endl;
+   // //
+   
+   // get symbols
+   for(size_t i = I + L + O + A + 1; i < wholeFile.size(); ++i)
    {
-      if(i == 0) cerr << "PI : " << endl;
-      if(i == I) cerr << "LATCH : " << endl;
-      if(i == I + L) cerr << "PO : " << endl;
-      if(i == I + L + O) cerr << "AIG : " << endl;
-      for(size_t j = 0; j < value[i].size(); ++j) cerr << value[i][j] << " ";
-      cerr << endl;
+      size_t space_pos = wholeFile[i].find_first_of(' ', 0);
+      ss.str("");
+      ss.clear();
+      ss << wholeFile[i].substr(1, space_pos - 1);
+      size_t gate_num = 0;
+      ss >> gate_num;
+      string sym = wholeFile[i].substr(space_pos + 1);
+      // cerr << "gate_num : " << gate_num << endl;
+      // cerr << "sym      : " << sym << endl;
+      if(wholeFile[i][0] == 'i') linkSymbol(true, gate_num, sym);
+      else if(wholeFile[i][0] == 'o') linkSymbol(false, gate_num, sym);
+      else if(wholeFile[i][0] == 'c') break;
+      else break;
    }
-   for(size_t i = I + L + O; i < value.size(); ++i)
+   // link gates
+   for(size_t i = 0; i < M + O + 1; ++i)
    {
-      CirGate* aigGate = getGate(value[i][0] / 2);
-      CirGate* inGate1 = getGate(value[i][1] / 2);
-      CirGate* inGate2 = getGate(value[i][2] / 2);
-      cerr << "aigGate : " << aigGate << endl;
-      cerr << "inGate1 : " << inGate1 << endl;
-      cerr << "inGate2 : " << inGate2 << endl;
-      combine(value[i][1] % 2, value[i][0] % 2, inGate1, aigGate);
-      combine(value[i][2] % 2, value[i][0] % 2, inGate2, aigGate);
-      GateList outGate;
-      for(size_t j = I + L; j < I + L + O; ++j)
-      {
-         if(value[j][0] == value[i][0])
-         {
-            outGate.push_back(getGate(M + j - I + L + 1));
-            break;
-         }
-      }
-      for(size_t j = 0; j < outGate.size(); ++j)
-         cerr << "outGate : " << outGate[j] << endl;
-      if(outGate.size()) for(size_t j = 0; j < outGate.size(); ++j) combine(value[i][0] % 2, false, aigGate, outGate[j]);
-      else
-      {
-         aigGate->setOutGate(0);
-         aigGate->setOutInv(false);
-      }
+      if(sorted_list[i] == 0) continue;
+      // cerr << "start linking " << sorted_list[i]->getTypeStr() << endl;
+      // cerr << "line no " << sorted_list[i]->getLineNo() << endl;
+      if(sorted_list[i]->getTypeInt() == AIG_GATE) combineAIG(sorted_list[i]->getLineNo() - 2);
+      else if(sorted_list[i]->getTypeInt() == PO_GATE) combinePO(sorted_list[i]->getLineNo() - 2);
    }
    return true;
 }
 
-void CirMgr::combine(bool inv_prev, bool inv_next, CirGate* prev, CirGate* next)
+void CirMgr::combineAIG(unsigned value_num)
 {
-   next->setInGate(prev);
-   prev->setOutGate(next);
-   next->setInInv(inv_prev);
-   prev->setOutInv(inv_next);
+   // cerr << "value num : " << value_num << endl;
+   // for(size_t i = 0; i < value[value_num].size(); ++i) cerr << "value[" << value_num << "][" << i << "] " << value[value_num][i] << endl;
+   CirGate* inGate1 = getGate(value[value_num][1] / 2);
+   CirGate* inGate2 = getGate(value[value_num][2] / 2);
+   if(!inGate1) { inGate1 = new UNDEFGate(value[value_num][1] / 2); gate_list.push_back(inGate1); sorted_list[value[value_num][1] / 2] = inGate1; }
+   if(!inGate2) { inGate2 = new UNDEFGate(value[value_num][2] / 2); gate_list.push_back(inGate2); sorted_list[value[value_num][2] / 2] = inGate2; }
+   sorted_list[value[value_num][0] / 2]->setInGate(inGate1, inGate2, value[value_num][1] % 2, value[value_num][2] % 2);
+   inGate1->setOutGate(sorted_list[value[value_num][0] / 2], value[value_num][1] % 2);
+   inGate2->setOutGate(sorted_list[value[value_num][0] / 2], value[value_num][2] % 2);
+}
+
+void CirMgr::combinePO(unsigned value_num)
+{
+   CirGate* aigGate = getGate(value[value_num][1] / 2);
+   // cout << "aigGate : " << aigGate << endl;
+   if(!aigGate) { aigGate = new UNDEFGate(value[value_num][1] / 2); gate_list.push_back(aigGate); sorted_list[value[value_num][1] / 2] = aigGate; }
+   sorted_list[value[value_num][0]]->setInGate(aigGate, 0,  value[value_num][1] % 2, false);
+   aigGate->setOutGate(sorted_list[value[value_num][0]], value[value_num][1] % 2);
+}
+
+void CirMgr::linkSymbol(bool in, size_t gate_num, string sym)
+{
+   CirGate* control_gate;;
+   if(in) control_gate = getGate(value[gate_num][0] / 2);
+   else control_gate = getGate(value[gate_num + I + L][0]);
+   control_gate->setSymbol(sym);
+   // cerr << "set symbol " << sym << " to " << control_gate->getTypeStr() << " gate [" << control_gate->getId() << "]" << endl;
 }
 
 /**********************************************************/
@@ -306,7 +340,11 @@ CirMgr::printSummary() const
 void
 CirMgr::printNetlist() const
 {
-   
+   CirGate::resetMark();
+   size_t num = 0;
+   cout << endl;
+   for(size_t i = I + L; i < I + L + O; ++i)
+      gate_list[i]->dfs(num);
 }
 
 void
@@ -330,11 +368,70 @@ CirMgr::printPOs() const
 void
 CirMgr::printFloatGates() const
 {
-   for(size_t i = I + L + O; i < I + L + O + A; ++i)
-      if(gate_list[i]->size())
+   GateList floating;
+   GateList unused;
+   for(size_t i = 0; i < M + O + 1; ++i)
+   {
+      if(sorted_list[i] == 0) continue;
+      if(sorted_list[i]->getTypeInt() == AIG_GATE || sorted_list[i]->getTypeInt() == PO_GATE) if(sorted_list[i]->has_floating_fanin()) floating.push_back(sorted_list[i]);
+      if(sorted_list[i]->getTypeInt() == AIG_GATE || sorted_list[i]->getTypeInt() == PI_GATE) if(sorted_list[i]->is_unused()) unused.push_back(sorted_list[i]);
+   }
+   if(floating.size())
+   {
+      cout << "Gates with floating fanin(s):";
+      for(size_t i = 0; i < floating.size(); ++i) cout << " " << floating[i]->getId();
+      cout << endl;
+   }
+   if(unused.size())
+   {
+      cout << "Gates defined but not used  :";
+      for(size_t i = 0; i < unused.size(); ++i) cout << " " << unused[i]->getId();
+      cout << endl;
+   }
 }
 
 void
 CirMgr::writeAag(ostream& outfile) const
 {
+   // header
+   int cnt = 0;
+   for(size_t i = 0; i < M + O + 1; ++i)
+   {
+      if(sorted_list[i] == 0) continue;
+      if(sorted_list[i]->getTypeInt() == AIG_GATE && !sorted_list[i]->is_unused()) ++cnt;
+   }
+   outfile << "aag " << M << " " << I << " " << L << " " << O << " " << cnt << endl;
+   cout << "aag " << M << " " << I << " " << L << " " << O << " " << cnt << endl;
+   // PI and PO
+   for(size_t i = 0; i < I + L + O; ++i)
+   {
+      outfile << value[i].back();
+      outfile << endl;
+      cout << value[i].back();
+      cout << endl;
+   }
+   // AIG gate
+   IdList idList;
+   CirGate::resetMark();
+   for(size_t i = I + L; i < I + L + O; ++i)
+      gate_list[i]->dfs(idList);
+   for(size_t i = 0; i < idList.size(); ++i)
+   {
+      for(size_t j = 0; j < value[sorted_list[idList[i]]->getLineNo() - 2].size(); ++j)
+      {
+         if(j != 0) { outfile << " "; cout << " "; }
+         outfile << value[sorted_list[idList[i]]->getLineNo() - 2][j];
+         cout << value[sorted_list[idList[i]]->getLineNo() - 2][j];
+      }
+      outfile << endl;
+      cout << endl;
+   }
+   //symbol
+   for(size_t i = 0; i < I; ++i)
+      if(gate_list[i]->getSymbol().size())
+         outfile << "i" << i << " " << gate_list[i]->getSymbol() << endl;
+   for(size_t i = I + L; i < I + L + O; ++i)
+      if(gate_list[i]->getSymbol().size())
+         outfile << "o" << i - I - L << " " << gate_list[i]->getSymbol() << endl;
+   outfile << "c\nAAG output by Shih-Hao Huang" << endl; 
 }

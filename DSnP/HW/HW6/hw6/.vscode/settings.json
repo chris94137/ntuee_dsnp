@@ -4,6 +4,15 @@
         "vector": "cpp",
         "ostream": "cpp",
         "sstream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp"
     }
 }

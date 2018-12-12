@@ -19,3 +19,4 @@ cirp -fl
 cirr flt07.aag -replace
 cirp -n
 cirp -fl
+q -f

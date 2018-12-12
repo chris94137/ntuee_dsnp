@@ -1,16 +1,2 @@
-cirr tests.fraig/sim13.aag
-usage
-cirp
-usage
-cirp -pi
-usage
-cirp -po
-usage
-cirp -n
-usage
-cirp -fl
-usage
-cirg 25 -fanin 4
-cirg 25 -fanin 3
-cirg 2 -fanout 4
+cirr tests.err/err21.aag
 q -f

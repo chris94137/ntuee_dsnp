@@ -10,3 +10,4 @@ cirr ok09.aag -replace
 cirr ok10.aag -replace
 cirr ok11.aag -replace
 cirr good.aag -replace
+q -f

@@ -123,7 +123,7 @@ private:
 class UNDEFGate : public CirGate
 {
 public:
-	UNDEFGate(size_t id) : CirGate(0, id) { }
+	UNDEFGate(size_t id) : CirGate(0, id, 0) { }
 	~UNDEFGate() {}
 private:
 };

@@ -51,10 +51,10 @@ void
 CirGate::dfs(bool in, int level, int searched_level) const
 {
    cout << getTypeStr() << " " << getId();
-   if(is_marked() && searched_level != level) { cout << " (*)" << endl; return; }
+   if(is_marked() && searched_level != level && getTypeInt() != PI_GATE && getTypeInt() != CONST_GATE && searched_level != level) { cout << " (*)" << endl; return; }
    else cout << endl;
-   mark();
    if(searched_level == level) return;
+   mark();
    
    if(in) 
    {

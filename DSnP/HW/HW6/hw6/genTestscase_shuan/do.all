@@ -1,0 +1,15 @@
+#!/bin/zsh
+
+echo running $1 aag
+echo "================="
+echo running ref code
+../ref/cirTest-ref -f mydofile.$1 &> ref.$1
+echo "================="
+echo running your code
+../cirTest -f mydofile.$1 &> mine.$1
+echo "================="
+echo diff
+colordiff mine.$1 ref.$1
+echo "================="
+echo done
+echo "================="

@@ -1,0 +1,8 @@
+# !/bin/zsh
+
+echo start diff $1
+echo "==============="
+code --diff mine.$1 ref.$1
+echo "==============="
+echo done
+echo "==============="

@@ -1,0 +1,888 @@
+cirr ../tests.err/flt02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 1
+cirg 1
+cirg 1
+cirg 4 -fani 2
+cirg 4 -fani 5
+cirg 4 -fani 4
+cirg 4 -fani 2
+cirr ../tests.err/err01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err52.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt07.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 9
+cirg 5
+cirg 1
+cirg 3
+cirg 3
+cirg 7 -fani 10
+cirg 7 -fani 12
+cirg 9 -fani 3
+cirg 5 -fani 9
+cirg 10 -fani 1
+cirg 9 -fani 12
+cirg 11 -fani 10
+cirg 11 -fani 11
+cirg 11 -fani 11
+cirg 11 -fani 4
+cirg 11 -fani 14
+cirg 11 -fani 11
+cirr ../tests.err/err35.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err37.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 2
+cirg 2
+cirg 2
+cirg 2 -fani 2
+cirg 2 -fani 4
+cirg 2 -fani 1
+cirg 2 -fani 3
+cirg 3 -fani 3
+cirr ../tests.err/good.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 6
+cirg 3
+cirg 2
+cirg 2
+cirg 1
+cirg 6 -fani 13
+cirg 3 -fani 4
+cirg 6 -fani 1
+cirg 6 -fani 8
+cirg 7 -fani 9
+cirg 3 -fani 2
+cirg 8 -fani 10
+cirg 8 -fani 13
+cirg 9 -fani 8
+cirg 9 -fani 6
+cirg 9 -fani 7
+cirg 8 -fani 5
+cirr ../tests.err/err42.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err46.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err40.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 0
+cirg 1
+cirg 0
+cirg 0
+cirg 1
+cirg 0 -fani 1
+cirg 1 -fani 3
+cirg 1 -fani 7
+cirg 1 -fani 4
+cirg 1 -fani 5
+cirg 2 -fani 3
+cirg 2 -fani 1
+cirg 2 -fani 4
+cirg 2 -fani 7
+cirg 2 -fani 7
+cirr ../tests.err/err18.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err32.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err19.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err43.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err55.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err41.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 6
+cirg 3
+cirg 9
+cirg 6
+cirg 2
+cirg 6 -fani 4
+cirg 3 -fani 9
+cirg 9 -fani 5
+cirg 3 -fani 4
+cirg 6 -fani 12
+cirg 2 -fani 7
+cirg 10 -fani 10
+cirg 11 -fani 15
+cirg 11 -fani 9
+cirg 11 -fani 7
+cirg 11 -fani 13
+cirg 11 -fani 9
+cirr ../tests.err/err10.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err09.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err28.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err36.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err16.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err48.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err31.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err14.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/do.ok -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err15.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 1
+cirg 1
+cirg 1
+cirg 2 -fani 5
+cirg 2 -fani 6
+cirg 1 -fani 6
+cirg 1 -fani 6
+cirg 2 -fani 3
+cirg 4 -fani 5
+cirg 4 -fani 5
+cirg 4 -fani 4
+cirg 4 -fani 1
+cirg 4 -fani 3
+cirr ../tests.err/err07.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err47.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err61.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 6
+cirg 2
+cirg 6
+cirg 2
+cirg 3
+cirg 7
+cirg 3 -fani 13
+cirg 2 -fani 2
+cirg 0 -fani 10
+cirg 6 -fani 13
+cirg 6 -fani 8
+cirg 3 -fani 9
+cirg 9 -fani 16
+cirg 9 -fani 13
+cirg 10 -fani 11
+cirg 8 -fani 1
+cirg 10 -fani 13
+cirg 10 -fani 12
+cirr ../tests.err/err44.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok07.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 7
+cirg 6
+cirg 7
+cirg 1
+cirg 7
+cirg 3 -fani 2
+cirg 7 -fani 9
+cirg 3 -fani 4
+cirg 7 -fani 2
+cirg 6 -fani 12
+cirg 6 -fani 9
+cirg 8 -fani 5
+cirg 9 -fani 14
+cirg 8 -fani 10
+cirg 9 -fani 3
+cirg 8 -fani 8
+cirg 9 -fani 10
+cirr ../tests.err/err49.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err56.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err25.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 1
+cirg 6
+cirg 6
+cirg 6
+cirg 3
+cirg 3 -fani 5
+cirg 3 -fani 11
+cirg 3 -fani 8
+cirg 7 -fani 4
+cirg 3 -fani 9
+cirg 3 -fani 8
+cirg 9 -fani 4
+cirg 9 -fani 15
+cirg 8 -fani 10
+cirg 8 -fani 15
+cirg 9 -fani 2
+cirg 8 -fani 11
+cirr ../tests.err/err20.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err62.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err11.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 1
+cirg 1
+cirg 1
+cirr ../tests.err/ok10.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 6
+cirg 2
+cirg 2
+cirg 6
+cirg 3
+cirg 7
+cirg 3 -fani 1
+cirg 2 -fani 7
+cirg 7 -fani 7
+cirg 3 -fani 10
+cirg 6 -fani 9
+cirg 3 -fani 1
+cirg 9 -fani 10
+cirg 8 -fani 5
+cirg 9 -fani 14
+cirg 8 -fani 11
+cirg 9 -fani 1
+cirg 9 -fani 8
+cirr ../tests.err/err60.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok11.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 3
+cirg 3
+cirg 3
+cirg 0 -fani 3
+cirg 3 -fani 1
+cirg 3 -fani 4
+cirg 3 -fani 6
+cirg 2 -fani 4
+cirg 5 -fani 5
+cirg 5 -fani 6
+cirg 5 -fani 1
+cirg 4 -fani 3
+cirg 4 -fani 4
+cirr ../tests.err/err03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err23.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/flt05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 1
+cirg 1
+cirg 2
+cirg 2 -fani 3
+cirg 2 -fani 3
+cirg 1 -fani 5
+cirg 2 -fani 6
+cirg 1 -fani 3
+cirg 3 -fani 3
+cirg 3 -fani 1
+cirg 3 -fani 4
+cirg 3 -fani 1
+cirg 3 -fani 5
+cirr ../tests.err/err34.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err22.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err13.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err24.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 3
+cirg 3
+cirg 2
+cirg 6
+cirg 3
+cirg 3 -fani 1
+cirg 3 -fani 1
+cirg 6 -fani 2
+cirg 6 -fani 6
+cirg 2 -fani 7
+cirg 6 -fani 12
+cirg 8 -fani 12
+cirg 9 -fani 11
+cirg 8 -fani 5
+cirg 8 -fani 6
+cirg 9 -fani 5
+cirg 8 -fani 1
+cirr ../tests.err/err12.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err21.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err26.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err53.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 3
+cirg 2
+cirg 6
+cirg 2
+cirg 6
+cirg 2 -fani 15
+cirg 6 -fani 1
+cirg 6 -fani 7
+cirg 6 -fani 5
+cirg 6 -fani 12
+cirg 7 -fani 5
+cirg 9 -fani 13
+cirg 9 -fani 2
+cirg 10 -fani 4
+cirg 10 -fani 15
+cirg 8 -fani 1
+cirg 9 -fani 7
+cirr ../tests.err/do.flt -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err17.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/do.err -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok08.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 7
+cirg 1
+cirg 6
+cirg 1
+cirg 1
+cirg 3 -fani 9
+cirg 6 -fani 8
+cirg 2 -fani 13
+cirg 6 -fani 15
+cirg 7 -fani 14
+cirg 2 -fani 14
+cirg 9 -fani 4
+cirg 8 -fani 5
+cirg 9 -fani 1
+cirg 8 -fani 6
+cirg 9 -fani 3
+cirg 8 -fani 14
+cirr ../tests.err/err45.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err58.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok09.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 3
+cirg 3
+cirg 3
+cirg 3
+cirg 2
+cirg 6 -fani 11
+cirg 3 -fani 1
+cirg 7 -fani 12
+cirg 6 -fani 7
+cirg 6 -fani 3
+cirg 2 -fani 4
+cirg 8 -fani 9
+cirg 8 -fani 5
+cirg 8 -fani 11
+cirg 9 -fani 9
+cirg 9 -fani 14
+cirg 9 -fani 7
+cirr ../tests.err/err30.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err33.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/ok06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 6
+cirg 6
+cirg 6
+cirg 1
+cirg 3
+cirg 7
+cirg 3 -fani 5
+cirg 3 -fani 9
+cirg 3 -fani 7
+cirg 2 -fani 10
+cirg 3 -fani 4
+cirg 2 -fani 4
+cirg 8 -fani 6
+cirg 8 -fani 1
+cirg 9 -fani 8
+cirg 8 -fani 11
+cirg 9 -fani 3
+cirg 9 -fani 9
+cirr ../tests.err/err50.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err57.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err27.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err51.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err29.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err08.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err38.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err59.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err39.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr ../tests.err/err54.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+usage
+q -f

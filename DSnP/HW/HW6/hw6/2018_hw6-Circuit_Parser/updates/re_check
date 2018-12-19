@@ -1,0 +1,7 @@
+#!bin/zsh
+echo "=== Running your program ==="
+../../cirTest <mydo &>out.mine
+echo "=== Running ref program ==="
+../../ref/cirTest-linux18 <mydo &>out.ref
+echo "=== Comparing results ==="
+colordiff out.mine out.ref

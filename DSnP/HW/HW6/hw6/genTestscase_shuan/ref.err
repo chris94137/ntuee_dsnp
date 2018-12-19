@@ -3821,8 +3821,8 @@ cir> cirw
 Error: circuit is not yet constructed!!
 
 cir> usage
-Period time used : 0.02 seconds
-Total time used  : 0.02 seconds
+Period time used : 0.04 seconds
+Total time used  : 0.04 seconds
 Total memory used: 0 M Bytes
 
 cir> q -f

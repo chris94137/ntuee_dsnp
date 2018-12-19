@@ -9,7 +9,10 @@ dirPath = '../tests.' + str(sys.argv[1]) + '/'
 onlyfiles = [f for f in listdir(dirPath) if isfile(join(dirPath, f))]
 print(onlyfiles)
 
-file = open('mydofile.' + str(sys.argv[1]), 'w')
+if sys.argv[1].find('/'):
+	file = open('mydofile.ISCAS85', 'w')
+else:
+	file = open('mydofile.' + str(sys.argv[1]), 'w')
 for f in onlyfiles:
     file.write('cirr ' + dirPath + f + ' -r\n')
     file.write('cirp\n')

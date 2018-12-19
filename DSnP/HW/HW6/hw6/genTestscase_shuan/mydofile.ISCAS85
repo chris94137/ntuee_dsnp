@@ -1,0 +1,1014 @@
+cirr ../tests.fraig/cirp-n.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 23
+cirg 19
+cirg 16
+cirg 7
+cirg 1
+cirg 2
+cirg 23 -fani 13
+cirg 11 -fani 19
+cirg 16 -fani 8
+cirg 23 -fani 2
+cirg 19 -fani 2
+cirg 16 -fani 14
+cirg 25 -fani 4
+cirg 24 -fani 11
+cirg 25 -fani 11
+cirg 25 -fani 15
+cirg 25 -fani 7
+cirg 24 -fani 4
+cirr ../tests.fraig/strash04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 1
+cirg 5
+cirg 1
+cirg 4
+cirg 6
+cirg 4 -fani 13
+cirg 7 -fani 4
+cirg 4 -fani 11
+cirg 3 -fani 8
+cirg 7 -fani 5
+cirg 6 -fani 2
+cirg 9 -fani 9
+cirg 8 -fani 3
+cirg 8 -fani 9
+cirg 9 -fani 12
+cirg 8 -fani 5
+cirg 8 -fani 1
+cirr ../tests.fraig/sim03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 5
+cirg 5
+cirg 8
+cirg 6
+cirg 1
+cirg 8
+cirg 6 -fani 4
+cirg 6 -fani 14
+cirg 7 -fani 12
+cirg 5 -fani 2
+cirg 6 -fani 2
+cirg 6 -fani 9
+cirg 9 -fani 1
+cirg 9 -fani 8
+cirg 10 -fani 4
+cirg 9 -fani 4
+cirg 9 -fani 8
+cirg 9 -fani 9
+cirr ../tests.fraig/sim15.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 198
+cirg 2
+cirg 585
+cirg 389
+cirg 575
+cirg 896
+cirg 811
+cirg 634
+cirg 241
+cirg 574
+cirg 665
+cirg 716 -fani 918
+cirg 161 -fani 222
+cirg 720 -fani 471
+cirg 273 -fani 755
+cirg 673 -fani 863
+cirg 488 -fani 861
+cirg 809 -fani 126
+cirg 427 -fani 899
+cirg 220 -fani 891
+cirg 49 -fani 380
+cirg 340 -fani 206
+cirg 928 -fani 95
+cirg 928 -fani 959
+cirg 928 -fani 668
+cirg 928 -fani 817
+cirg 928 -fani 67
+cirg 928 -fani 945
+cirg 928 -fani 735
+cirg 928 -fani 940
+cirg 928 -fani 513
+cirg 928 -fani 877
+cirg 928 -fani 578
+cirr ../tests.fraig/test2.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 12
+cirg 12
+cirg 0
+cirg 12
+cirg 4
+cirg 7
+cirg 12 -fani 11
+cirg 5 -fani 2
+cirg 7 -fani 3
+cirg 5 -fani 1
+cirg 7 -fani 2
+cirg 5 -fani 4
+cirg 17 -fani 8
+cirg 17 -fani 10
+cirg 18 -fani 10
+cirg 17 -fani 1
+cirg 18 -fani 9
+cirg 17 -fani 4
+cirr ../tests.fraig/sim12.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 4630
+cirg 8217
+cirg 166
+cirg 8303
+cirg 9527
+cirg 1026
+cirg 9460
+cirg 4071
+cirg 2425
+cirg 3005
+cirg 8469
+cirg 8192
+cirg 539
+cirg 1180
+cirg 1527 -fani 5717
+cirg 3568 -fani 472
+cirg 1583 -fani 186
+cirg 9432 -fani 8203
+cirg 4022 -fani 5764
+cirg 6591 -fani 7261
+cirg 4771 -fani 9805
+cirg 5333 -fani 5325
+cirg 6930 -fani 9872
+cirg 3577 -fani 3337
+cirg 4550 -fani 5927
+cirg 4651 -fani 4209
+cirg 6292 -fani 4395
+cirg 529 -fani 2087
+cirg 9642 -fani 9407
+cirg 9642 -fani 7842
+cirg 9642 -fani 7252
+cirg 9642 -fani 3548
+cirg 9642 -fani 6820
+cirg 9642 -fani 7941
+cirg 9642 -fani 1102
+cirg 9642 -fani 3959
+cirg 9642 -fani 5904
+cirg 9642 -fani 2021
+cirg 9642 -fani 8688
+cirg 9642 -fani 4105
+cirg 9642 -fani 482
+cirg 9642 -fani 2524
+cirr ../tests.fraig/strash07.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 3
+cirg 4
+cirg 5
+cirg 1
+cirg 5
+cirg 2 -fani 4
+cirg 3 -fani 8
+cirg 2 -fani 1
+cirg 5 -fani 7
+cirg 4 -fani 6
+cirg 5 -fani 9
+cirg 6 -fani 7
+cirg 6 -fani 9
+cirg 6 -fani 3
+cirg 6 -fani 10
+cirg 6 -fani 3
+cirg 6 -fani 8
+cirr ../tests.fraig/opt03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 1
+cirg 2
+cirg 2
+cirg 2 -fani 1
+cirg 2 -fani 6
+cirg 2 -fani 2
+cirg 1 -fani 6
+cirg 1 -fani 5
+cirg 3 -fani 4
+cirg 3 -fani 3
+cirg 3 -fani 6
+cirg 3 -fani 4
+cirg 3 -fani 1
+cirr ../tests.fraig/strash09.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 7
+cirg 5
+cirg 5
+cirg 6
+cirg 6
+cirg 2 -fani 8
+cirg 7 -fani 8
+cirg 3 -fani 7
+cirg 2 -fani 7
+cirg 6 -fani 9
+cirg 7 -fani 3
+cirg 9 -fani 5
+cirg 8 -fani 2
+cirg 8 -fani 9
+cirg 9 -fani 1
+cirg 9 -fani 10
+cirg 9 -fani 9
+cirr ../tests.fraig/opt02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 1
+cirg 2
+cirg 2
+cirg 1 -fani 5
+cirg 1 -fani 4
+cirg 2 -fani 4
+cirg 2 -fani 3
+cirg 1 -fani 4
+cirg 3 -fani 6
+cirg 3 -fani 6
+cirg 3 -fani 6
+cirg 3 -fani 2
+cirg 3 -fani 5
+cirr ../tests.fraig/sim09.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1007
+cirg 3267
+cirg 2860
+cirg 840
+cirg 6
+cirg 2796
+cirg 692
+cirg 3095
+cirg 3452
+cirg 1043
+cirg 2306
+cirg 811
+cirg 1293
+cirg 273 -fani 2645
+cirg 2468 -fani 1614
+cirg 2292 -fani 2902
+cirg 1745 -fani 1291
+cirg 3045 -fani 866
+cirg 2237 -fani 1006
+cirg 2472 -fani 611
+cirg 2306 -fani 765
+cirg 2978 -fani 455
+cirg 2 -fani 89
+cirg 2704 -fani 2986
+cirg 654 -fani 860
+cirg 2224 -fani 2765
+cirg 3561 -fani 1227
+cirg 3578 -fani 1193
+cirg 3471 -fani 2138
+cirg 3580 -fani 846
+cirg 3542 -fani 953
+cirg 3466 -fani 3143
+cirg 3498 -fani 3040
+cirg 3473 -fani 3357
+cirg 3488 -fani 1822
+cirg 3499 -fani 1582
+cirg 3513 -fani 517
+cirg 3483 -fani 2181
+cirg 3559 -fani 647
+cirr ../tests.fraig/strash08.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 5
+cirg 2
+cirg 5
+cirg 5
+cirg 4
+cirg 5 -fani 5
+cirg 2 -fani 1
+cirg 5 -fani 2
+cirg 4 -fani 1
+cirg 2 -fani 1
+cirg 6 -fani 5
+cirg 6 -fani 4
+cirg 6 -fani 2
+cirg 6 -fani 7
+cirg 6 -fani 6
+cirr ../tests.fraig/sim01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 8
+cirg 8
+cirg 2
+cirg 7
+cirg 1
+cirg 7
+cirg 4 -fani 12
+cirg 6 -fani 3
+cirg 3 -fani 16
+cirg 8 -fani 4
+cirg 5 -fani 2
+cirg 8 -fani 8
+cirg 9 -fani 10
+cirg 10 -fani 9
+cirg 10 -fani 11
+cirg 9 -fani 10
+cirg 10 -fani 10
+cirg 10 -fani 3
+cirr ../tests.fraig/sim04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 1
+cirg 1
+cirg 1
+cirg 1 -fani 1
+cirg 1 -fani 1
+cirg 1 -fani 3
+cirg 1 -fani 3
+cirg 2 -fani 1
+cirg 2 -fani 2
+cirg 2 -fani 1
+cirg 2 -fani 2
+cirr ../tests.fraig/strash06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 9
+cirg 1
+cirg 1
+cirg 3
+cirg 1
+cirg 3
+cirg 3 -fani 3
+cirg 3 -fani 12
+cirg 5 -fani 13
+cirg 7 -fani 3
+cirg 7 -fani 6
+cirg 10 -fani 10
+cirg 11 -fani 2
+cirg 11 -fani 10
+cirg 11 -fani 2
+cirg 11 -fani 10
+cirg 11 -fani 9
+cirg 11 -fani 7
+cirr ../tests.fraig/strash01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 7
+cirg 5
+cirg 4
+cirg 1
+cirg 7
+cirg 6
+cirg 7 -fani 7
+cirg 7 -fani 11
+cirg 4 -fani 8
+cirg 7 -fani 5
+cirg 6 -fani 5
+cirg 4 -fani 4
+cirg 9 -fani 10
+cirg 9 -fani 9
+cirg 9 -fani 8
+cirg 8 -fani 6
+cirg 9 -fani 5
+cirg 9 -fani 13
+cirr ../tests.fraig/strash03.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 7
+cirg 5
+cirg 7
+cirg 6
+cirg 3
+cirg 4 -fani 4
+cirg 7 -fani 1
+cirg 3 -fani 7
+cirg 5 -fani 11
+cirg 3 -fani 2
+cirg 3 -fani 1
+cirg 8 -fani 4
+cirg 9 -fani 10
+cirg 9 -fani 8
+cirg 9 -fani 4
+cirg 9 -fani 10
+cirg 9 -fani 5
+cirr ../tests.fraig/sim11.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 3
+cirg 4
+cirg 4
+cirg 3
+cirg 3
+cirg 4 -fani 7
+cirg 4 -fani 7
+cirg 4 -fani 2
+cirg 3 -fani 4
+cirg 3 -fani 6
+cirg 5 -fani 5
+cirg 5 -fani 5
+cirg 5 -fani 7
+cirg 6 -fani 4
+cirg 6 -fani 3
+cirr ../tests.fraig/sim10.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 40
+cirg 152
+cirg 172
+cirg 259
+cirg 110
+cirg 673
+cirg 430
+cirg 506
+cirg 723
+cirg 298
+cirg 171
+cirg 710 -fani 618
+cirg 734 -fani 70
+cirg 512 -fani 519
+cirg 570 -fani 682
+cirg 187 -fani 173
+cirg 622 -fani 601
+cirg 329 -fani 147
+cirg 179 -fani 75
+cirg 277 -fani 131
+cirg 602 -fani 321
+cirg 348 -fani 457
+cirg 753 -fani 15
+cirg 753 -fani 4
+cirg 753 -fani 325
+cirg 753 -fani 80
+cirg 753 -fani 92
+cirg 753 -fani 539
+cirg 753 -fani 310
+cirg 753 -fani 714
+cirg 753 -fani 600
+cirg 753 -fani 105
+cirg 753 -fani 288
+cirr ../tests.fraig/test1.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2582
+cirg 2330
+cirg 3069
+cirg 2296
+cirg 2275
+cirg 673
+cirg 1545
+cirg 1380
+cirg 2437
+cirg 2197
+cirg 2390
+cirg 2193
+cirg 1953 -fani 71
+cirg 103 -fani 957
+cirg 2474 -fani 1295
+cirg 2290 -fani 541
+cirg 388 -fani 1198
+cirg 3424 -fani 472
+cirg 666 -fani 449
+cirg 2628 -fani 968
+cirg 2643 -fani 1125
+cirg 1503 -fani 886
+cirg 2317 -fani 1040
+cirg 597 -fani 496
+cirg 3654 -fani 1289
+cirg 3591 -fani 1208
+cirg 3620 -fani 627
+cirg 3651 -fani 511
+cirg 3615 -fani 2
+cirg 3620 -fani 791
+cirg 3648 -fani 800
+cirg 3698 -fani 496
+cirg 3601 -fani 48
+cirg 3687 -fani 1209
+cirg 3602 -fani 1076
+cirg 3653 -fani 505
+cirr ../tests.fraig/sim13.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 38663
+cirg 5491
+cirg 27535
+cirg 64927
+cirg 57790
+cirg 23898
+cirg 13455
+cirg 304
+cirg 83975
+cirg 23232
+cirg 6533
+cirg 58512
+cirg 49732
+cirg 47294
+cirg 56127
+cirg 35795
+cirg 16095
+cirg 82274 -fani 61933
+cirg 69350 -fani 67338
+cirg 80190 -fani 49268
+cirg 58593 -fani 6504
+cirg 74639 -fani 38992
+cirg 27167 -fani 63646
+cirg 82055 -fani 10023
+cirg 49519 -fani 80704
+cirg 16005 -fani 4849
+cirg 57255 -fani 64901
+cirg 26023 -fani 90312
+cirg 20184 -fani 44946
+cirg 74378 -fani 4915
+cirg 66121 -fani 16198
+cirg 29904 -fani 86988
+cirg 56312 -fani 22766
+cirg 17536 -fani 91361
+cirg 86305 -fani 81849
+cirg 87597 -fani 17975
+cirg 85262 -fani 82340
+cirg 85208 -fani 8748
+cirg 86781 -fani 24359
+cirg 85411 -fani 61988
+cirg 86189 -fani 11683
+cirg 86614 -fani 41296
+cirg 85099 -fani 65422
+cirg 85395 -fani 54191
+cirg 85657 -fani 60568
+cirg 85445 -fani 37155
+cirg 87743 -fani 24005
+cirg 88263 -fani 75014
+cirg 88080 -fani 1650
+cirg 86137 -fani 16027
+cirg 86662 -fani 83702
+cirr ../tests.fraig/opt06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 7
+cirg 3
+cirg 1
+cirg 9
+cirg 4
+cirg 10
+cirg 10 -fani 13
+cirg 6 -fani 12
+cirg 3 -fani 5
+cirg 2 -fani 12
+cirg 14 -fani 2
+cirg 3 -fani 17
+cirg 15 -fani 14
+cirg 15 -fani 1
+cirg 15 -fani 4
+cirg 15 -fani 1
+cirg 15 -fani 2
+cirg 15 -fani 7
+cirr ../tests.fraig/sim08.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 7
+cirg 5
+cirg 6
+cirg 2
+cirg 1
+cirg 5
+cirg 3 -fani 10
+cirg 5 -fani 7
+cirg 6 -fani 4
+cirg 2 -fani 7
+cirg 2 -fani 4
+cirg 2 -fani 3
+cirg 10 -fani 2
+cirg 9 -fani 9
+cirg 10 -fani 2
+cirg 10 -fani 7
+cirg 10 -fani 1
+cirg 10 -fani 9
+cirr ../tests.fraig/sim06.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2556
+cirg 1680
+cirg 270
+cirg 1085
+cirg 1127
+cirg 1298
+cirg 2124
+cirg 1666
+cirg 1869
+cirg 1615
+cirg 1350
+cirg 2347
+cirg 2022
+cirg 592
+cirg 1974 -fani 7574
+cirg 972 -fani 7249
+cirg 61 -fani 7546
+cirg 1188 -fani 8514
+cirg 1780 -fani 5398
+cirg 3155 -fani 5164
+cirg 3706 -fani 8369
+cirg 1541 -fani 4924
+cirg 1784 -fani 2051
+cirg 2670 -fani 3137
+cirg 2959 -fani 1295
+cirg 28 -fani 1960
+cirg 1414 -fani 6028
+cirg 407 -fani 4984
+cirg 5782 -fani 2048
+cirg 5524 -fani 1142
+cirg 5852 -fani 4625
+cirg 4823 -fani 272
+cirg 5925 -fani 2849
+cirg 4585 -fani 583
+cirg 5651 -fani 4419
+cirg 5678 -fani 5602
+cirg 5607 -fani 3304
+cirg 5349 -fani 2091
+cirg 5972 -fani 282
+cirg 5626 -fani 6949
+cirg 6308 -fani 7062
+cirg 6354 -fani 1623
+cirr ../tests.fraig/opt05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 12
+cirg 10
+cirg 9
+cirg 12
+cirg 4
+cirg 12
+cirg 12
+cirg 7 -fani 16
+cirg 7 -fani 8
+cirg 8 -fani 22
+cirg 6 -fani 14
+cirg 9 -fani 11
+cirg 12 -fani 18
+cirg 7 -fani 23
+cirg 14 -fani 6
+cirg 15 -fani 12
+cirg 15 -fani 25
+cirg 15 -fani 11
+cirg 13 -fani 20
+cirg 13 -fani 2
+cirg 13 -fani 9
+cirr ../tests.fraig/strash10.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 3
+cirg 3
+cirg 3
+cirg 3 -fani 1
+cirg 3 -fani 5
+cirg 3 -fani 3
+cirg 2 -fani 4
+cirg 4 -fani 1
+cirg 4 -fani 1
+cirg 4 -fani 1
+cirg 4 -fani 4
+cirr ../tests.fraig/strash05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 7
+cirg 5
+cirg 5
+cirg 1
+cirg 7
+cirg 1
+cirg 6 -fani 8
+cirg 3 -fani 10
+cirg 5 -fani 12
+cirg 7 -fani 10
+cirg 5 -fani 5
+cirg 5 -fani 5
+cirg 10 -fani 7
+cirg 9 -fani 8
+cirg 10 -fani 13
+cirg 10 -fani 9
+cirg 9 -fani 11
+cirg 9 -fani 7
+cirr ../tests.fraig/sim14.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 656
+cirg 78
+cirg 374
+cirg 73
+cirg 716
+cirg 753
+cirg 427
+cirg 114
+cirg 63
+cirg 770
+cirg 581
+cirg 180 -fani 415
+cirg 708 -fani 200
+cirg 482 -fani 437
+cirg 213 -fani 691
+cirg 132 -fani 886
+cirg 699 -fani 273
+cirg 907 -fani 233
+cirg 806 -fani 882
+cirg 374 -fani 754
+cirg 268 -fani 187
+cirg 558 -fani 856
+cirg 928 -fani 707
+cirg 928 -fani 610
+cirg 928 -fani 890
+cirg 928 -fani 771
+cirg 928 -fani 229
+cirg 928 -fani 320
+cirg 928 -fani 315
+cirg 928 -fani 79
+cirg 928 -fani 97
+cirg 928 -fani 916
+cirg 928 -fani 693
+cirr ../tests.fraig/sim02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 7
+cirg 8
+cirg 2
+cirg 8
+cirg 8
+cirg 3
+cirg 4 -fani 5
+cirg 6 -fani 8
+cirg 3 -fani 15
+cirg 8 -fani 7
+cirg 8 -fani 16
+cirg 3 -fani 14
+cirg 10 -fani 5
+cirg 9 -fani 15
+cirg 10 -fani 5
+cirg 9 -fani 1
+cirg 10 -fani 1
+cirg 9 -fani 8
+cirr ../tests.fraig/opt04.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 2
+cirg 2
+cirg 2
+cirg 2 -fani 2
+cirg 2 -fani 4
+cirg 2 -fani 6
+cirg 2 -fani 5
+cirg 2 -fani 6
+cirg 3 -fani 4
+cirg 3 -fani 2
+cirg 3 -fani 2
+cirg 3 -fani 3
+cirg 3 -fani 1
+cirr ../tests.fraig/sim05.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 8
+cirg 10
+cirg 7
+cirg 7
+cirg 7
+cirg 9
+cirg 3 -fani 16
+cirg 3 -fani 1
+cirg 5 -fani 6
+cirg 12 -fani 8
+cirg 4 -fani 7
+cirg 10 -fani 13
+cirg 15 -fani 7
+cirg 15 -fani 11
+cirg 15 -fani 6
+cirg 15 -fani 17
+cirg 15 -fani 8
+cirg 15 -fani 4
+cirr ../tests.fraig/opt01.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 2
+cirg 2
+cirg 2
+cirg 1
+cirg 1
+cirg 2 -fani 5
+cirg 2 -fani 3
+cirg 2 -fani 4
+cirg 2 -fani 2
+cirg 1 -fani 1
+cirg 3 -fani 1
+cirg 3 -fani 2
+cirg 3 -fani 1
+cirg 3 -fani 5
+cirg 3 -fani 3
+cirr ../tests.fraig/strash02.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 1
+cirg 3
+cirg 1
+cirg 5
+cirg 7
+cirg 7
+cirg 5 -fani 12
+cirg 7 -fani 8
+cirg 4 -fani 2
+cirg 6 -fani 12
+cirg 6 -fani 6
+cirg 4 -fani 8
+cirg 9 -fani 13
+cirg 9 -fani 1
+cirg 9 -fani 7
+cirg 8 -fani 10
+cirg 8 -fani 5
+cirg 9 -fani 11
+cirr ../tests.fraig/sim07.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirg 8258
+cirg 8460
+cirg 5575
+cirg 7453
+cirg 7692
+cirg 762
+cirg 1592
+cirg 7167
+cirg 7864
+cirg 3421
+cirg 3849
+cirg 2990
+cirg 8372
+cirg 5662
+cirg 1959 -fani 1811
+cirg 9430 -fani 3413
+cirg 7281 -fani 6598
+cirg 4653 -fani 7267
+cirg 1540 -fani 4752
+cirg 5633 -fani 5348
+cirg 7670 -fani 1006
+cirg 9026 -fani 1256
+cirg 6827 -fani 3837
+cirg 1509 -fani 484
+cirg 6399 -fani 5936
+cirg 7343 -fani 71
+cirg 1154 -fani 9286
+cirg 8650 -fani 4508
+cirg 9476 -fani 7682
+cirg 9504 -fani 8653
+cirg 9584 -fani 7589
+cirg 9503 -fani 7979
+cirg 9513 -fani 5052
+cirg 9448 -fani 3675
+cirg 9636 -fani 9344
+cirg 9517 -fani 251
+cirg 9536 -fani 5519
+cirg 9545 -fani 9265
+cirg 9560 -fani 2103
+cirg 9582 -fani 900
+cirg 9582 -fani 2124
+cirg 9612 -fani 9198
+usage
+q -f

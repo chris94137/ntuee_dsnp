@@ -1,0 +1,19 @@
+cirr test.aag
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirwrite
+cirgate 236 -fanin 0
+cirgate 86 -fanin 27
+cirgate 146 -fanin 46
+cirgate 32 -fanin 11
+cirgate 125 -fanin 14
+cirgate 169 -fanin 9
+cirgate 372 -fanin 17
+cirgate 380 -fanin 24
+cirgate 203 -fanin 43
+cirgate 129 -fanin 34
+usage
+q -f

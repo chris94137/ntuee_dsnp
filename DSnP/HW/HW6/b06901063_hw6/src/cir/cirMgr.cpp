@@ -432,7 +432,7 @@ CirMgr::readCircuit(const string& fileName)
       ++Spos;
       if(Spos == wholeFile[i].size()) { errMsg = "symbolic name"; return parseError(MISSING_IDENTIFIER); }
       newPos = wholeFile[i].find_first_not_of(' ', Spos);
-      Spos = myStrGetTok(wholeFile[i], str, Spos);
+      str = wholeFile[i].substr(Spos);
       for(size_t j = 0; j < str.size(); ++j) if(!isprint(str[j])) { colNo += j + 1; errInt = int(str[j]); return parseError(ILLEGAL_SYMBOL_NAME); }
       colNo += str.size();
       // cerr << "gate_type: " << wholeFile[i][0] << endl;
@@ -594,38 +594,32 @@ CirMgr::printFloatGates() const
 void
 CirMgr::writeAag(ostream& outfile) const
 {
+   IdList idList;
+   CirGate::resetMark();
+   for(int i = header[1] + header[2]; i < header[1] + header[2] + header[3]; ++i)
+      gate_list[i]->dfs(idList);
    // header
-   int cnt = 0;
-   for(int i = 0; i < header[0] + header[3] + 1; ++i)
-   {
-      if(sorted_list[i] == 0) continue;
-      if(sorted_list[i]->getTypeInt() == AIG_GATE && !sorted_list[i]->is_unused()) ++cnt;
-   }
-   outfile << "aag " << header[0] << " " << header[1] << " " << header[2] << " " << header[3] << " " << cnt << endl;
-   cout << "aag " << header[0] << " " << header[1] << " " << header[2] << " " << header[3] << " " << cnt << endl;
+   outfile << "aag " << header[0] << " " << header[1] << " " << header[2] << " " << header[3] << " " << idList.size() << endl;
+   // cout << "aag " << header[0] << " " << header[1] << " " << header[2] << " " << header[3] << " " << cnt << endl;
    // PI and PO
    for(int i = 0; i < header[1] + header[2] + header[3]; ++i)
    {
       outfile << value[i].back();
       outfile << endl;
-      cout << value[i].back();
-      cout << endl;
+      // cout << value[i].back();
+      // cout << endl;
    }
    // AIG gate
-   IdList idList;
-   CirGate::resetMark();
-   for(int i = header[1] + header[2]; i < header[1] + header[2] + header[3]; ++i)
-      gate_list[i]->dfs(idList);
    for(size_t i = 0; i < idList.size(); ++i)
    {
       for(size_t j = 0; j < value[sorted_list[idList[i]]->getLineNo() - 2].size(); ++j)
       {
-         if(j != 0) { outfile << " "; cout << " "; }
+         if(j != 0) { outfile << " "; /*cout << " ";*/ }
          outfile << value[sorted_list[idList[i]]->getLineNo() - 2][j];
-         cout << value[sorted_list[idList[i]]->getLineNo() - 2][j];
+         // cout << value[sorted_list[idList[i]]->getLineNo() - 2][j];
       }
       outfile << endl;
-      cout << endl;
+      // cout << endl;
    }
    //symbol
    for(int i = 0; i < header[1]; ++i)
@@ -634,5 +628,5 @@ CirMgr::writeAag(ostream& outfile) const
    for(int i = header[1] + header[2]; i < header[1] + header[2] + header[3]; ++i)
       if(gate_list[i]->getSymbol().size())
          outfile << "o" << i - header[1] - header[2] << " " << gate_list[i]->getSymbol() << endl;
-   outfile << "c\nAAG output by Shih-Hao Huang" << endl; 
+   outfile << "c\nAAG output by Chung-Yang (Ric) Huang" << endl; 
 }

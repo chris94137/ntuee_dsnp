@@ -51,8 +51,21 @@ void
 CirGate::dfs(bool in, int level, int searched_level) const
 {
    cout << getTypeStr() << " " << getId();
-   if(is_marked() && searched_level != level && getTypeInt() != PI_GATE && getTypeInt() != CONST_GATE && searched_level != level) { cout << " (*)" << endl; return; }
+   // if(is_marked() && searched_level != level && getTypeInt() != PI_GATE && getTypeInt() != CONST_GATE) { cout << " (*)" << endl; return; }
+   // else cout << endl;
+   int count = 0;
+   bool no_dfs = false;
+   if(in)
+      for(int i = 0; i < 2; ++i)
+      {
+         if(!getIn(i)) continue;
+         ++count;
+      }
+   else count = _fanout.size();
+   if(!count) no_dfs = true;
+   if((!no_dfs) && is_marked() && getTypeInt() == AIG_GATE && searched_level != level) { cout << " (*)" << endl; return; }
    else cout << endl;
+
    if(searched_level == level) return;
    mark();
    
@@ -60,7 +73,7 @@ CirGate::dfs(bool in, int level, int searched_level) const
    {
       for(int i = 0; i < 2; ++i)
       {
-         if(!getIn(i)) continue; 
+         if(!getIn(i)) continue;
          for(int j = 0; j < searched_level + 1; ++j) cout << "  ";
          if(fanin_inv(i)) cout << "!";
          getIn(i)->dfs(in, level, searched_level + 1);

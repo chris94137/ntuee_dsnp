@@ -1,0 +1,33 @@
+#!/bin/zsh
+
+echo "================="
+echo making
+echo "================="
+make
+echo "================="
+echo running ref code
+echo "================="
+./ref/taskMgr-ref -f dofiles/do1 &> do1.ref
+./ref/taskMgr-ref -f dofiles/do2 &> do2.ref
+./ref/taskMgr-ref -f dofiles/do3 &> do3.ref
+echo "================="
+echo running your code
+echo "================="
+./taskMgr -f dofiles/do1 &> do1.mine
+./taskMgr -f dofiles/do2 &> do2.mine
+./taskMgr -f dofiles/do3 &> do3.mine
+echo "================="
+echo diff do1
+echo "================="
+colordiff do1.mine do1.ref
+echo "================="
+echo diff do2
+echo "================="
+colordiff do2.mine do2.ref
+echo "================="
+echo diff do3
+echo "================="
+colordiff do3.mine do3.ref
+echo "================="
+echo done
+echo "================="

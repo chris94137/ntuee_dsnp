@@ -1,0 +1,5 @@
+cirr tests.fraig/sim05.aag
+cirp -n
+ciropt
+cirp -n
+

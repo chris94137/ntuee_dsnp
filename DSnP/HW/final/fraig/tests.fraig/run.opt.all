@@ -1,0 +1,16 @@
+#!/bin/zsh
+
+echo "run opt 01"
+./run.opt 01
+echo "run opt 02"
+./run.opt 02
+echo "run opt 03"
+./run.opt 03
+echo "run opt 04"
+./run.opt 04
+echo "run opt 05"
+./run.opt 05
+echo "run opt 06"
+./run.opt 06
+echo "run opt 07"
+./run.opt 07
